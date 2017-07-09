@@ -1,0 +1,46 @@
+---
+layout: page
+bodyClass: irregularVerbsList
+title: Irregular verbs - List
+lang: de
+excerpt: Simplified list of the main irregular verbs
+---
+
+{% for praesensApophony in site.data.irregularVerbs.praesensApophonies %}
+<section class="apophonySection">
+  <h2 class="apophonyTitle">{{ praesensApophony.apophonyTitle }}</h2>
+
+  {% for verbGroup in site.data.irregularVerbs.verbGroups %}
+  {% assign currentVerbs = praesensApophony[verbGroup.id] %}
+  {% if currentVerbs %}
+    <section class="verbGroupSection">
+      <h3 class="verbGroupTitle">{{ verbGroup.title }}</h3>
+
+      <table>
+        <thead>
+          <tr>
+            <td class="infinitiv">Infinitif I</td>
+            <td class="praesens">Indikativ Präsens</td>
+            <td class="praeteritum">Indikativ Präteritum</td>
+            <td class="perfekt">Indikativ Perfekt</td>
+          </tr>
+        </thead>
+        <tbody>
+        {% for verb in currentVerbs %}
+          {% assign auxiliary = verb[3] | slice: 0, 3 %}
+          <tr class="{{ auxiliary }}Auxiliary">
+            <td class="infinitiv">{{ verb[0] }}</td>
+            <td class="praesens">{{ verb[1] }}</td>
+            <td class="praeteritum">{{ verb[2] }}</td>
+            <td class="perfekt">{{ verb[3] }}</td>
+          </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </section>
+  {% endif %}
+
+
+  {% endfor %}
+</section>
+{%endfor %}

@@ -1,0 +1,10 @@
+# Site settings
+title: Farbiges Deutsch
+description: Colourful playground for learning German
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://gianlucacosta.info/FarbigesDeutsch" # the base hostname & protocol for your site
+
+facebookPage: https://www.facebook.com/FarbigesDeutsch/
+
+# Build settings
+markdown: kramdown

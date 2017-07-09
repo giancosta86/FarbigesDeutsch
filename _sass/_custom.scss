@@ -1,0 +1,136 @@
+* {
+  box-sizing: border-box;
+}
+
+
+$linkColor: mediumvioletred;
+
+a,
+.site-nav .top-link {
+  color: $linkColor;
+
+  &:visited {
+    color: $linkColor;
+  }
+
+  &:hover {
+    color: lighten($linkColor, 10%);
+    text-decoration: none;
+  }
+}
+
+
+.site-header {
+  border-top: 0;
+  padding: 1em;
+
+  .site-title {
+    font-weight: bold;
+
+    span:nth-of-type(3n + 1) {
+      color: crimson;
+    }
+
+    span:nth-of-type(3n + 2) {
+      color: orange;
+    }
+
+
+    span:nth-of-type(3n) {
+      color: lightcoral;
+    }
+  }
+}
+
+
+.page-list {
+  li:nth-of-type(2n) a {
+    $color: royalblue;
+
+    color: $color;
+
+    &:visited {
+      color: $color;
+    }
+
+    &:hover {
+      color: lighten($color, 10%);
+    }
+  }
+
+  li:nth-of-type(2n + 1) a {
+    $color: darken(mediumseagreen, 5%);
+
+    color: $color;
+
+    &:visited {
+      color: $color;
+    }
+
+    &:hover {
+      color: lighten($color, 10%);
+    }
+  }
+}
+
+
+article {
+  h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 1.2em;
+    font-weight: bold;
+  }
+
+
+  h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: 1.2em;
+  }
+
+
+  section {
+    margin-bottom: 6.5em;
+  }
+
+
+  li {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+}
+
+
+footer {
+  text-align: center;
+}
+
+
+table.declension {
+  margin-bottom: 2em;
+
+  td {
+    text-align: center;
+  }
+
+  thead td,
+  .caseLabel {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+
+  .masculineLabel,
+  .feminineLabel,
+  .neuterLabel,
+  .caseLabel {
+    font-style: italic;
+  }
+
+  tbody td {
+    font-size: 1.5em;
+    width: 7em;
+    height: 2em;
+  }
+}

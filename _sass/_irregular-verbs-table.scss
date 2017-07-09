@@ -1,0 +1,152 @@
+.irregularVerbsTable {
+    $praesensApophonyTitleWidth: 15em;
+    $verbGroupWidth: 10em;
+    $verbGroupGap: 1em;
+    $tableBorder: 0.2em;
+
+
+    $aColor: yellow;
+    $eColor: orange;
+    $eiColor: salmon;
+    $iColor: mediumspringgreen;
+    $ieColor: lavenderblush;
+    $oColor: lightskyblue;
+    $uColor: lighten(orchid, 10%);    
+
+
+    a {
+      color: black;
+
+      &:hover {
+        color: black;
+      }
+    }
+
+    .wrapper {
+      max-width: none;
+      width: 165em;
+    }
+
+
+    .verbGroupHeaders {
+      margin-left: $praesensApophonyTitleWidth + 2 * $tableBorder;
+    }
+
+
+    .verbGroupHeader {
+      display: inline-block;
+      font-weight: bold;
+      border-radius: 2em;
+    }
+
+    .verbGroupHeader,
+    .verb {
+      width: $verbGroupWidth;
+      height: 3em;
+      text-align: center;
+      margin-top: 1em;
+      margin-bottom: 1em;
+      padding: 1em;
+      padding-top: 0.7em;
+      font-size: 1em;
+      border-radius: 2em;
+    }
+
+    .verb {
+      cursor: pointer;
+    }
+
+    .praesensApophonyBand {
+      border: $tableBorder solid black;
+      border-bottom: 0;
+
+      &:last-child {
+        border-bottom: $tableBorder solid black;
+      }
+    }
+
+
+    .praesensApophonyTitle {
+      display: inline-block;
+      font-weight: bold;
+      width: $praesensApophonyTitleWidth;
+      vertical-align: top;
+      padding: 1em;
+      padding-top: 3em;
+    }
+
+
+    .verbGroupColumn {
+      display: inline-block;
+      vertical-align: top;
+    }
+
+
+    .verb {
+      display: block;
+    }
+
+
+
+    .istAuxiliary {
+      font-style: italic;
+    }
+
+    .a_a {
+      background: $aColor;
+    }
+
+
+    .a_e {
+      background: linear-gradient(to right, $aColor, $eColor);
+    }
+
+    .a_o {
+      background: linear-gradient(to right, $aColor, $oColor);
+    }
+
+    .a_u {
+      background: linear-gradient(to right, $aColor, $uColor);
+    }
+
+
+    .i_a {
+      background: linear-gradient(to right, $iColor, $aColor);
+    }
+
+    .i_i {
+      background: $iColor;
+    }
+
+    .ie_a {
+      background: linear-gradient(to right, $ieColor, $aColor);
+    }
+
+    .ie_ei {
+      background: linear-gradient(to right, $ieColor, $eiColor);
+    }
+
+    .ie_ie {
+      background: $ieColor;
+    }
+
+    .ie_o {
+      background: linear-gradient(to right, $ieColor, $oColor);
+    }
+
+    .ie_u {
+      background: linear-gradient(to right, $ieColor, $uColor);
+    }
+
+    .o_o {
+      background: $oColor;
+    }
+
+    .u_a {
+      background: linear-gradient(to right, $uColor, $aColor);
+    }
+
+    .u_u {
+      background: $uColor;
+    }
+}

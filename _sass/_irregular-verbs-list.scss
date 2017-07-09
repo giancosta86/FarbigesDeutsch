@@ -1,0 +1,64 @@
+.irregularVerbsList {
+
+  thead {
+    font-weight: bold;
+  }
+
+  td {
+    text-align: center;
+  }
+
+
+  .apophonySection {
+    margin-bottom: 5em;
+  }
+
+  .apophonyTitle {
+    margin-bottom: 1.5em;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .verbGroupSection {
+    margin-bottom: 3em;
+  }
+
+  .verbGroupTitle {
+    font-weight: bold;
+    margin-bottom: 1em;
+  }
+
+
+  table {
+    border: 1px solid black;
+  }
+
+  td {
+    border: 1px solid black;
+    padding: 0.7em;
+  }
+
+  .istAuxiliary {
+    font-style: italic;
+  }
+
+
+  .infinitiv {
+    background: lemonchiffon;
+  }
+
+
+  .praesens {
+    background: lighten(cornflowerblue, 25%);
+  }
+
+
+  .praeteritum {
+    background: lighten(palegreen, 10%);
+  }
+
+
+  .perfekt {
+    background: lighten(plum, 10%);
+  }
+}

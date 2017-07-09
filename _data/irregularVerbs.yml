@@ -1,0 +1,901 @@
+verbGroups:
+  -
+    id: a_a
+    title: -> a / a
+
+  -
+    id: a_e
+    title: -> a / e
+
+  -
+    id: a_o
+    title: -> a / o
+
+  -
+    id: a_u
+    title: -> a / u
+
+  -
+    id: i_a
+    title: -> i / a
+
+  -
+    id: i_i
+    title: -> i / i
+
+  -
+    id: ie_a
+    title: -> ie / a
+
+  -
+    id: ie_ei
+    title: -> ie / ei
+
+  -
+    id: ie_ie
+    title: -> ie / ie
+
+  -
+    id: ie_o
+    title: -> ie / o
+
+  -
+    id: ie_u
+    title: -> ie / u
+
+  -
+    id: o_o
+    title: -> o / o
+
+  -
+    id: u_a
+    title: -> u / a
+
+  -
+    id: u_u
+    title: -> u / u
+
+
+
+praesensApophonies:
+  -
+    apophonyTitle: (no apophony @ Präsens)
+
+    a_a:
+      -
+        - Brennen
+        - brennt
+        - brannte
+        - hat gebrannt
+
+      -
+        - Bringen
+        - bringt
+        - brachte
+        - hat gebracht
+
+      -
+        - Denken
+        - denkt
+        - dachte
+        - hat gedacht
+
+      -
+        - Kennen
+        - kennt
+        - kannte
+        - hat gekannt
+
+      -
+        - Nennen
+        - nennt
+        - nannte
+        - hat genannt
+
+      -
+        - Rennen
+        - rennt
+        - rannte
+        - ist gerannt
+
+      -
+        - Senden
+        - sendet
+        - sandte
+        - hat gesandt
+
+      -
+        - Stehen
+        - steht
+        - stand
+        - hat gestanden
+
+      -
+        - Tun
+        - tut
+        - tat
+        - hat getan
+
+      -
+        - Wenden
+        - wendet
+        - wandte
+        - hat gewandt
+
+
+    a_e:
+      -
+        - Bitten
+        - bittet
+        - bat
+        - hat gebeten
+
+      -
+        - Liegen
+        - liegt
+        - lag
+        - hat gelegen
+
+      -
+        - Sitzen
+        - sitzt
+        - saß
+        - hat gesessen
+
+    a_o:
+      -
+        - Beginnen
+        - beginnt
+        - begann
+        - hat begonnen
+
+      -
+        - Gewinnen
+        - gewinnt
+        - gewann
+        - hat gewonnen
+
+      -
+        - Kommen
+        - kommt
+        - kam
+        - ist gekommen
+
+      -
+        - Schwimmen
+        - schwimmt
+        - schwamm
+        - ist geschwommen
+
+
+    a_u:
+      -
+        - Binden
+        - bindet
+        - band
+        - hat gebunden
+
+      -
+        - Eindringen
+        - dringt ein
+        - drang ein
+        - ist eingedrungen
+
+      -
+        - Empfinden
+        - empfindet
+        - empfand
+        - hat empfunden
+
+      -
+        - Finden
+        - findet
+        - fand
+        - hat gefunden
+
+      -
+        - Gelingen
+        - gelingt
+        - gelang
+        - ist gelungen
+
+      -
+        - Klingen
+        - klingt
+        - klang
+        - hat geklungen
+
+      -
+        - Singen
+        - singt
+        - sang
+        - hat gesungen
+
+      -
+        - Sinken
+        - sinkt
+        - sank
+        - ist gesunken
+
+      -
+        - Springen
+        - springt
+        - sprang
+        - ist gesprungen
+
+      -
+        - Stinken
+        - stinkt
+        - stank
+        - hat gestunken
+
+      -
+        - Trinken
+        - trinkt
+        - trank
+        - hat getrunken
+
+      -
+        - Verschwinden
+        - verschwindet
+        - verschwand
+        - ist verschwunden
+
+      -
+        - Zwingen
+        - zwingt
+        - zwang
+        - hat gezwungen
+
+
+    i_a:
+      -
+        - Gehen
+        - geht
+        - ging
+        - ist gegangen
+
+      -
+        - Hängen
+        - hängt
+        - hing
+        - hat gehangen
+
+
+    i_i:
+
+      -
+        - Beißen
+        - beißt
+        - biss
+        - hat gebissen
+
+      -
+        - Gleichen
+        - gleicht
+        - glich
+        - hat geglichen
+
+      -
+        - Gleiten
+        - gleitet
+        - glitt
+        - ist geglitten
+
+      -
+        - Greifen
+        - greift
+        - griff
+        - hat gegriffen
+
+      -
+        - Leiden
+        - leidet
+        - litt
+        - hat gelitten
+
+      -
+        - Pfeifen
+        - pfeift
+        - pfiff
+        - hat gepfiffen
+
+      -
+        - Reißen
+        - reißt
+        - riss
+        - hat gerissen
+
+      -
+        - Reiten
+        - reitet
+        - ritt
+        - ist geritten
+
+      -
+        - Schleichen
+        - schleicht
+        - schlich
+        - ist geschlichen
+
+      -
+        - Schmeißen
+        - schmeißt
+        - schmiss
+        - hat geschmissen
+
+      -
+        - Schneiden
+        - schneidet
+        - schnitt
+        - hat geschnitten
+
+      -
+        - Streichen
+        - streicht
+        - strich
+        - hat gestrichen
+
+      -
+        - Streiten
+        - streitet
+        - stritt
+        - hat gestritten
+
+      -
+        - Weichen
+        - weicht
+        - wich
+        - ist gewichen
+
+
+    ie_ei:
+      -
+        - Heißen
+        - heißt
+        - hieß
+        - hat geheißen
+
+
+
+    ie_ie:
+      -
+        - Bleiben
+        - bleibt
+        - blieb
+        - ist geblieben
+
+      -
+        - Leihen
+        - leiht
+        - lieh
+        - hat geliehen
+
+      -
+        - Meiden
+        - meidet
+        - mied
+        - hat gemieden
+
+      -
+        - Reiben
+        - reibt
+        - rieb
+        - hat gerieben
+
+      -
+        - Scheinen
+        - scheint
+        - schien
+        - hat geschienen
+
+      -
+        - Schreiben
+        - schreibt
+        - schrieb
+        - hat geschrieben
+
+      -
+        - Schreien
+        - schreit
+        - schrie
+        - hat geschrien
+
+      -
+        - Schweigen
+        - schweigt
+        - schwieg
+        - hat geschwiegen
+
+      -
+        - Steigen
+        - steigt
+        - stieg
+        - ist gestiegen
+
+      -
+        - Treiben
+        - treibt
+        - trieb
+        - hat getrieben
+
+      -
+        - Verzeihen
+        - verzeiht
+        - verzieh
+        - hat verziehen
+
+      -
+        - Weisen
+        - weist
+        - wies
+        - hat gewiesen
+
+
+    ie_u:
+      -
+        - Rufen
+        - ruft
+        - rief
+        - hat gerufen
+
+    o_o:
+      -
+        - Betrügen
+        - betrügt
+        - betrog
+        - hat betrogen
+
+      -
+        - Bewegen
+        - bewegt
+        - bewog
+        - hat bewogen
+
+      -
+        - Biegen
+        - biegt
+        - bog
+        - hat gebogen
+
+      -
+        - Bieten
+        - bietet
+        - bot
+        - hat geboten
+
+      -
+        - Erwägen
+        - erwägt
+        - erwog
+        - hat erwogen
+
+      -
+        - Fliegen
+        - fliegt
+        - flog
+        - ist geflogen
+
+      -
+        - Fliehen
+        - flieht
+        - floh
+        - ist geflohen
+
+      -
+        - Fließen
+        - fließt
+        - floss
+        - ist geflossen
+
+      -
+        - Frieren
+        - friert
+        - fror
+        - ist gefroren
+
+      -
+        - Genießen
+        - genießt
+        - genoss
+        - hat genossen
+
+      -
+        - Gießen
+        - gießt
+        - goss
+        - hat gegossen
+
+      -
+        - Heben
+        - hebt
+        - hob
+        - hat gehoben
+
+      -
+        - Kriechen
+        - kriecht
+        - kroch
+        - ist gekrochen
+
+      -
+        - Lügen
+        - lügt
+        - log
+        - hat gelogen
+
+      -
+        - Riechen
+        - riecht
+        - roch
+        - hat gerochen
+
+      -
+        - Schieben
+        - schiebt
+        - schob
+        - hat geschoben
+
+      -
+        - Schießen
+        - schießt
+        - schoss
+        - hat geschossen
+
+      -
+        - Schließen
+        - schließt
+        - schloss
+        - hat geschlossen
+
+      -
+        - Schwören
+        - schwört
+        - schwor
+        - hat geschworen
+
+      -
+        - Verlieren
+        - verliert
+        - verlor
+        - hat verloren
+
+      -
+        - Wiegen
+        - wiegt
+        - wog
+        - hat gewogen
+
+      -
+        - Ziehen
+        - zieht
+        - zog
+        - hat gezogen
+
+
+    u_a:
+      -
+        - Schaffen
+        - schafft
+        - schuf
+        - hat geschaffen
+
+
+  -
+    apophonyTitle: -> ä @ Präsens
+
+    i_a:
+      -
+        - Empfangen
+        - empfängt
+        - empfing
+        - hat empfangen
+
+      -
+        - Fangen
+        - fängt
+        - fing
+        - hat gefangen
+
+    ie_a:
+      -
+        - Blasen
+        - bläst
+        - blies
+        - hat geblasen
+
+      -
+        - Braten
+        - brät
+        - briet
+        - hat gebraten
+
+      -
+        - Fallen
+        - fällt
+        - fiel
+        - ist gefallen
+
+
+      -
+        - Geraten
+        - gerät
+        - geriet
+        - ist geraten
+
+      -
+        - Halten
+        - hält
+        - hielt
+        - hat gehalten
+
+      -
+        - Lassen
+        - lässt
+        - ließ
+        - hat gelassen
+
+      -
+        - Laufen
+        - läuft
+        - lief
+        - ist gelaufen
+
+      -
+        - Raten
+        - rät
+        - riet
+        - hat geraten
+
+      -
+        - Schlafen
+        - schläft
+        - schlief
+        - hat geschlafen
+
+
+    u_a:
+      -
+        - Backen
+        - bäckt
+        - buk
+        - hat gebacken
+
+      -
+        - Fahren
+        - fährt
+        - fuhr
+        - ist gefahren
+
+      -
+        - Graben
+        - gräbt
+        - grub
+        - hat gegraben
+
+      -
+        - Laden
+        - lädt
+        - lud
+        - hat geladen
+
+      -
+        - Schlagen
+        - schlägt
+        - schlug
+        - hat geschlagen
+
+      -
+        - Tragen
+        - trägt
+        - trug
+        - hat getragen
+
+      -
+        - Wachsen
+        - wächst
+        - wuchs
+        - ist gewachsen
+
+      -
+        - Waschen
+        - wäscht
+        - wusch
+        - hat gewaschen
+
+
+  -
+    apophonyTitle: -> ei @ Präsens
+
+    u_u:
+      -
+        - Wissen
+        - weiß
+        - wusste
+        - hat gewusst
+
+
+  -
+    apophonyTitle: -> i @ Präsens
+
+    a_e:
+      -
+        - Essen
+        - isst
+        - aß
+        - hat gegessen
+
+      -
+        - Fressen
+        - frisst
+        - fraß
+        - hat gefressen
+
+      -
+        - Geben
+        - gibt
+        - gab
+        - hat gegeben
+
+      -
+        - Messen
+        - misst
+        - maß
+        - hat gemessen
+
+      -
+        - Treten
+        - tritt
+        - trat
+        - hat getreten
+
+      -
+        - Vergessen
+        - vergisst
+        - vergaß
+        - hat vergessen
+
+    a_o:
+      -
+        - Brechen
+        - bricht
+        - brach
+        - hat gebrochen
+
+      -
+        - Erschrecken
+        - erschrickt
+        - erschrak
+        - ist erschrocken
+
+      -
+        - Gelten
+        - gilt
+        - galt
+        - hat gegolten
+
+      -
+        - Helfen
+        - hilft
+        - half
+        - hat geholfen
+
+      -
+        - Nehmen
+        - nimmt
+        - nahm
+        - hat genommen
+
+      -
+        - Sprechen
+        - spricht
+        - sprach
+        - hat gesprochen
+
+      -
+        - Stechen
+        - sticht
+        - stach
+        - hat gestochen
+
+      -
+        - Sterben
+        - stirbt
+        - starb
+        - ist gestorben
+
+      -
+        - Treffen
+        - trifft
+        - traf
+        - hat getroffen
+
+      -
+        - Verderben
+        - verdirbt
+        - verdarb
+        - hat verdorben
+
+      -
+        - Werben
+        - wirbt
+        - warb
+        - hat geworben
+
+      -
+        - Werfen
+        - wirft
+        - warf
+        - hat geworfen
+
+
+    o_o:
+      -
+        - Erlöschen
+        - erlischt
+        - erlosch
+        - ist erloschen
+
+      -
+        - Schmelzen
+        - schmilzt
+        - schmolz
+        - ist geschmolzen
+
+      -
+        - Schwellen
+        - schwillt
+        - schwoll
+        - ist geschwollen
+
+  -
+    apophonyTitle: -> ie @ Präsens
+
+    a_e:
+      -
+        - Geschehen
+        - geschieht
+        - geschah
+        - ist geschehen
+
+      -
+        - Lesen
+        - liest
+        - las
+        - hat gelesen
+
+      -
+        - Sehen
+        - sieht
+        - sah
+        - hat gesehen
+
+    a_o:
+
+      -
+        - Befehlen
+        - befiehlt
+        - befahl
+        - hat befohlen
+
+      -
+        - Empfehlen
+        - empfiehlt
+        - empfahl
+        - hat empfohlen
+
+      -
+        - Stehlen
+        - stiehlt
+        - stahl
+        - hat gestohlen
+
+  -
+    apophonyTitle: -> ö @ Präsens
+
+    ie_o:
+      -
+        - Stoßen
+        - stößt
+        - stieß
+        - hat gestoßen
