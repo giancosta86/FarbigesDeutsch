@@ -4,20 +4,12 @@ layout: default
 
 <div class="home">
   <ul class="page-list">
+    {% for page in site.pages %}
+    {% if page.url != "/about/" %}
     <li>
-      <a class="page-link" href="articles.html">Articles</a>
+      <a class="page-link" href="{{ page.url }}">{{ page.title }}</a>
     </li>
-
-    <li>
-      <a class="page-link" href="adjective-declensions.html">Adjective declensions</a>
-    </li>
-
-    <li>
-      <a class="page-link" href="irregular-verbs-table.html">Irregular verbs - Periodic table</a>
-    </li>
-
-    <li>
-      <a class="page-link" href="irregular-verbs-list.html">Irregular verbs - List</a>
-    </li>
+    {% endif %}
+    {% endfor %}
   </ul>
 </div>
