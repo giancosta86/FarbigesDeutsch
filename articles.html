@@ -18,25 +18,7 @@ excerpt: Articles and their declension
   <h2>Definite article</h2>
 
   {% include declension.html
-    nominativeSingularMasculine="der"
-    accusativeSingularMasculine="den"
-    dativeSingularMasculine="dem"
-    genitiveSingularMasculine="des"
-
-    nominativeSingularNeuter="das"
-    accusativeSingularNeuter="das"
-    dativeSingularNeuter="dem"
-    genitiveSingularNeuter="des"
-
-    nominativeSingularFeminine="die"
-    accusativeSingularFeminine="die"
-    dativeSingularFeminine="der"
-    genitiveSingularFeminine="der"
-
-    nominativePlural="die"
-    accusativePlural="die"
-    dativePlural="den"
-    genitivePlural="der"
+    declension=site.data.articles.der
     %}
 </section>
 
@@ -45,25 +27,7 @@ excerpt: Articles and their declension
   <h2>Indefinite article</h2>
 
   {% include declension.html
-    nominativeSingularMasculine="ein"
-    accusativeSingularMasculine="einen"
-    dativeSingularMasculine="einem"
-    genitiveSingularMasculine="eines"
-
-    nominativeSingularNeuter="ein"
-    accusativeSingularNeuter="ein"
-    dativeSingularNeuter="einem"
-    genitiveSingularNeuter="eines"
-
-    nominativeSingularFeminine="eine"
-    accusativeSingularFeminine="eine"
-    dativeSingularFeminine="einer"
-    genitiveSingularFeminine="einer"
-
-    nominativePlural=""
-    accusativePlural=""
-    dativePlural=""
-    genitivePlural=""
+    declension=site.data.articles.ein
     %}
 </section>
 
@@ -72,25 +36,7 @@ excerpt: Articles and their declension
   <h2>Negative article</h2>
 
   {% include declension.html
-    nominativeSingularMasculine="kein"
-    accusativeSingularMasculine="keinen"
-    dativeSingularMasculine="keinem"
-    genitiveSingularMasculine="keines"
-
-    nominativeSingularNeuter="kein"
-    accusativeSingularNeuter="kein"
-    dativeSingularNeuter="keinem"
-    genitiveSingularNeuter="keines"
-
-    nominativeSingularFeminine="keine"
-    accusativeSingularFeminine="keine"
-    dativeSingularFeminine="keiner"
-    genitiveSingularFeminine="keiner"
-
-    nominativePlural="keine"
-    accusativePlural="keine"
-    dativePlural="keinen"
-    genitivePlural="keiner"
+    declension=site.data.articles.kein
     %}
 </section>
 
@@ -99,158 +45,27 @@ excerpt: Articles and their declension
   <h2>Possessive articles</h2>
 
   {% include declension.html
-    nominativeSingularMasculine="mein"
-    accusativeSingularMasculine="meinen"
-    dativeSingularMasculine="meinem"
-    genitiveSingularMasculine="meines"
+    declension=site.data.articles.mein
+    %}
 
-    nominativeSingularNeuter="mein"
-    accusativeSingularNeuter="mein"
-    dativeSingularNeuter="meinem"
-    genitiveSingularNeuter="meines"
+  {% include declension.html
+    declension=site.data.articles.dein
+    %}
 
-    nominativeSingularFeminine="meine"
-    accusativeSingularFeminine="meine"
-    dativeSingularFeminine="meiner"
-    genitiveSingularFeminine="meiner"
-
-    nominativePlural="meine"
-    accusativePlural="meine"
-    dativePlural="meinen"
-    genitivePlural="meiner"
+  {% include declension.html
+    declension=site.data.articles.sein
     %}
 
 
-    {% include declension.html
-      nominativeSingularMasculine="dein"
-      accusativeSingularMasculine="deinen"
-      dativeSingularMasculine="deinem"
-      genitiveSingularMasculine="deines"
+  {% include declension.html
+    declension=site.data.articles.ihr
+    %}
 
-      nominativeSingularNeuter="dein"
-      accusativeSingularNeuter="dein"
-      dativeSingularNeuter="deinem"
-      genitiveSingularNeuter="deines"
+  {% include declension.html
+    declension=site.data.articles.unser
+    %}
 
-      nominativeSingularFeminine="deine"
-      accusativeSingularFeminine="deine"
-      dativeSingularFeminine="deiner"
-      genitiveSingularFeminine="deiner"
-
-      nominativePlural="deine"
-      accusativePlural="deine"
-      dativePlural="deinen"
-      genitivePlural="deiner"
-      %}
-
-      {% include declension.html
-        nominativeSingularMasculine="sein"
-        accusativeSingularMasculine="seinen"
-        dativeSingularMasculine="seinem"
-        genitiveSingularMasculine="seines"
-
-        nominativeSingularNeuter="sein"
-        accusativeSingularNeuter="sein"
-        dativeSingularNeuter="seinem"
-        genitiveSingularNeuter="seines"
-
-        nominativeSingularFeminine="seine"
-        accusativeSingularFeminine="seine"
-        dativeSingularFeminine="seiner"
-        genitiveSingularFeminine="seiner"
-
-        nominativePlural="seine"
-        accusativePlural="seine"
-        dativePlural="seinen"
-        genitivePlural="seiner"
-        %}
-
-        {% include declension.html
-          nominativeSingularMasculine="ihr"
-          accusativeSingularMasculine="ihren"
-          dativeSingularMasculine="ihrem"
-          genitiveSingularMasculine="ihres"
-
-          nominativeSingularNeuter="ihr"
-          accusativeSingularNeuter="ihr"
-          dativeSingularNeuter="ihrem"
-          genitiveSingularNeuter="ihres"
-
-          nominativeSingularFeminine="ihre"
-          accusativeSingularFeminine="ihre"
-          dativeSingularFeminine="ihrer"
-          genitiveSingularFeminine="ihrer"
-
-          nominativePlural="ihre"
-          accusativePlural="ihre"
-          dativePlural="ihren"
-          genitivePlural="ihrer"
-          %}
-
-
-          {% include declension.html
-            nominativeSingularMasculine="unser"
-            accusativeSingularMasculine="unseren"
-            dativeSingularMasculine="unserem"
-            genitiveSingularMasculine="unseres"
-
-            nominativeSingularNeuter="unser"
-            accusativeSingularNeuter="unser"
-            dativeSingularNeuter="unserem"
-            genitiveSingularNeuter="unseres"
-
-            nominativeSingularFeminine="unsere"
-            accusativeSingularFeminine="unsere"
-            dativeSingularFeminine="unserer"
-            genitiveSingularFeminine="unserer"
-
-            nominativePlural="unsere"
-            accusativePlural="unsere"
-            dativePlural="unseren"
-            genitivePlural="unserer"
-            %}
-
-            {% include declension.html
-              nominativeSingularMasculine="euer"
-              accusativeSingularMasculine="euren"
-              dativeSingularMasculine="eurem"
-              genitiveSingularMasculine="eures"
-
-              nominativeSingularNeuter="euer"
-              accusativeSingularNeuter="euer"
-              dativeSingularNeuter="eurem"
-              genitiveSingularNeuter="eures"
-
-              nominativeSingularFeminine="eure"
-              accusativeSingularFeminine="eure"
-              dativeSingularFeminine="eurer"
-              genitiveSingularFeminine="eurer"
-
-              nominativePlural="eure"
-              accusativePlural="eure"
-              dativePlural="euren"
-              genitivePlural="eurer"
-              %}
-
-              {% include declension.html
-                nominativeSingularMasculine="Ihr"
-                accusativeSingularMasculine="Ihren"
-                dativeSingularMasculine="Ihrem"
-                genitiveSingularMasculine="Ihres"
-
-                nominativeSingularNeuter="Ihr"
-                accusativeSingularNeuter="Ihr"
-                dativeSingularNeuter="Ihrem"
-                genitiveSingularNeuter="Ihres"
-
-                nominativeSingularFeminine="Ihre"
-                accusativeSingularFeminine="Ihre"
-                dativeSingularFeminine="Ihrer"
-                genitiveSingularFeminine="Ihrer"
-
-                nominativePlural="Ihre"
-                accusativePlural="Ihre"
-                dativePlural="Ihren"
-                genitivePlural="Ihrer"
-                %}
+  {% include declension.html
+    declension=site.data.articles.euer
+    %}  
 </section>

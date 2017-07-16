@@ -1,0 +1,233 @@
+der:
+  masculine:
+    nominative: der
+    accusative: den
+    dative: dem
+    genitive: des
+
+  neuter:
+    nominative: das
+    accusative: das
+    dative: dem
+    genitive: des
+
+  feminine:
+    nominative: die
+    accusative: die
+    dative: der
+    genitive: der
+
+  plural:
+    nominative: die
+    accusative: die
+    dative: den
+    genitive: der
+
+
+ein:
+  masculine:
+    nominative: ein
+    accusative: einen
+    dative: einem
+    genitive: eines
+
+  neuter:
+    nominative: ein
+    accusative: ein
+    dative: einem
+    genitive: eines
+
+  feminine:
+    nominative: eine
+    accusative: eine
+    dative: einer
+    genitive: einer
+
+  plural:
+    nominative:
+    accusative:
+    dative:
+    genitive:
+
+
+kein:
+  masculine:
+    nominative: kein
+    accusative: keinen
+    dative: keinem
+    genitive: keines
+
+  neuter:
+    nominative: kein
+    accusative: kein
+    dative: keinem
+    genitive: keines
+
+  feminine:
+    nominative: keine
+    accusative: keine
+    dative: keiner
+    genitive: keiner
+
+  plural:
+    nominative: keine
+    accusative: keine
+    dative: keinen
+    genitive: keiner
+
+
+
+mein:
+  masculine:
+    nominative: mein
+    accusative: meinen
+    dative: meinem
+    genitive: meines
+
+  neuter:
+    nominative: mein
+    accusative: mein
+    dative: meinem
+    genitive: meines
+
+  feminine:
+    nominative: meine
+    accusative: meine
+    dative: meiner
+    genitive: meiner
+
+  plural:
+    nominative: meine
+    accusative: meine
+    dative: meinen
+    genitive: meiner
+
+
+dein:
+  masculine:
+    nominative: dein
+    accusative: deinen
+    dative: deinem
+    genitive: deines
+
+  neuter:
+    nominative: dein
+    accusative: dein
+    dative: deinem
+    genitive: deines
+
+  feminine:
+    nominative: deine
+    accusative: deine
+    dative: deiner
+    genitive: deiner
+
+  plural:
+    nominative: deine
+    accusative: deine
+    dative: deinen
+    genitive: deiner
+
+
+sein:
+  masculine:
+    nominative: sein
+    accusative: seinen
+    dative: seinem
+    genitive: seines
+
+  neuter:
+    nominative: sein
+    accusative: sein
+    dative: seinem
+    genitive: seines
+
+  feminine:
+    nominative: seine
+    accusative: seine
+    dative: seiner
+    genitive: seiner
+
+  plural:
+    nominative: seine
+    accusative: seine
+    dative: seinen
+    genitive: seiner
+
+
+ihr:
+  masculine:
+    nominative: ihr
+    accusative: ihren
+    dative: ihrem
+    genitive: ihres
+
+  neuter:
+    nominative: ihr
+    accusative: ihr
+    dative: ihrem
+    genitive: ihres
+
+  feminine:
+    nominative: ihre
+    accusative: ihre
+    dative: ihrer
+    genitive: ihrer
+
+  plural:
+    nominative: ihre
+    accusative: ihre
+    dative: ihren
+    genitive: ihrer
+
+
+unser:
+  masculine:
+    nominative: unser
+    accusative: unseren
+    dative: unserem
+    genitive: unseres
+
+  neuter:
+    nominative: unser
+    accusative: unser
+    dative: unserem
+    genitive: unseres
+
+  feminine:
+    nominative: unsere
+    accusative: unsere
+    dative: unserer
+    genitive: unserer
+
+  plural:
+    nominative: unsere
+    accusative: unsere
+    dative: unseren
+    genitive: unserer
+
+
+euer:
+  masculine:
+    nominative: euer
+    accusative: euren
+    dative: eurem
+    genitive: eures
+
+  neuter:
+    nominative: euer
+    accusative: euer
+    dative: eurem
+    genitive: eures
+
+  feminine:
+    nominative: eure
+    accusative: eure
+    dative: eurer
+    genitive: eurer
+
+  plural:
+    nominative: eure
+    accusative: eure
+    dative: euren
+    genitive: eurer
