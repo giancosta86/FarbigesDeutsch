@@ -1,0 +1,77 @@
+weak:
+  masculine:
+    nominative: -e
+    accusative: -en
+    dative: -en
+    genitive: -en
+
+  neuter:
+    nominative: -e
+    accusative: -e
+    dative: -en
+    genitive: -en
+
+  feminine:
+    nominative: -e
+    accusative: -e
+    dative: -en
+    genitive: -en
+
+  plural:
+    nominative: -en
+    accusative: -en
+    dative: -en
+    genitive: -en
+
+
+mixed:
+  masculine:
+    nominative: -er
+    accusative: -en
+    dative: -en
+    genitive: -en
+
+  neuter:
+    nominative: -es
+    accusative: -es
+    dative: -en
+    genitive: -en
+
+  feminine:
+    nominative: -e
+    accusative: -e
+    dative: -en
+    genitive: -en
+
+  plural:
+    nominative: -en
+    accusative: -en
+    dative: -en
+    genitive: -en
+
+
+
+strong:
+  masculine:
+    nominative: -er
+    accusative: -en
+    dative: -em
+    genitive: -en
+
+  neuter:
+    nominative: -es
+    accusative: -es
+    dative: -em
+    genitive: -en
+
+  feminine:
+    nominative: -e
+    accusative: -e
+    dative: -er
+    genitive: -er
+
+  plural:
+    nominative: -e
+    accusative: -e
+    dative: -en
+    genitive: -er
