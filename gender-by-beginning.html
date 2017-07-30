@@ -1,0 +1,24 @@
+---
+layout: page
+title: Noun gender by beginning
+excerpt: How noun gender is affected by the word beginning
+---
+
+{% include germanStatsNotice.html %}
+
+
+{% for beginningLengthEntry in site.data.gender.genderStatsByBeginning %}
+{% assign beginningLength = beginningLengthEntry[0] %}
+{% assign groupingSubMap = beginningLengthEntry[1] %}
+
+
+<section>
+  <h2>{{ beginningLength }}-letter beginnings</h2>
+
+  {% include genderTable.html
+    groupingStringHeader="Beginning"
+    groupingSubMap=groupingSubMap
+    %}
+</section>
+
+{% endfor %}
