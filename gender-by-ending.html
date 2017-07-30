@@ -1,0 +1,24 @@
+---
+layout: page
+title: Noun gender by ending
+excerpt: How noun gender is affected by the word ending
+---
+
+{% include germanStatsNotice.html %}
+
+
+{% for endingLengthEntry in site.data.gender.genderStatsByEnding %}
+{% assign endingLength = endingLengthEntry[0] %}
+{% assign groupingSubMap = endingLengthEntry[1] %}
+
+
+<section>
+  <h2>{{ endingLength }}-letter endings</h2>
+
+  {% include genderTable.html
+    groupingStringHeader="Ending"
+    groupingSubMap=groupingSubMap
+    %}
+</section>
+
+{% endfor %}

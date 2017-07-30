@@ -1,0 +1,12 @@
+---
+layout: page
+title: Noun gender by ending (sorted by relevance)
+excerpt: How noun gender is affected by the word ending - with results sorted by relevance
+---
+
+{% include germanStatsNotice.html %}
+
+{% include genderTable.html
+  groupingStringHeader="Ending"
+  groupingSubMap=site.data.gender.genderStatsByEndingAndRelevance
+  %}

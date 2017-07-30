@@ -113,6 +113,7 @@ table.declension {
 
   td {
     text-align: center;
+    padding: 0.3em;
   }
 
   thead td,
@@ -132,5 +133,14 @@ table.declension {
     font-size: 1.5em;
     width: 7em;
     height: 2em;
+  }
+}
+
+
+.notice {
+  margin-bottom: 4em;
+
+  p {
+    font-style: italic;
   }
 }
