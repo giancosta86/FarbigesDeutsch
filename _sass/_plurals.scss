@@ -1,0 +1,29 @@
+.plurals {
+  table {
+    width: 90%;
+
+    td {
+      padding: 0.7em;
+      font-size: 1.3em;
+      text-align: center;
+    }
+
+    thead {
+      font-weight: bold;
+    }
+
+    tbody {
+      td {
+        border: 1px solid black;
+      }
+    }
+
+    .transformsCell {
+      text-align: left;
+    }
+
+    .details {
+      cursor: help;
+    }
+  }
+}

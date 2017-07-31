@@ -1,0 +1,3094 @@
+1:
+ -a:
+  masculinePercentage: 14.14
+  neuterPercentage: 22.57
+  femininePercentage: 63.29
+  totalCount: 700
+  relevance: 63985
+  mainGender: f
+
+ -b:
+  masculinePercentage: 74.25
+  neuterPercentage: 24.55
+  femininePercentage: 1.20
+  totalCount: 334
+  relevance: 74585
+  mainGender: m
+
+ -d:
+  masculinePercentage: 47.59
+  neuterPercentage: 43.95
+  femininePercentage: 8.46
+  totalCount: 1679
+  relevance: 49266
+  mainGender: m
+
+ -e:
+  masculinePercentage: 8.67
+  neuterPercentage: 4.53
+  femininePercentage: 86.80
+  totalCount: 11648
+  relevance: 98444
+  mainGender: f
+
+ -f:
+  masculinePercentage: 84.60
+  neuterPercentage: 15.06
+  femininePercentage: 0.34
+  totalCount: 883
+  relevance: 85480
+  mainGender: m
+
+ -g:
+  masculinePercentage: 27.33
+  neuterPercentage: 5.08
+  femininePercentage: 67.59
+  totalCount: 5708
+  relevance: 73297
+  mainGender: f
+
+ -h:
+  masculinePercentage: 64.97
+  neuterPercentage: 31.12
+  femininePercentage: 3.91
+  totalCount: 1610
+  relevance: 66578
+  mainGender: m
+
+ -i:
+  masculinePercentage: 25.74
+  neuterPercentage: 14.96
+  femininePercentage: 59.30
+  totalCount: 575
+  relevance: 59879
+  mainGender: f
+
+ -k:
+  masculinePercentage: 31.43
+  neuterPercentage: 21.42
+  femininePercentage: 47.15
+  totalCount: 1699
+  relevance: 48844
+  mainGender: f
+
+ -l:
+  masculinePercentage: 47.81
+  neuterPercentage: 34.66
+  femininePercentage: 17.53
+  totalCount: 3451
+  relevance: 51263
+  mainGender: m
+
+ -m:
+  masculinePercentage: 30.18
+  neuterPercentage: 64.23
+  femininePercentage: 5.60
+  totalCount: 1912
+  relevance: 66137
+  mainGender: n
+
+ -n:
+  masculinePercentage: 26.16
+  neuterPercentage: 26.42
+  femininePercentage: 47.42
+  totalCount: 8092
+  relevance: 55509
+  mainGender: f
+
+ -o:
+  masculinePercentage: 31.82
+  neuterPercentage: 55.81
+  femininePercentage: 12.37
+  totalCount: 396
+  relevance: 56204
+  mainGender: n
+
+ -p:
+  masculinePercentage: 50.60
+  neuterPercentage: 46.43
+  femininePercentage: 2.98
+  totalCount: 168
+  relevance: 50763
+  mainGender: m
+
+ -r:
+  masculinePercentage: 74.18
+  neuterPercentage: 14.32
+  femininePercentage: 11.50
+  totalCount: 8101
+  relevance: 82277
+  mainGender: m
+
+ -s:
+  masculinePercentage: 62.93
+  neuterPercentage: 24.87
+  femininePercentage: 12.20
+  totalCount: 2622
+  relevance: 65551
+  mainGender: m
+
+ -t:
+  masculinePercentage: 35.05
+  neuterPercentage: 25.16
+  femininePercentage: 39.78
+  totalCount: 7634
+  relevance: 47416
+  mainGender: f
+
+ -u:
+  masculinePercentage: 52.14
+  neuterPercentage: 15.18
+  femininePercentage: 32.68
+  totalCount: 257
+  relevance: 52397
+  mainGender: m
+
+ -v:
+  masculinePercentage: 37.68
+  neuterPercentage: 61.59
+  femininePercentage: 0.72
+  totalCount: 138
+  relevance: 61732
+  mainGender: n
+
+ -x:
+  masculinePercentage: 50.48
+  neuterPercentage: 23.81
+  femininePercentage: 25.71
+  totalCount: 105
+  relevance: 50581
+  mainGender: m
+
+ -y:
+  masculinePercentage: 34.48
+  neuterPercentage: 32.76
+  femininePercentage: 32.76
+  totalCount: 116
+  relevance: 34598
+  mainGender: m
+
+ -z:
+  masculinePercentage: 50.22
+  neuterPercentage: 20.58
+  femininePercentage: 29.20
+  totalCount: 1113
+  relevance: 51337
+  mainGender: m
+
+ -ß:
+  masculinePercentage: 68.55
+  neuterPercentage: 30.82
+  femininePercentage: 0.63
+  totalCount: 159
+  relevance: 68712
+  mainGender: m
+
+2:
+ -ad:
+  masculinePercentage: 41.80
+  neuterPercentage: 57.38
+  femininePercentage: 0.82
+  totalCount: 122
+  relevance: 57499
+  mainGender: n
+
+ -ag:
+  masculinePercentage: 98.93
+  neuterPercentage: 1.07
+  femininePercentage: 0.00
+  totalCount: 466
+  relevance: 99393
+  mainGender: m
+
+ -al:
+  masculinePercentage: 39.40
+  neuterPercentage: 57.61
+  femininePercentage: 2.99
+  totalCount: 368
+  relevance: 57976
+  mainGender: n
+
+ -an:
+  masculinePercentage: 73.23
+  neuterPercentage: 22.68
+  femininePercentage: 4.09
+  totalCount: 269
+  relevance: 73503
+  mainGender: m
+
+ -ar:
+  masculinePercentage: 50.55
+  neuterPercentage: 41.76
+  femininePercentage: 7.69
+  totalCount: 182
+  relevance: 50731
+  mainGender: m
+
+ -as:
+  masculinePercentage: 15.20
+  neuterPercentage: 75.20
+  femininePercentage: 9.60
+  totalCount: 125
+  relevance: 75325
+  mainGender: n
+
+ -at:
+  masculinePercentage: 56.07
+  neuterPercentage: 39.11
+  femininePercentage: 4.82
+  totalCount: 519
+  relevance: 56588
+  mainGender: m
+
+ -au:
+  masculinePercentage: 55.71
+  neuterPercentage: 8.22
+  femininePercentage: 36.07
+  totalCount: 219
+  relevance: 55926
+  mainGender: m
+
+ -be:
+  masculinePercentage: 6.96
+  neuterPercentage: 11.33
+  femininePercentage: 81.71
+  totalCount: 503
+  relevance: 82212
+  mainGender: f
+
+ -ch:
+  masculinePercentage: 64.63
+  neuterPercentage: 31.83
+  femininePercentage: 3.54
+  totalCount: 1442
+  relevance: 66074
+  mainGender: m
+
+ -ck:
+  masculinePercentage: 68.02
+  neuterPercentage: 30.57
+  femininePercentage: 1.42
+  totalCount: 494
+  relevance: 68510
+  mainGender: m
+
+ -de:
+  masculinePercentage: 10.53
+  neuterPercentage: 11.47
+  femininePercentage: 78.00
+  totalCount: 741
+  relevance: 78743
+  mainGender: f
+
+ -eb:
+  masculinePercentage: 95.50
+  neuterPercentage: 4.50
+  femininePercentage: 0.00
+  totalCount: 111
+  relevance: 95606
+  mainGender: m
+
+ -ee:
+  masculinePercentage: 50.89
+  neuterPercentage: 17.16
+  femininePercentage: 31.95
+  totalCount: 169
+  relevance: 51056
+  mainGender: m
+
+ -eg:
+  masculinePercentage: 97.24
+  neuterPercentage: 2.76
+  femininePercentage: 0.00
+  totalCount: 145
+  relevance: 97386
+  mainGender: m
+
+ -ei:
+  masculinePercentage: 7.10
+  neuterPercentage: 9.02
+  femininePercentage: 83.88
+  totalCount: 366
+  relevance: 84245
+  mainGender: f
+
+ -el:
+  masculinePercentage: 52.72
+  neuterPercentage: 22.90
+  femininePercentage: 24.38
+  totalCount: 1891
+  relevance: 54614
+  mainGender: m
+
+ -em:
+  masculinePercentage: 2.70
+  neuterPercentage: 96.22
+  femininePercentage: 1.08
+  totalCount: 185
+  relevance: 96401
+  mainGender: n
+
+ -en:
+  masculinePercentage: 41.40
+  neuterPercentage: 57.73
+  femininePercentage: 0.87
+  totalCount: 2302
+  relevance: 60034
+  mainGender: n
+
+ -er:
+  masculinePercentage: 79.59
+  neuterPercentage: 13.37
+  femininePercentage: 7.04
+  totalCount: 6603
+  relevance: 86188
+  mainGender: m
+
+ -et:
+  masculinePercentage: 26.02
+  neuterPercentage: 72.36
+  femininePercentage: 1.63
+  totalCount: 246
+  relevance: 72603
+  mainGender: n
+
+ -fe:
+  masculinePercentage: 12.68
+  neuterPercentage: 0.94
+  femininePercentage: 86.38
+  totalCount: 213
+  relevance: 86597
+  mainGender: f
+
+ -ff:
+  masculinePercentage: 64.00
+  neuterPercentage: 36.00
+  femininePercentage: 0.00
+  totalCount: 225
+  relevance: 64225
+  mainGender: m
+
+ -ft:
+  masculinePercentage: 12.27
+  neuterPercentage: 9.87
+  femininePercentage: 77.86
+  totalCount: 709
+  relevance: 78565
+  mainGender: f
+
+ -ge:
+  masculinePercentage: 18.11
+  neuterPercentage: 7.09
+  femininePercentage: 74.80
+  totalCount: 889
+  relevance: 75692
+  mainGender: f
+
+ -he:
+  masculinePercentage: 4.12
+  neuterPercentage: 5.61
+  femininePercentage: 90.27
+  totalCount: 1069
+  relevance: 91340
+  mainGender: f
+
+ -hl:
+  masculinePercentage: 32.41
+  neuterPercentage: 23.72
+  femininePercentage: 43.87
+  totalCount: 253
+  relevance: 44126
+  mainGender: f
+
+ -hn:
+  masculinePercentage: 44.20
+  neuterPercentage: 8.84
+  femininePercentage: 46.96
+  totalCount: 181
+  relevance: 47142
+  mainGender: f
+
+ -hr:
+  masculinePercentage: 17.65
+  neuterPercentage: 41.91
+  femininePercentage: 40.44
+  totalCount: 272
+  relevance: 42183
+  mainGender: n
+
+ -ht:
+  masculinePercentage: 20.36
+  neuterPercentage: 33.43
+  femininePercentage: 46.21
+  totalCount: 673
+  relevance: 46883
+  mainGender: f
+
+ -id:
+  masculinePercentage: 25.00
+  neuterPercentage: 74.24
+  femininePercentage: 0.76
+  totalCount: 132
+  relevance: 74374
+  mainGender: n
+
+ -ie:
+  masculinePercentage: 1.64
+  neuterPercentage: 0.76
+  femininePercentage: 97.60
+  totalCount: 1709
+  relevance: 99309
+  mainGender: f
+
+ -ig:
+  masculinePercentage: 82.73
+  neuterPercentage: 8.18
+  femininePercentage: 9.09
+  totalCount: 110
+  relevance: 82837
+  mainGender: m
+
+ -ik:
+  masculinePercentage: 3.18
+  neuterPercentage: 0.28
+  femininePercentage: 96.55
+  totalCount: 724
+  relevance: 97270
+  mainGender: f
+
+ -il:
+  masculinePercentage: 41.90
+  neuterPercentage: 55.87
+  femininePercentage: 2.23
+  totalCount: 179
+  relevance: 56044
+  mainGender: n
+
+ -in:
+  masculinePercentage: 12.51
+  neuterPercentage: 10.18
+  femininePercentage: 77.31
+  totalCount: 3085
+  relevance: 80394
+  mainGender: f
+
+ -is:
+  masculinePercentage: 35.46
+  neuterPercentage: 32.35
+  femininePercentage: 32.19
+  totalCount: 643
+  relevance: 36101
+  mainGender: m
+
+ -it:
+  masculinePercentage: 13.22
+  neuterPercentage: 3.91
+  femininePercentage: 82.86
+  totalCount: 1278
+  relevance: 84141
+  mainGender: f
+
+ -iv:
+  masculinePercentage: 35.11
+  neuterPercentage: 64.89
+  femininePercentage: 0.00
+  totalCount: 131
+  relevance: 65016
+  mainGender: n
+
+ -ke:
+  masculinePercentage: 13.09
+  neuterPercentage: 1.81
+  femininePercentage: 85.10
+  totalCount: 443
+  relevance: 85544
+  mainGender: f
+
+ -kt:
+  masculinePercentage: 74.70
+  neuterPercentage: 25.00
+  femininePercentage: 0.30
+  totalCount: 328
+  relevance: 75023
+  mainGender: m
+
+ -ld:
+  masculinePercentage: 19.81
+  neuterPercentage: 75.72
+  femininePercentage: 4.47
+  totalCount: 313
+  relevance: 76031
+  mainGender: n
+
+ -le:
+  masculinePercentage: 4.19
+  neuterPercentage: 6.69
+  femininePercentage: 89.12
+  totalCount: 1002
+  relevance: 90123
+  mainGender: f
+
+ -ll:
+  masculinePercentage: 61.75
+  neuterPercentage: 35.34
+  femininePercentage: 2.91
+  totalCount: 481
+  relevance: 62227
+  mainGender: m
+
+ -lt:
+  masculinePercentage: 48.57
+  neuterPercentage: 12.38
+  femininePercentage: 39.05
+  totalCount: 210
+  relevance: 48781
+  mainGender: m
+
+ -lz:
+  masculinePercentage: 39.46
+  neuterPercentage: 58.50
+  femininePercentage: 2.04
+  totalCount: 147
+  relevance: 58650
+  mainGender: n
+
+ -ma:
+  masculinePercentage: 3.94
+  neuterPercentage: 73.23
+  femininePercentage: 22.83
+  totalCount: 127
+  relevance: 73355
+  mainGender: n
+
+ -me:
+  masculinePercentage: 27.24
+  neuterPercentage: 1.03
+  femininePercentage: 71.72
+  totalCount: 290
+  relevance: 72014
+  mainGender: f
+
+ -mm:
+  masculinePercentage: 34.38
+  neuterPercentage: 65.63
+  femininePercentage: 0.00
+  totalCount: 128
+  relevance: 65753
+  mainGender: n
+
+ -nd:
+  masculinePercentage: 63.66
+  neuterPercentage: 24.27
+  femininePercentage: 12.07
+  totalCount: 820
+  relevance: 64478
+  mainGender: m
+
+ -ne:
+  masculinePercentage: 9.79
+  neuterPercentage: 1.52
+  femininePercentage: 88.69
+  totalCount: 725
+  relevance: 89414
+  mainGender: f
+
+ -ng:
+  masculinePercentage: 12.86
+  neuterPercentage: 3.44
+  femininePercentage: 83.70
+  totalCount: 4564
+  relevance: 88262
+  mainGender: f
+
+ -nk:
+  masculinePercentage: 49.45
+  neuterPercentage: 20.33
+  femininePercentage: 30.22
+  totalCount: 182
+  relevance: 49632
+  mainGender: m
+
+ -nn:
+  masculinePercentage: 93.81
+  neuterPercentage: 4.64
+  femininePercentage: 1.55
+  totalCount: 194
+  relevance: 94008
+  mainGender: m
+
+ -nt:
+  masculinePercentage: 60.77
+  neuterPercentage: 35.57
+  femininePercentage: 3.66
+  totalCount: 492
+  relevance: 61264
+  mainGender: m
+
+ -nz:
+  masculinePercentage: 14.24
+  neuterPercentage: 1.21
+  femininePercentage: 84.55
+  totalCount: 330
+  relevance: 84875
+  mainGender: f
+
+ -om:
+  masculinePercentage: 35.85
+  neuterPercentage: 61.01
+  femininePercentage: 3.14
+  totalCount: 159
+  relevance: 61165
+  mainGender: n
+
+ -on:
+  masculinePercentage: 9.95
+  neuterPercentage: 15.76
+  femininePercentage: 74.29
+  totalCount: 1789
+  relevance: 76076
+  mainGender: f
+
+ -or:
+  masculinePercentage: 91.21
+  neuterPercentage: 8.79
+  femininePercentage: 0.00
+  totalCount: 421
+  relevance: 91632
+  mainGender: m
+
+ -ot:
+  masculinePercentage: 22.64
+  neuterPercentage: 72.64
+  femininePercentage: 4.72
+  totalCount: 212
+  relevance: 72853
+  mainGender: n
+
+ -pe:
+  masculinePercentage: 0.59
+  neuterPercentage: 1.48
+  femininePercentage: 97.92
+  totalCount: 337
+  relevance: 98259
+  mainGender: f
+
+ -pf:
+  masculinePercentage: 98.89
+  neuterPercentage: 1.11
+  femininePercentage: 0.00
+  totalCount: 180
+  relevance: 99068
+  mainGender: m
+
+ -rd:
+  masculinePercentage: 58.97
+  neuterPercentage: 38.46
+  femininePercentage: 2.56
+  totalCount: 117
+  relevance: 59091
+  mainGender: m
+
+ -re:
+  masculinePercentage: 4.89
+  neuterPercentage: 3.84
+  femininePercentage: 91.27
+  totalCount: 573
+  relevance: 91846
+  mainGender: f
+
+ -rk:
+  masculinePercentage: 16.49
+  neuterPercentage: 77.13
+  femininePercentage: 6.38
+  totalCount: 188
+  relevance: 77315
+  mainGender: n
+
+ -rm:
+  masculinePercentage: 58.52
+  neuterPercentage: 2.62
+  femininePercentage: 38.86
+  totalCount: 229
+  relevance: 58744
+  mainGender: m
+
+ -rn:
+  masculinePercentage: 55.49
+  neuterPercentage: 43.96
+  femininePercentage: 0.55
+  totalCount: 182
+  relevance: 55676
+  mainGender: m
+
+ -rt:
+  masculinePercentage: 40.31
+  neuterPercentage: 27.75
+  femininePercentage: 31.94
+  totalCount: 717
+  relevance: 41023
+  mainGender: m
+
+ -se:
+  masculinePercentage: 10.41
+  neuterPercentage: 3.41
+  femininePercentage: 86.19
+  totalCount: 1086
+  relevance: 87273
+  mainGender: f
+
+ -ss:
+  masculinePercentage: 75.34
+  neuterPercentage: 17.81
+  femininePercentage: 6.85
+  totalCount: 438
+  relevance: 75780
+  mainGender: m
+
+ -st:
+  masculinePercentage: 69.70
+  neuterPercentage: 8.43
+  femininePercentage: 21.87
+  totalCount: 878
+  relevance: 70581
+  mainGender: m
+
+ -te:
+  masculinePercentage: 7.38
+  neuterPercentage: 3.38
+  femininePercentage: 89.23
+  totalCount: 1300
+  relevance: 90530
+  mainGender: f
+
+ -tt:
+  masculinePercentage: 35.00
+  neuterPercentage: 61.11
+  femininePercentage: 3.89
+  totalCount: 360
+  relevance: 61471
+  mainGender: n
+
+ -tz:
+  masculinePercentage: 82.10
+  neuterPercentage: 15.84
+  femininePercentage: 2.06
+  totalCount: 486
+  relevance: 82584
+  mainGender: m
+
+ -uf:
+  masculinePercentage: 99.40
+  neuterPercentage: 0.60
+  femininePercentage: 0.00
+  totalCount: 168
+  relevance: 99572
+  mainGender: m
+
+ -ug:
+  masculinePercentage: 63.00
+  neuterPercentage: 36.67
+  femininePercentage: 0.33
+  totalCount: 300
+  relevance: 63300
+  mainGender: m
+
+ -um:
+  masculinePercentage: 23.07
+  neuterPercentage: 76.63
+  femininePercentage: 0.30
+  totalCount: 997
+  relevance: 77626
+  mainGender: n
+
+ -ur:
+  masculinePercentage: 30.05
+  neuterPercentage: 2.16
+  femininePercentage: 67.79
+  totalCount: 416
+  relevance: 68204
+  mainGender: f
+
+ -us:
+  masculinePercentage: 79.96
+  neuterPercentage: 17.27
+  femininePercentage: 2.77
+  totalCount: 1048
+  relevance: 81009
+  mainGender: m
+
+ -ut:
+  masculinePercentage: 37.80
+  neuterPercentage: 39.86
+  femininePercentage: 22.34
+  totalCount: 291
+  relevance: 40153
+  mainGender: n
+
+ -ze:
+  masculinePercentage: 8.40
+  neuterPercentage: 0.00
+  femininePercentage: 91.60
+  totalCount: 250
+  relevance: 91850
+  mainGender: f
+
+ -ße:
+  masculinePercentage: 1.98
+  neuterPercentage: 0.00
+  femininePercentage: 98.02
+  totalCount: 101
+  relevance: 98120
+  mainGender: f
+
+ -ät:
+  masculinePercentage: 0.44
+  neuterPercentage: 14.88
+  femininePercentage: 84.68
+  totalCount: 457
+  relevance: 85139
+  mainGender: f
+
+3:
+ -abe:
+  masculinePercentage: 16.67
+  neuterPercentage: 0.88
+  femininePercentage: 82.46
+  totalCount: 114
+  relevance: 82570
+  mainGender: f
+
+ -ach:
+  masculinePercentage: 22.00
+  neuterPercentage: 71.00
+  femininePercentage: 7.00
+  totalCount: 100
+  relevance: 71100
+  mainGender: n
+
+ -ade:
+  masculinePercentage: 2.31
+  neuterPercentage: 2.31
+  femininePercentage: 95.38
+  totalCount: 130
+  relevance: 95514
+  mainGender: f
+
+ -aft:
+  masculinePercentage: 8.83
+  neuterPercentage: 0.22
+  femininePercentage: 90.95
+  totalCount: 453
+  relevance: 91402
+  mainGender: f
+
+ -age:
+  masculinePercentage: 2.37
+  neuterPercentage: 1.48
+  femininePercentage: 96.14
+  totalCount: 337
+  relevance: 96479
+  mainGender: f
+
+ -ahl:
+  masculinePercentage: 20.00
+  neuterPercentage: 4.83
+  femininePercentage: 75.17
+  totalCount: 145
+  relevance: 75317
+  mainGender: f
+
+ -ahn:
+  masculinePercentage: 37.10
+  neuterPercentage: 0.00
+  femininePercentage: 62.90
+  totalCount: 124
+  relevance: 63027
+  mainGender: f
+
+ -ale:
+  masculinePercentage: 10.24
+  neuterPercentage: 23.62
+  femininePercentage: 66.14
+  totalCount: 127
+  relevance: 66268
+  mainGender: f
+
+ -all:
+  masculinePercentage: 89.31
+  neuterPercentage: 6.90
+  femininePercentage: 3.79
+  totalCount: 290
+  relevance: 89600
+  mainGender: m
+
+ -alt:
+  masculinePercentage: 59.86
+  neuterPercentage: 5.44
+  femininePercentage: 34.69
+  totalCount: 147
+  relevance: 60010
+  mainGender: m
+
+ -amm:
+  masculinePercentage: 33.06
+  neuterPercentage: 66.94
+  femininePercentage: 0.00
+  totalCount: 124
+  relevance: 67059
+  mainGender: n
+
+ -and:
+  masculinePercentage: 57.98
+  neuterPercentage: 25.66
+  femininePercentage: 16.36
+  totalCount: 495
+  relevance: 58474
+  mainGender: m
+
+ -ang:
+  masculinePercentage: 97.59
+  neuterPercentage: 1.20
+  femininePercentage: 1.20
+  totalCount: 249
+  relevance: 97839
+  mainGender: m
+
+ -ank:
+  masculinePercentage: 50.00
+  neuterPercentage: 0.00
+  femininePercentage: 50.00
+  totalCount: 110
+  relevance: 50110
+  mainGender: f
+
+ -ann:
+  masculinePercentage: 94.85
+  neuterPercentage: 5.15
+  femininePercentage: 0.00
+  totalCount: 136
+  relevance: 94988
+  mainGender: m
+
+ -ant:
+  masculinePercentage: 87.50
+  neuterPercentage: 10.53
+  femininePercentage: 1.97
+  totalCount: 152
+  relevance: 87652
+  mainGender: m
+
+ -anz:
+  masculinePercentage: 34.92
+  neuterPercentage: 0.79
+  femininePercentage: 64.29
+  totalCount: 126
+  relevance: 64411
+  mainGender: f
+
+ -art:
+  masculinePercentage: 19.18
+  neuterPercentage: 0.68
+  femininePercentage: 80.14
+  totalCount: 146
+  relevance: 80282
+  mainGender: f
+
+ -atz:
+  masculinePercentage: 99.61
+  neuterPercentage: 0.39
+  femininePercentage: 0.00
+  totalCount: 254
+  relevance: 99860
+  mainGender: m
+
+ -auf:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 136
+  relevance: 100136
+  mainGender: m
+
+ -aum:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 186
+  relevance: 100186
+  mainGender: m
+
+ -aus:
+  masculinePercentage: 10.14
+  neuterPercentage: 78.26
+  femininePercentage: 11.59
+  totalCount: 207
+  relevance: 78467
+  mainGender: n
+
+ -aut:
+  masculinePercentage: 43.17
+  neuterPercentage: 28.78
+  femininePercentage: 28.06
+  totalCount: 139
+  relevance: 43304
+  mainGender: m
+
+ -bau:
+  masculinePercentage: 99.01
+  neuterPercentage: 0.00
+  femininePercentage: 0.99
+  totalCount: 101
+  relevance: 99110
+  mainGender: m
+
+ -bel:
+  masculinePercentage: 58.54
+  neuterPercentage: 21.14
+  femininePercentage: 20.33
+  totalCount: 123
+  relevance: 58659
+  mainGender: m
+
+ -ber:
+  masculinePercentage: 81.68
+  neuterPercentage: 11.88
+  femininePercentage: 6.44
+  totalCount: 202
+  relevance: 81885
+  mainGender: m
+
+ -che:
+  masculinePercentage: 4.68
+  neuterPercentage: 6.17
+  femininePercentage: 89.15
+  totalCount: 940
+  relevance: 90088
+  mainGender: f
+
+ -cht:
+  masculinePercentage: 18.28
+  neuterPercentage: 34.41
+  femininePercentage: 47.31
+  totalCount: 651
+  relevance: 47962
+  mainGender: f
+
+ -cke:
+  masculinePercentage: 2.45
+  neuterPercentage: 0.49
+  femininePercentage: 97.06
+  totalCount: 204
+  relevance: 97262
+  mainGender: f
+
+ -del:
+  masculinePercentage: 62.78
+  neuterPercentage: 12.22
+  femininePercentage: 25.00
+  totalCount: 180
+  relevance: 62957
+  mainGender: m
+
+ -den:
+  masculinePercentage: 83.33
+  neuterPercentage: 15.38
+  femininePercentage: 1.28
+  totalCount: 156
+  relevance: 83489
+  mainGender: m
+
+ -der:
+  masculinePercentage: 76.85
+  neuterPercentage: 11.81
+  femininePercentage: 11.34
+  totalCount: 432
+  relevance: 77283
+  mainGender: m
+
+ -ein:
+  masculinePercentage: 68.17
+  neuterPercentage: 31.38
+  femininePercentage: 0.45
+  totalCount: 443
+  relevance: 68614
+  mainGender: m
+
+ -eis:
+  masculinePercentage: 85.96
+  neuterPercentage: 13.60
+  femininePercentage: 0.44
+  totalCount: 228
+  relevance: 86192
+  mainGender: m
+
+ -eit:
+  masculinePercentage: 1.11
+  neuterPercentage: 0.83
+  femininePercentage: 98.05
+  totalCount: 1078
+  relevance: 99129
+  mainGender: f
+
+ -eld:
+  masculinePercentage: 7.46
+  neuterPercentage: 92.54
+  femininePercentage: 0.00
+  totalCount: 134
+  relevance: 92671
+  mainGender: n
+
+ -ell:
+  masculinePercentage: 5.07
+  neuterPercentage: 93.48
+  femininePercentage: 1.45
+  totalCount: 138
+  relevance: 93616
+  mainGender: n
+
+ -ent:
+  masculinePercentage: 46.67
+  neuterPercentage: 51.67
+  femininePercentage: 1.67
+  totalCount: 300
+  relevance: 51966
+  mainGender: n
+
+ -enz:
+  masculinePercentage: 0.00
+  neuterPercentage: 1.02
+  femininePercentage: 98.98
+  totalCount: 197
+  relevance: 99181
+  mainGender: f
+
+ -erk:
+  masculinePercentage: 3.52
+  neuterPercentage: 96.48
+  femininePercentage: 0.00
+  totalCount: 142
+  relevance: 96620
+  mainGender: n
+
+ -ert:
+  masculinePercentage: 71.70
+  neuterPercentage: 22.64
+  femininePercentage: 5.66
+  totalCount: 106
+  relevance: 71804
+  mainGender: m
+
+ -ese:
+  masculinePercentage: 21.14
+  neuterPercentage: 0.81
+  femininePercentage: 78.05
+  totalCount: 123
+  relevance: 78171
+  mainGender: f
+
+ -ett:
+  masculinePercentage: 3.55
+  neuterPercentage: 96.45
+  femininePercentage: 0.00
+  totalCount: 141
+  relevance: 96594
+  mainGender: n
+
+ -eug:
+  masculinePercentage: 0.00
+  neuterPercentage: 99.10
+  femininePercentage: 0.90
+  totalCount: 111
+  relevance: 99210
+  mainGender: n
+
+ -eur:
+  masculinePercentage: 96.49
+  neuterPercentage: 1.75
+  femininePercentage: 1.75
+  totalCount: 114
+  relevance: 96605
+  mainGender: m
+
+ -fel:
+  masculinePercentage: 65.79
+  neuterPercentage: 3.29
+  femininePercentage: 30.92
+  totalCount: 152
+  relevance: 65941
+  mainGender: m
+
+ -fen:
+  masculinePercentage: 82.39
+  neuterPercentage: 16.35
+  femininePercentage: 1.26
+  totalCount: 159
+  relevance: 82548
+  mainGender: m
+
+ -fer:
+  masculinePercentage: 80.06
+  neuterPercentage: 13.71
+  femininePercentage: 6.23
+  totalCount: 321
+  relevance: 80383
+  mainGender: m
+
+ -gel:
+  masculinePercentage: 70.10
+  neuterPercentage: 5.50
+  femininePercentage: 24.40
+  totalCount: 291
+  relevance: 70394
+  mainGender: m
+
+ -gen:
+  masculinePercentage: 65.82
+  neuterPercentage: 33.82
+  femininePercentage: 0.36
+  totalCount: 275
+  relevance: 66093
+  mainGender: m
+
+ -ger:
+  masculinePercentage: 90.75
+  neuterPercentage: 7.65
+  femininePercentage: 1.60
+  totalCount: 562
+  relevance: 91309
+  mainGender: m
+
+ -gie:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 342
+  relevance: 100342
+  mainGender: f
+
+ -hen:
+  masculinePercentage: 11.81
+  neuterPercentage: 87.89
+  femininePercentage: 0.30
+  totalCount: 669
+  relevance: 88561
+  mainGender: n
+
+ -her:
+  masculinePercentage: 97.01
+  neuterPercentage: 0.82
+  femininePercentage: 2.17
+  totalCount: 368
+  relevance: 97378
+  mainGender: m
+
+ -hie:
+  masculinePercentage: 0.74
+  neuterPercentage: 0.00
+  femininePercentage: 99.26
+  totalCount: 135
+  relevance: 99394
+  mainGender: f
+
+ -hte:
+  masculinePercentage: 0.00
+  neuterPercentage: 2.80
+  femininePercentage: 97.20
+  totalCount: 107
+  relevance: 97303
+  mainGender: f
+
+ -ich:
+  masculinePercentage: 82.38
+  neuterPercentage: 17.62
+  femininePercentage: 0.00
+  totalCount: 193
+  relevance: 82576
+  mainGender: m
+
+ -ieb:
+  masculinePercentage: 95.41
+  neuterPercentage: 4.59
+  femininePercentage: 0.00
+  totalCount: 109
+  relevance: 95521
+  mainGender: m
+
+ -iel:
+  masculinePercentage: 9.47
+  neuterPercentage: 90.53
+  femininePercentage: 0.00
+  totalCount: 169
+  relevance: 90701
+  mainGender: n
+
+ -ier:
+  masculinePercentage: 46.49
+  neuterPercentage: 43.83
+  femininePercentage: 9.69
+  totalCount: 413
+  relevance: 46902
+  mainGender: m
+
+ -iff:
+  masculinePercentage: 41.73
+  neuterPercentage: 58.27
+  femininePercentage: 0.00
+  totalCount: 127
+  relevance: 58394
+  mainGender: n
+
+ -ift:
+  masculinePercentage: 17.32
+  neuterPercentage: 11.81
+  femininePercentage: 70.87
+  totalCount: 127
+  relevance: 70993
+  mainGender: f
+
+ -ild:
+  masculinePercentage: 3.67
+  neuterPercentage: 96.33
+  femininePercentage: 0.00
+  totalCount: 109
+  relevance: 96439
+  mainGender: n
+
+ -ine:
+  masculinePercentage: 6.37
+  neuterPercentage: 1.99
+  femininePercentage: 91.63
+  totalCount: 251
+  relevance: 91884
+  mainGender: f
+
+ -ing:
+  masculinePercentage: 65.36
+  neuterPercentage: 32.68
+  femininePercentage: 1.96
+  totalCount: 459
+  relevance: 65818
+  mainGender: m
+
+ -ion:
+  masculinePercentage: 0.45
+  neuterPercentage: 2.78
+  femininePercentage: 96.77
+  totalCount: 1333
+  relevance: 98107
+  mainGender: f
+
+ -ise:
+  masculinePercentage: 1.28
+  neuterPercentage: 0.64
+  femininePercentage: 98.08
+  totalCount: 156
+  relevance: 98232
+  mainGender: f
+
+ -ist:
+  masculinePercentage: 95.30
+  neuterPercentage: 0.00
+  femininePercentage: 4.70
+  totalCount: 362
+  relevance: 95665
+  mainGender: m
+
+ -ite:
+  masculinePercentage: 1.89
+  neuterPercentage: 1.89
+  femininePercentage: 96.23
+  totalCount: 106
+  relevance: 96332
+  mainGender: f
+
+ -ium:
+  masculinePercentage: 0.00
+  neuterPercentage: 99.73
+  femininePercentage: 0.27
+  totalCount: 374
+  relevance: 100106
+  mainGender: n
+
+ -kel:
+  masculinePercentage: 63.35
+  neuterPercentage: 16.75
+  femininePercentage: 19.90
+  totalCount: 191
+  relevance: 63541
+  mainGender: m
+
+ -ken:
+  masculinePercentage: 61.48
+  neuterPercentage: 36.30
+  femininePercentage: 2.22
+  totalCount: 135
+  relevance: 61616
+  mainGender: m
+
+ -ker:
+  masculinePercentage: 98.53
+  neuterPercentage: 0.73
+  femininePercentage: 0.73
+  totalCount: 409
+  relevance: 98942
+  mainGender: m
+
+ -lag:
+  masculinePercentage: 99.04
+  neuterPercentage: 0.96
+  femininePercentage: 0.00
+  totalCount: 104
+  relevance: 99142
+  mainGender: m
+
+ -ler:
+  masculinePercentage: 99.39
+  neuterPercentage: 0.15
+  femininePercentage: 0.46
+  totalCount: 657
+  relevance: 100048
+  mainGender: m
+
+ -lie:
+  masculinePercentage: 1.52
+  neuterPercentage: 0.00
+  femininePercentage: 98.48
+  totalCount: 132
+  relevance: 98616
+  mainGender: f
+
+ -lik:
+  masculinePercentage: 0.80
+  neuterPercentage: 0.00
+  femininePercentage: 99.20
+  totalCount: 125
+  relevance: 99325
+  mainGender: f
+
+ -lle:
+  masculinePercentage: 2.39
+  neuterPercentage: 1.47
+  femininePercentage: 96.13
+  totalCount: 543
+  relevance: 96675
+  mainGender: f
+
+ -men:
+  masculinePercentage: 20.44
+  neuterPercentage: 79.56
+  femininePercentage: 0.00
+  totalCount: 137
+  relevance: 79699
+  mainGender: n
+
+ -mer:
+  masculinePercentage: 49.32
+  neuterPercentage: 21.92
+  femininePercentage: 28.77
+  totalCount: 292
+  relevance: 49607
+  mainGender: m
+
+ -mie:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 171
+  relevance: 100171
+  mainGender: f
+
+ -mus:
+  masculinePercentage: 99.23
+  neuterPercentage: 0.77
+  femininePercentage: 0.00
+  totalCount: 517
+  relevance: 99743
+  mainGender: m
+
+ -nde:
+  masculinePercentage: 4.35
+  neuterPercentage: 15.22
+  femininePercentage: 80.43
+  totalCount: 276
+  relevance: 80710
+  mainGender: f
+
+ -ner:
+  masculinePercentage: 96.06
+  neuterPercentage: 2.56
+  femininePercentage: 1.38
+  totalCount: 507
+  relevance: 96562
+  mainGender: m
+
+ -nge:
+  masculinePercentage: 6.28
+  neuterPercentage: 5.76
+  femininePercentage: 87.96
+  totalCount: 191
+  relevance: 88149
+  mainGender: f
+
+ -nie:
+  masculinePercentage: 0.57
+  neuterPercentage: 1.70
+  femininePercentage: 97.73
+  totalCount: 176
+  relevance: 97903
+  mainGender: f
+
+ -nik:
+  masculinePercentage: 3.85
+  neuterPercentage: 0.96
+  femininePercentage: 95.19
+  totalCount: 104
+  relevance: 95296
+  mainGender: f
+
+ -nis:
+  masculinePercentage: 2.36
+  neuterPercentage: 77.36
+  femininePercentage: 20.28
+  totalCount: 212
+  relevance: 77570
+  mainGender: n
+
+ -nne:
+  masculinePercentage: 2.50
+  neuterPercentage: 0.83
+  femininePercentage: 96.67
+  totalCount: 120
+  relevance: 96786
+  mainGender: f
+
+ -nte:
+  masculinePercentage: 5.77
+  neuterPercentage: 1.92
+  femininePercentage: 92.31
+  totalCount: 104
+  relevance: 92411
+  mainGender: f
+
+ -ock:
+  masculinePercentage: 96.00
+  neuterPercentage: 3.00
+  femininePercentage: 1.00
+  totalCount: 100
+  relevance: 96100
+  mainGender: m
+
+ -oge:
+  masculinePercentage: 92.23
+  neuterPercentage: 0.00
+  femininePercentage: 7.77
+  totalCount: 103
+  relevance: 92336
+  mainGender: m
+
+ -one:
+  masculinePercentage: 14.78
+  neuterPercentage: 3.48
+  femininePercentage: 81.74
+  totalCount: 115
+  relevance: 81854
+  mainGender: f
+
+ -opf:
+  masculinePercentage: 99.00
+  neuterPercentage: 1.00
+  femininePercentage: 0.00
+  totalCount: 100
+  relevance: 99100
+  mainGender: m
+
+ -ort:
+  masculinePercentage: 48.82
+  neuterPercentage: 50.29
+  femininePercentage: 0.88
+  totalCount: 340
+  relevance: 50634
+  mainGender: n
+
+ -ose:
+  masculinePercentage: 2.99
+  neuterPercentage: 0.00
+  femininePercentage: 97.01
+  totalCount: 201
+  relevance: 97215
+  mainGender: f
+
+ -ppe:
+  masculinePercentage: 0.87
+  neuterPercentage: 0.87
+  femininePercentage: 98.27
+  totalCount: 231
+  relevance: 98499
+  mainGender: f
+
+ -rag:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 169
+  relevance: 100169
+  mainGender: m
+
+ -rat:
+  masculinePercentage: 61.81
+  neuterPercentage: 34.03
+  femininePercentage: 4.17
+  totalCount: 144
+  relevance: 61949
+  mainGender: m
+
+ -rei:
+  masculinePercentage: 7.69
+  neuterPercentage: 2.26
+  femininePercentage: 90.05
+  totalCount: 221
+  relevance: 90266
+  mainGender: f
+
+ -rer:
+  masculinePercentage: 99.36
+  neuterPercentage: 0.32
+  femininePercentage: 0.32
+  totalCount: 314
+  relevance: 99677
+  mainGender: m
+
+ -rie:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 301
+  relevance: 100301
+  mainGender: f
+
+ -rin:
+  masculinePercentage: 0.47
+  neuterPercentage: 1.00
+  femininePercentage: 98.53
+  totalCount: 1706
+  relevance: 100240
+  mainGender: f
+
+ -rte:
+  masculinePercentage: 17.61
+  neuterPercentage: 1.14
+  femininePercentage: 81.25
+  totalCount: 176
+  relevance: 81426
+  mainGender: f
+
+ -sch:
+  masculinePercentage: 75.20
+  neuterPercentage: 22.96
+  femininePercentage: 1.85
+  totalCount: 379
+  relevance: 75576
+  mainGender: m
+
+ -sel:
+  masculinePercentage: 54.39
+  neuterPercentage: 10.09
+  femininePercentage: 35.53
+  totalCount: 228
+  relevance: 54613
+  mainGender: m
+
+ -sen:
+  masculinePercentage: 21.15
+  neuterPercentage: 77.56
+  femininePercentage: 1.28
+  totalCount: 156
+  relevance: 77720
+  mainGender: n
+
+ -ser:
+  masculinePercentage: 54.69
+  neuterPercentage: 41.41
+  femininePercentage: 3.91
+  totalCount: 256
+  relevance: 54943
+  mainGender: m
+
+ -sse:
+  masculinePercentage: 7.95
+  neuterPercentage: 5.44
+  femininePercentage: 86.61
+  totalCount: 239
+  relevance: 86849
+  mainGender: f
+
+ -ste:
+  masculinePercentage: 0.00
+  neuterPercentage: 1.61
+  femininePercentage: 98.39
+  totalCount: 124
+  relevance: 98511
+  mainGender: f
+
+ -tag:
+  masculinePercentage: 97.85
+  neuterPercentage: 2.15
+  femininePercentage: 0.00
+  totalCount: 186
+  relevance: 98035
+  mainGender: m
+
+ -tel:
+  masculinePercentage: 42.69
+  neuterPercentage: 42.69
+  femininePercentage: 14.62
+  totalCount: 253
+  relevance: 42940
+  mainGender: n
+
+ -ten:
+  masculinePercentage: 71.15
+  neuterPercentage: 28.37
+  femininePercentage: 0.48
+  totalCount: 208
+  relevance: 71361
+  mainGender: m
+
+ -ter:
+  masculinePercentage: 70.06
+  neuterPercentage: 21.30
+  femininePercentage: 8.65
+  totalCount: 1249
+  relevance: 71305
+  mainGender: m
+
+ -tik:
+  masculinePercentage: 2.72
+  neuterPercentage: 0.30
+  femininePercentage: 96.98
+  totalCount: 331
+  relevance: 97309
+  mainGender: f
+
+ -tin:
+  masculinePercentage: 1.31
+  neuterPercentage: 6.54
+  femininePercentage: 92.15
+  totalCount: 382
+  relevance: 92528
+  mainGender: f
+
+ -tiv:
+  masculinePercentage: 39.05
+  neuterPercentage: 60.95
+  femininePercentage: 0.00
+  totalCount: 105
+  relevance: 61057
+  mainGender: n
+
+ -ton:
+  masculinePercentage: 65.09
+  neuterPercentage: 34.91
+  femininePercentage: 0.00
+  totalCount: 106
+  relevance: 65200
+  mainGender: m
+
+ -tor:
+  masculinePercentage: 91.44
+  neuterPercentage: 8.56
+  femininePercentage: 0.00
+  totalCount: 327
+  relevance: 91764
+  mainGender: m
+
+ -tte:
+  masculinePercentage: 3.63
+  neuterPercentage: 0.99
+  femininePercentage: 95.38
+  totalCount: 303
+  relevance: 95682
+  mainGender: f
+
+ -tum:
+  masculinePercentage: 5.60
+  neuterPercentage: 94.40
+  femininePercentage: 0.00
+  totalCount: 125
+  relevance: 94525
+  mainGender: n
+
+ -tur:
+  masculinePercentage: 0.57
+  neuterPercentage: 2.27
+  femininePercentage: 97.16
+  totalCount: 176
+  relevance: 97335
+  mainGender: f
+
+ -tze:
+  masculinePercentage: 9.09
+  neuterPercentage: 0.00
+  femininePercentage: 90.91
+  totalCount: 110
+  relevance: 91019
+  mainGender: f
+
+ -tät:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 386
+  relevance: 100386
+  mainGender: f
+
+ -ube:
+  masculinePercentage: 6.93
+  neuterPercentage: 0.00
+  femininePercentage: 93.07
+  totalCount: 101
+  relevance: 93170
+  mainGender: f
+
+ -uch:
+  masculinePercentage: 68.67
+  neuterPercentage: 31.00
+  femininePercentage: 0.33
+  totalCount: 600
+  relevance: 69266
+  mainGender: m
+
+ -uer:
+  masculinePercentage: 35.82
+  neuterPercentage: 17.91
+  femininePercentage: 46.27
+  totalCount: 201
+  relevance: 46469
+  mainGender: f
+
+ -ule:
+  masculinePercentage: 0.76
+  neuterPercentage: 0.76
+  femininePercentage: 98.48
+  totalCount: 132
+  relevance: 98616
+  mainGender: f
+
+ -und:
+  masculinePercentage: 96.90
+  neuterPercentage: 2.33
+  femininePercentage: 0.78
+  totalCount: 129
+  relevance: 97028
+  mainGender: m
+
+ -ung:
+  masculinePercentage: 0.94
+  neuterPercentage: 0.00
+  femininePercentage: 99.06
+  totalCount: 3843
+  relevance: 102906
+  mainGender: f
+
+ -ure:
+  masculinePercentage: 0.93
+  neuterPercentage: 0.00
+  femininePercentage: 99.07
+  totalCount: 216
+  relevance: 99290
+  mainGender: f
+
+ -uss:
+  masculinePercentage: 90.16
+  neuterPercentage: 0.00
+  femininePercentage: 9.84
+  totalCount: 183
+  relevance: 90346
+  mainGender: m
+
+ -zer:
+  masculinePercentage: 97.11
+  neuterPercentage: 1.73
+  femininePercentage: 1.16
+  totalCount: 173
+  relevance: 97282
+  mainGender: m
+
+ -zug:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 122
+  relevance: 100122
+  mainGender: m
+
+4:
+ -ache:
+  masculinePercentage: 2.70
+  neuterPercentage: 0.00
+  femininePercentage: 97.30
+  totalCount: 259
+  relevance: 97556
+  mainGender: f
+
+ -acht:
+  masculinePercentage: 12.61
+  neuterPercentage: 0.00
+  femininePercentage: 87.39
+  totalCount: 119
+  relevance: 87513
+  mainGender: f
+
+ -agen:
+  masculinePercentage: 86.67
+  neuterPercentage: 13.33
+  femininePercentage: 0.00
+  totalCount: 120
+  relevance: 86786
+  mainGender: m
+
+ -aner:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 111
+  relevance: 100111
+  mainGender: m
+
+ -asse:
+  masculinePercentage: 6.09
+  neuterPercentage: 0.00
+  femininePercentage: 93.91
+  totalCount: 115
+  relevance: 94028
+  mainGender: f
+
+ -ator:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 123
+  relevance: 100123
+  mainGender: m
+
+ -auer:
+  masculinePercentage: 53.91
+  neuterPercentage: 3.48
+  femininePercentage: 42.61
+  totalCount: 115
+  relevance: 54028
+  mainGender: m
+
+ -blik:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 114
+  relevance: 100114
+  mainGender: f
+
+ -buch:
+  masculinePercentage: 0.70
+  neuterPercentage: 99.30
+  femininePercentage: 0.00
+  totalCount: 142
+  relevance: 99437
+  mainGender: n
+
+ -bung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 116
+  relevance: 100116
+  mainGender: f
+
+ -chen:
+  masculinePercentage: 12.16
+  neuterPercentage: 87.52
+  femininePercentage: 0.32
+  totalCount: 633
+  relevance: 88152
+  mainGender: n
+
+ -cher:
+  masculinePercentage: 97.65
+  neuterPercentage: 1.01
+  femininePercentage: 1.34
+  totalCount: 298
+  relevance: 97949
+  mainGender: m
+
+ -chte:
+  masculinePercentage: 0.00
+  neuterPercentage: 2.80
+  femininePercentage: 97.20
+  totalCount: 107
+  relevance: 97303
+  mainGender: f
+
+ -cker:
+  masculinePercentage: 96.18
+  neuterPercentage: 1.53
+  femininePercentage: 2.29
+  totalCount: 131
+  relevance: 96314
+  mainGender: m
+
+ -dung:
+  masculinePercentage: 0.29
+  neuterPercentage: 0.00
+  femininePercentage: 99.71
+  totalCount: 347
+  relevance: 100058
+  mainGender: f
+
+ -echt:
+  masculinePercentage: 22.43
+  neuterPercentage: 76.64
+  femininePercentage: 0.93
+  totalCount: 107
+  relevance: 76742
+  mainGender: n
+
+ -eise:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 111
+  relevance: 100111
+  mainGender: f
+
+ -elle:
+  masculinePercentage: 1.15
+  neuterPercentage: 0.29
+  femininePercentage: 98.57
+  totalCount: 349
+  relevance: 98916
+  mainGender: f
+
+ -erei:
+  masculinePercentage: 0.00
+  neuterPercentage: 1.02
+  femininePercentage: 98.98
+  totalCount: 196
+  relevance: 99175
+  mainGender: f
+
+ -erin:
+  masculinePercentage: 0.06
+  neuterPercentage: 0.45
+  femininePercentage: 99.49
+  totalCount: 1559
+  relevance: 101045
+  mainGender: f
+
+ -eter:
+  masculinePercentage: 50.77
+  neuterPercentage: 49.23
+  femininePercentage: 0.00
+  totalCount: 130
+  relevance: 50899
+  mainGender: m
+
+ -ette:
+  masculinePercentage: 3.08
+  neuterPercentage: 1.54
+  femininePercentage: 95.38
+  totalCount: 130
+  relevance: 95514
+  mainGender: f
+
+ -fall:
+  masculinePercentage: 99.30
+  neuterPercentage: 0.00
+  femininePercentage: 0.70
+  totalCount: 143
+  relevance: 99443
+  mainGender: m
+
+ -gang:
+  masculinePercentage: 99.17
+  neuterPercentage: 0.00
+  femininePercentage: 0.83
+  totalCount: 121
+  relevance: 99294
+  mainGender: m
+
+ -gung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 340
+  relevance: 100340
+  mainGender: f
+
+ -haft:
+  masculinePercentage: 1.40
+  neuterPercentage: 0.28
+  femininePercentage: 98.31
+  totalCount: 356
+  relevance: 98670
+  mainGender: f
+
+ -haus:
+  masculinePercentage: 1.25
+  neuterPercentage: 98.75
+  femininePercentage: 0.00
+  totalCount: 160
+  relevance: 98910
+  mainGender: n
+
+ -heit:
+  masculinePercentage: 0.00
+  neuterPercentage: 1.99
+  femininePercentage: 98.01
+  totalCount: 301
+  relevance: 98307
+  mainGender: f
+
+ -hine:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 105
+  relevance: 100105
+  mainGender: f
+
+ -hrer:
+  masculinePercentage: 99.47
+  neuterPercentage: 0.53
+  femininePercentage: 0.00
+  totalCount: 190
+  relevance: 99663
+  mainGender: m
+
+ -hter:
+  masculinePercentage: 84.62
+  neuterPercentage: 3.85
+  femininePercentage: 11.54
+  totalCount: 104
+  relevance: 84719
+  mainGender: m
+
+ -hung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 210
+  relevance: 100210
+  mainGender: f
+
+ -icht:
+  masculinePercentage: 25.50
+  neuterPercentage: 44.04
+  femininePercentage: 30.46
+  totalCount: 302
+  relevance: 44341
+  mainGender: n
+
+ -iker:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 159
+  relevance: 100159
+  mainGender: m
+
+ -isch:
+  masculinePercentage: 59.88
+  neuterPercentage: 39.52
+  femininePercentage: 0.60
+  totalCount: 167
+  relevance: 60047
+  mainGender: m
+
+ -iter:
+  masculinePercentage: 90.30
+  neuterPercentage: 0.00
+  femininePercentage: 9.70
+  totalCount: 165
+  relevance: 90468
+  mainGender: m
+
+ -ität:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 373
+  relevance: 100373
+  mainGender: f
+
+ -keit:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 528
+  relevance: 100528
+  mainGender: f
+
+ -kung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 120
+  relevance: 100120
+  mainGender: f
+
+ -lage:
+  masculinePercentage: 0.00
+  neuterPercentage: 1.79
+  femininePercentage: 98.21
+  totalCount: 168
+  relevance: 98382
+  mainGender: f
+
+ -ling:
+  masculinePercentage: 92.24
+  neuterPercentage: 6.53
+  femininePercentage: 1.22
+  totalCount: 245
+  relevance: 92489
+  mainGender: m
+
+ -ller:
+  masculinePercentage: 98.41
+  neuterPercentage: 0.00
+  femininePercentage: 1.59
+  totalCount: 126
+  relevance: 98538
+  mainGender: m
+
+ -lter:
+  masculinePercentage: 74.17
+  neuterPercentage: 21.67
+  femininePercentage: 4.17
+  totalCount: 120
+  relevance: 74286
+  mainGender: m
+
+ -lung:
+  masculinePercentage: 0.46
+  neuterPercentage: 0.00
+  femininePercentage: 99.54
+  totalCount: 433
+  relevance: 99971
+  mainGender: f
+
+ -mann:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 124
+  relevance: 100124
+  mainGender: m
+
+ -ment:
+  masculinePercentage: 6.00
+  neuterPercentage: 94.00
+  femininePercentage: 0.00
+  totalCount: 150
+  relevance: 94150
+  mainGender: n
+
+ -mmer:
+  masculinePercentage: 26.34
+  neuterPercentage: 29.57
+  femininePercentage: 44.09
+  totalCount: 186
+  relevance: 44272
+  mainGender: f
+
+ -nder:
+  masculinePercentage: 94.05
+  neuterPercentage: 5.41
+  femininePercentage: 0.54
+  totalCount: 185
+  relevance: 94239
+  mainGender: m
+
+ -nger:
+  masculinePercentage: 97.67
+  neuterPercentage: 1.74
+  femininePercentage: 0.58
+  totalCount: 172
+  relevance: 97846
+  mainGender: m
+
+ -nung:
+  masculinePercentage: 0.35
+  neuterPercentage: 0.00
+  femininePercentage: 99.65
+  totalCount: 289
+  relevance: 99942
+  mainGender: f
+
+ -ogie:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 290
+  relevance: 100290
+  mainGender: f
+
+ -piel:
+  masculinePercentage: 0.00
+  neuterPercentage: 100.00
+  femininePercentage: 0.00
+  totalCount: 121
+  relevance: 100121
+  mainGender: n
+
+ -port:
+  masculinePercentage: 99.17
+  neuterPercentage: 0.83
+  femininePercentage: 0.00
+  totalCount: 121
+  relevance: 99294
+  mainGender: m
+
+ -reis:
+  masculinePercentage: 96.00
+  neuterPercentage: 4.00
+  femininePercentage: 0.00
+  totalCount: 150
+  relevance: 96150
+  mainGender: m
+
+ -rium:
+  masculinePercentage: 0.00
+  neuterPercentage: 100.00
+  femininePercentage: 0.00
+  totalCount: 141
+  relevance: 100141
+  mainGender: n
+
+ -ruch:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 213
+  relevance: 100213
+  mainGender: m
+
+ -rung:
+  masculinePercentage: 2.86
+  neuterPercentage: 0.00
+  femininePercentage: 97.14
+  totalCount: 838
+  relevance: 97974
+  mainGender: f
+
+ -satz:
+  masculinePercentage: 99.31
+  neuterPercentage: 0.69
+  femininePercentage: 0.00
+  totalCount: 145
+  relevance: 99455
+  mainGender: m
+
+ -sche:
+  masculinePercentage: 5.45
+  neuterPercentage: 11.95
+  femininePercentage: 82.60
+  totalCount: 385
+  relevance: 82982
+  mainGender: f
+
+ -sion:
+  masculinePercentage: 0.00
+  neuterPercentage: 1.92
+  femininePercentage: 98.08
+  totalCount: 156
+  relevance: 98232
+  mainGender: f
+
+ -smus:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 486
+  relevance: 100486
+  mainGender: m
+
+ -ssel:
+  masculinePercentage: 66.67
+  neuterPercentage: 1.96
+  femininePercentage: 31.37
+  totalCount: 102
+  relevance: 66768
+  mainGender: m
+
+ -sser:
+  masculinePercentage: 35.40
+  neuterPercentage: 63.98
+  femininePercentage: 0.62
+  totalCount: 161
+  relevance: 64136
+  mainGender: n
+
+ -ster:
+  masculinePercentage: 66.07
+  neuterPercentage: 26.13
+  femininePercentage: 7.81
+  totalCount: 333
+  relevance: 66399
+  mainGender: m
+
+ -stik:
+  masculinePercentage: 2.50
+  neuterPercentage: 0.83
+  femininePercentage: 96.67
+  totalCount: 120
+  relevance: 96786
+  mainGender: f
+
+ -stin:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 144
+  relevance: 100144
+  mainGender: f
+
+ -such:
+  masculinePercentage: 94.62
+  neuterPercentage: 5.38
+  femininePercentage: 0.00
+  totalCount: 130
+  relevance: 94745
+  mainGender: m
+
+ -sung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 108
+  relevance: 100108
+  mainGender: f
+
+ -tand:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 164
+  relevance: 100164
+  mainGender: m
+
+ -tein:
+  masculinePercentage: 84.07
+  neuterPercentage: 15.93
+  femininePercentage: 0.00
+  totalCount: 113
+  relevance: 84183
+  mainGender: m
+
+ -tier:
+  masculinePercentage: 20.59
+  neuterPercentage: 79.41
+  femininePercentage: 0.00
+  totalCount: 102
+  relevance: 79513
+  mainGender: n
+
+ -tion:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.28
+  femininePercentage: 99.72
+  totalCount: 1078
+  relevance: 100799
+  mainGender: f
+
+ -trag:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 169
+  relevance: 100169
+  mainGender: m
+
+ -trie:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 102
+  relevance: 100102
+  mainGender: f
+
+ -ttel:
+  masculinePercentage: 24.07
+  neuterPercentage: 71.30
+  femininePercentage: 4.63
+  totalCount: 108
+  relevance: 71404
+  mainGender: n
+
+ -tter:
+  masculinePercentage: 34.68
+  neuterPercentage: 38.15
+  femininePercentage: 27.17
+  totalCount: 173
+  relevance: 38323
+  mainGender: n
+
+ -tung:
+  masculinePercentage: 0.15
+  neuterPercentage: 0.00
+  femininePercentage: 99.85
+  totalCount: 650
+  relevance: 100496
+  mainGender: f
+
+ -ucht:
+  masculinePercentage: 0.92
+  neuterPercentage: 0.92
+  femininePercentage: 98.17
+  totalCount: 109
+  relevance: 98274
+  mainGender: f
+
+ -unde:
+  masculinePercentage: 6.61
+  neuterPercentage: 0.00
+  femininePercentage: 93.39
+  totalCount: 121
+  relevance: 93509
+  mainGender: f
+
+ -uppe:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 134
+  relevance: 100134
+  mainGender: f
+
+ -wein:
+  masculinePercentage: 85.84
+  neuterPercentage: 14.16
+  femininePercentage: 0.00
+  totalCount: 113
+  relevance: 85953
+  mainGender: m
+
+ -werk:
+  masculinePercentage: 0.74
+  neuterPercentage: 99.26
+  femininePercentage: 0.00
+  totalCount: 136
+  relevance: 99400
+  mainGender: n
+
+ -wort:
+  masculinePercentage: 0.59
+  neuterPercentage: 98.24
+  femininePercentage: 1.18
+  totalCount: 170
+  relevance: 98405
+  mainGender: n
+
+ -zeit:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 166
+  relevance: 100166
+  mainGender: f
+
+ -zeug:
+  masculinePercentage: 0.00
+  neuterPercentage: 99.10
+  femininePercentage: 0.90
+  totalCount: 111
+  relevance: 99210
+  mainGender: n
+
+ -zung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 153
+  relevance: 100153
+  mainGender: f
+
+ -äure:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 208
+  relevance: 100208
+  mainGender: f
+
+5:
+ -ation:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.31
+  femininePercentage: 99.69
+  totalCount: 653
+  relevance: 100346
+  mainGender: f
+
+ -chaft:
+  masculinePercentage: 1.45
+  neuterPercentage: 0.29
+  femininePercentage: 98.26
+  totalCount: 345
+  relevance: 98605
+  mainGender: f
+
+ -chine:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 105
+  relevance: 100105
+  mainGender: f
+
+ -chter:
+  masculinePercentage: 84.31
+  neuterPercentage: 3.92
+  femininePercentage: 11.76
+  totalCount: 102
+  relevance: 84415
+  mainGender: m
+
+ -chung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 144
+  relevance: 100144
+  mainGender: f
+
+ -eiter:
+  masculinePercentage: 89.86
+  neuterPercentage: 0.00
+  femininePercentage: 10.14
+  totalCount: 148
+  relevance: 90012
+  mainGender: m
+
+ -eruch:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 100
+  relevance: 100100
+  mainGender: m
+
+ -erung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 635
+  relevance: 100635
+  mainGender: f
+
+ -ftung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 123
+  relevance: 100123
+  mainGender: f
+
+ -gerin:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.69
+  femininePercentage: 99.31
+  totalCount: 144
+  relevance: 99449
+  mainGender: f
+
+ -gkeit:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 321
+  relevance: 100321
+  mainGender: f
+
+ -herin:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 100
+  relevance: 100100
+  mainGender: f
+
+ -hkeit:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 133
+  relevance: 100133
+  mainGender: f
+
+ -hnung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 121
+  relevance: 100121
+  mainGender: f
+
+ -htung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 104
+  relevance: 100104
+  mainGender: f
+
+ -igung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 161
+  relevance: 100161
+  mainGender: f
+
+ -ische:
+  masculinePercentage: 8.20
+  neuterPercentage: 22.40
+  femininePercentage: 69.40
+  totalCount: 183
+  relevance: 69581
+  mainGender: f
+
+ -ismus:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 473
+  relevance: 100473
+  mainGender: m
+
+ -ister:
+  masculinePercentage: 90.91
+  neuterPercentage: 8.44
+  femininePercentage: 0.65
+  totalCount: 154
+  relevance: 91063
+  mainGender: m
+
+ -istin:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 137
+  relevance: 100137
+  mainGender: f
+
+ -itung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 129
+  relevance: 100129
+  mainGender: f
+
+ -kerin:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 111
+  relevance: 100111
+  mainGender: f
+
+ -ktion:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 244
+  relevance: 100244
+  mainGender: f
+
+ -lerin:
+  masculinePercentage: 0.48
+  neuterPercentage: 0.00
+  femininePercentage: 99.52
+  totalCount: 209
+  relevance: 99730
+  mainGender: f
+
+ -lität:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 165
+  relevance: 100165
+  mainGender: f
+
+ -llung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 103
+  relevance: 100103
+  mainGender: f
+
+ -logie:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 288
+  relevance: 100288
+  mainGender: f
+
+ -ndung:
+  masculinePercentage: 0.52
+  neuterPercentage: 0.00
+  femininePercentage: 99.48
+  totalCount: 192
+  relevance: 99671
+  mainGender: f
+
+ -nerin:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 201
+  relevance: 100201
+  mainGender: f
+
+ -pelle:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 103
+  relevance: 100103
+  mainGender: f
+
+ -rache:
+  masculinePercentage: 0.46
+  neuterPercentage: 0.00
+  femininePercentage: 99.54
+  totalCount: 219
+  relevance: 99762
+  mainGender: f
+
+ -rerin:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 130
+  relevance: 100130
+  mainGender: f
+
+ -richt:
+  masculinePercentage: 58.82
+  neuterPercentage: 35.29
+  femininePercentage: 5.88
+  totalCount: 119
+  relevance: 58942
+  mainGender: m
+
+ -spiel:
+  masculinePercentage: 0.00
+  neuterPercentage: 100.00
+  femininePercentage: 0.00
+  totalCount: 121
+  relevance: 100121
+  mainGender: n
+
+ -stand:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 161
+  relevance: 100161
+  mainGender: m
+
+ -stein:
+  masculinePercentage: 91.35
+  neuterPercentage: 8.65
+  femininePercentage: 0.00
+  totalCount: 104
+  relevance: 91450
+  mainGender: m
+
+ -säure:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 208
+  relevance: 100208
+  mainGender: f
+
+ -terin:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.76
+  femininePercentage: 99.24
+  totalCount: 262
+  relevance: 99498
+  mainGender: f
+
+ -tzung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 107
+  relevance: 100107
+  mainGender: f
+
+ -ublik:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 114
+  relevance: 100114
+  mainGender: f
+
+6:
+ -alität:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 112
+  relevance: 100112
+  mainGender: f
+
+ -apelle:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 103
+  relevance: 100103
+  mainGender: f
+
+ -chkeit:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 133
+  relevance: 100133
+  mainGender: f
+
+ -chtung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 104
+  relevance: 100104
+  mainGender: f
+
+ -eitung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 129
+  relevance: 100129
+  mainGender: f
+
+ -hrerin:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 103
+  relevance: 100103
+  mainGender: f
+
+ -ierung:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 368
+  relevance: 100368
+  mainGender: f
+
+ -igkeit:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 321
+  relevance: 100321
+  mainGender: f
+
+ -lismus:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 105
+  relevance: 100105
+  mainGender: m
+
+ -nismus:
+  masculinePercentage: 100.00
+  neuterPercentage: 0.00
+  femininePercentage: 0.00
+  totalCount: 101
+  relevance: 100101
+  mainGender: m
+
+ -nsäure:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 127
+  relevance: 100127
+  mainGender: f
+
+ -ologie:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 273
+  relevance: 100273
+  mainGender: f
+
+ -prache:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 215
+  relevance: 100215
+  mainGender: f
+
+ -publik:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 114
+  relevance: 100114
+  mainGender: f
+
+ -ration:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 120
+  relevance: 100120
+  mainGender: f
+
+ -schaft:
+  masculinePercentage: 1.16
+  neuterPercentage: 0.29
+  femininePercentage: 98.55
+  totalCount: 344
+  relevance: 98890
+  mainGender: f
+
+ -schine:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 104
+  relevance: 100104
+  mainGender: f
+
+ -tation:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 112
+  relevance: 100112
+  mainGender: f
+
+ -uktion:
+  masculinePercentage: 0.00
+  neuterPercentage: 0.00
+  femininePercentage: 100.00
+  totalCount: 110
+  relevance: 100110
+  mainGender: f
+

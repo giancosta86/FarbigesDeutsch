@@ -7,7 +7,7 @@ excerpt: How noun gender is affected by the word beginning
 {% include germanStatsNotice.html %}
 
 
-{% for beginningLengthEntry in site.data.gender.genderStatsByBeginning %}
+{% for beginningLengthEntry in site.data.stats.gender.byBeginning %}
 {% assign beginningLength = beginningLengthEntry[0] %}
 {% assign groupingSubMap = beginningLengthEntry[1] %}
 

@@ -1,0 +1,52 @@
+---
+layout: page
+title: Plurals
+bodyClass: plurals
+excerpt: How noun plural is affected by the word ending and gender
+---
+
+{% include germanStatsNotice.html %}
+
+{% for pluralEntry in site.data.stats.plural.byEndingAndGender %}
+{% assign transformsCount = pluralEntry[0] %}
+{% assign rules = pluralEntry[1] %}
+
+<section>
+  <h2>Words having {{ transformsCount }} possible plural form(s)</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <td>Ending</td>
+        <td>Gender</td>
+        <td>Plural transforms</td>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for rule in rules %}
+
+      {% if rule.gender == "m" %}
+      {% capture rowStyle %}background: rgba(30, 144, 255, {{ rule.maxPercentage | divided_by: 100 }});{% endcapture %}
+      {% elsif rule.gender == "n" %}
+      {% capture rowStyle %}background: rgba(50, 205, 50, {{ rule.maxPercentage | divided_by: 100 }});{% endcapture %}
+      {% else %}
+      {% capture rowStyle %}background: rgba(238, 130, 238, {{ rule.maxPercentage | divided_by: 100 }});{% endcapture %}
+      {% endif %}
+
+      <tr style="{{ rowStyle }}">
+        <td>-{{ rule.ending }}</td>
+        <td>{{ rule.gender }}</td>
+
+        <td class="transformsCell">
+          {% for transformFrequency in rule.transformFrequencies %}
+          {{ transformFrequency.transform }} (<span class="details" title="{{ transformFrequency.count}} / {{ rule.totalCount }}">{{ transformFrequency.percentage}}%</span>)<br/>
+          {% endfor %}
+        </td>
+      </tr>
+
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+{% endfor %}
