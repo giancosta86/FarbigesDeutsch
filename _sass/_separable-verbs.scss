@@ -1,0 +1,54 @@
+.separableVerbs {
+    .stemVerb {
+        font-weight: bold;
+        padding: 0.4em;
+        font-size: 1.5em;        
+    }
+
+
+    .meanings {            
+        font-style: italic;
+    }
+
+
+    table {
+        width: 100%;        
+        padding: 0;
+        margin-bottom: 4em;
+
+        td {
+            border: 1px solid black;
+            padding: 0.5em;
+        }
+
+        .prefix {
+            margin-top: 1em;
+            font-weight: bold;    
+        }
+    }
+
+
+    .weak {
+        background: lighten(yellow, 5%);
+    }
+
+    
+    .strong {
+        background: paleturquoise;        
+    }
+
+
+    .mixed {
+        background: lighten(forestgreen, 16%);
+    }
+
+
+    .modal {
+        background: pink;
+    }
+
+
+    .auxiliary {
+        background: lighten(blueviolet, 16%);
+    }
+}

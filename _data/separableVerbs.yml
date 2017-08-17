@@ -1,0 +1,1997 @@
+arbeiten:
+  type: weak
+
+  meanings:
+    - work
+    - labour
+  
+  prefixes:
+    ab:
+      - work off
+      - (sich) -> work like a slave    
+
+    auf:
+      - get through
+      - use up
+      - (Erkenntnisse) consolidate
+
+    ein:
+      - train
+      - (sich) -> familiarize
+
+    empor:
+      - (sich) -> work one’s way up
+
+    mit:
+      - cooperate
+
+
+
+bauen:
+  type: weak
+
+  meanings:
+    - build, erect
+
+  prefixes:
+    ab:
+      - dismantle, disassemble
+      - extract (resources)
+
+    an:
+      - cultivate, grow, raise
+
+    auf:
+      - build up
+
+    aus:
+      - expand, enlarge
+      - strengthen
+      - dismantle, remove
+
+    ein:
+      - install, mount
+      - integrate, incorporate
+
+
+
+bereiten:
+  type: weak
+
+  meanings:
+    - prepare
+
+  prefixes:
+    vor:
+      - prepare
+    
+    zu:
+      - cook
+
+
+
+bieten:
+  type: strong
+
+  meanings:
+    - offer, present
+    - provide
+
+  prefixes:
+    an:
+      - offer
+      - provide
+
+    dar:
+      - present
+      - perform
+
+
+
+bilden:
+  type: weak
+
+  meanings:
+    - form
+    - make, produce
+    - build (abstract)
+    - generate
+
+  prefixes:
+    ab:
+      - portray, depict
+      - map
+
+    aus:
+      - train, educate
+      - develop
+    
+    ein:
+     - (sich) -> imagine
+  
+    
+
+bleiben:
+  type: strong
+
+  meanings:
+    - stay, remain
+
+  prefixes:
+    auf:
+      - stay up (late)
+
+    zurück:
+      - remain behind
+
+
+
+blicken:
+  type: weak
+
+  meanings:
+    - glance, peek
+
+  prefixes:
+    herein:
+      - look in
+
+    hinaus:
+      - look out
+
+    weg:
+      - look away
+
+    zurück:
+      - look back
+
+
+brechen:
+  type: strong
+
+  meanings:
+    - break
+    - violate
+
+  prefixes:
+    ab:
+      - interrupt, cancel, abort
+      - truncate
+
+    auf:
+      - break
+      - set out, set forth      
+
+    ein:
+      - break in
+      - collapse
+
+    heraus:
+      - break out
+      - wrench out
+    
+
+
+bringen:
+  type: mixed
+
+  meanings:
+    - bring
+    - take
+    - accompany
+    - cause
+  
+  prefixes:
+    an:
+      - affix, attach
+      - mount, install
+      - put up
+
+    heimbringen:
+      - take home
+
+    her:
+      - bring
+
+    heraus:
+      - publish, bring out
+      - produce
+
+    hervor:
+      - create
+      - put forth
+
+    mit:
+      - bring, bring along
+
+    vor:
+      - state
+      - put forward, suggest
+
+    wieder:
+      - bring back
+
+    zurück:
+      - bring back      
+   
+    
+
+decken:
+  type: weak
+
+  meanings:
+    - cover
+
+  prefixes:
+    auf:
+      - uncover
+      - reveal, detect
+
+    zu:
+      - cover
+
+
+
+denken:
+  type: mixed
+
+  meanings:
+    - think
+
+  prefixes:
+    aus:
+      - come up with, invent
+      - make up
+
+    hinein:
+      - (sich) -> try to understand sb's situation
+
+    hinzu:
+      - imagine
+    
+    nach:
+      - ponder, meditate
+
+    vor:
+      - think ahead
+
+    weg:
+      - think sth away
+
+    zurück:
+      - think back, reminisce
+
+
+
+dürfen:
+  type: modal
+
+  meanings:
+    - may, be allowed
+
+  prefixes:
+    herauf:
+      - be allowed up
+
+    weg:
+      - be allowed to go
+    
+
+
+fahren:
+  type: strong
+
+  meanings:
+    - drive
+    - go (by car, ...)
+    - ride
+
+  prefixes:
+    ab:
+      - leave
+
+    fest:
+      - get stuck
+      - reach a deadlock
+
+    heim:
+      - drive home
+
+    hin:
+      - drive there
+      - take there (by car, ...)
+
+    nach:
+      - drive after
+    
+    vor:
+      - drive in front
+
+    weg:
+      - drive away
+
+
+
+fallen:
+  type: strong
+
+  meanings:
+    - fall
+    - drop, decline
+
+  prefixes:
+    ab:
+      - drop
+      - drop off, drop away
+
+    aus:
+      - fail, malfunction
+      - turn out, result
+      - fall out (hair)
+    
+    ein:
+      - come to the mind
+
+    hereinfallen:
+      - fall in
+      - taken in
+
+    vor:
+      - occur, happen
+
+    weg:
+      - cease
+      - be cancelled
+
+
+
+fassen:
+  type: mixed
+
+  meanings:
+    - grasp, catch
+    - understand
+
+  prefixes:
+    ab:
+      - draft, formulate
+      - write
+
+    an:
+      - touch, feel
+
+    ein:
+      - edge, surround
+
+
+
+finden:
+  type: strong
+
+  meanings:
+    - find
+    - think
+
+  prefixes:
+    heim:
+      - find one's way home
+
+    her:
+      - find one's way here
+
+    heraus:
+      - discover, find
+
+    hin:
+     - find one’s way there
+
+    statt:
+      - take place, be held
+
+
+
+fügen:
+  type: weak
+
+  meanings:
+    - add
+    - join
+  
+  prefixes:
+    an:
+      - append, add
+      - attach, enclose
+
+    bei:
+      - append, add
+      - attach, enclose
+
+    hinzu:
+      - append, add
+
+
+
+führen:
+  type: weak
+
+  meanings:
+    - manage
+    - lead
+  
+  prefixes:
+    auf:
+      - perform (on stage), enact
+    
+    aus:
+      - perform (a task), carry out
+      - export
+      - take sb out
+
+    ein:
+      - introduce
+      - import
+      - implement
+      - initiate, launch
+
+    herbei:
+      - cause, bring about
+
+
+
+füllen:
+  type: weak
+
+  meanings:
+    - fill
+    - pad
+
+  prefixes:
+    aus:
+      - fill out
+      - fill in
+
+    nach:
+      - refill
+
+    
+
+geben:
+  type: strong
+
+  meanings:
+    - give
+  
+  prefixes:
+    ab:
+      - deliver
+    
+    auf:
+      - hand in
+      - (task) set, give
+      - abandon, quit
+    
+    aus:
+      - spend
+      - distribute
+
+    ein:
+      - enter
+      - put in
+      - inspire
+
+    frei:
+      - release, free
+      - enable
+      - share
+
+    her:
+      - give back
+      - give away
+
+    heraus:
+      - hand out
+      - give back, return
+      - give change
+
+    hin:
+      - devote
+
+    nach:
+      - yield
+      - give way, collapse
+
+    zu:
+      - admit, confess
+
+
+
+gehen:
+  type: strong
+
+  meanings:
+    - go
+    - walk
+    - work
+    - be possible
+
+  prefixes:
+    auf:
+      - rise, dawn
+      - become clear
+
+    aus:
+      - go out
+      - malfunction
+      - finish
+
+    heim:
+      - walk home
+
+    hervor:
+      - come from
+      - emerge from
+    
+    hin:
+      - walk there
+
+    hinauf:
+      - go up
+
+    hinüber:
+      - walk across
+      - cross
+      - pass away
+    
+    los:
+      - leave
+    
+    vor:
+      - go first
+      - go forward
+
+    voran:
+      - walk at the head
+      - go ahead
+
+    vorbei:
+      - pass, pass by
+
+    vorüber:
+      - end
+      - pass
+
+    weg:
+      - walk away, leave
+
+
+
+greifen:
+  type: strong
+
+  meanings:
+    - grab, grasp
+
+  prefixes:
+    ab:
+      - thumb
+    
+    an:
+      - attack
+      - corrode
+    
+    vor:
+      - anticipate
+
+
+
+haben:
+  type: auxiliary
+
+  meanings:
+    - have, own
+
+  prefixes:
+    an:
+      - wear
+
+    gut:
+      - have credit for
+
+    teil:
+      - participate, take part
+    
+    vor:
+      - plan
+      - mean, intend
+
+    wahr:
+      - believe
+
+
+
+halten:
+  type: strong
+
+  meanings:
+    - hold
+    - stop
+
+  prefixes:
+    an:
+      - stop
+      - continue
+      - encourage
+
+    aus:
+      - withstand, endure, bear
+
+    fest:
+      - hold
+      - cherish
+
+    frei:
+      - pay for everything
+      - keep clear
+
+    stand:
+      - withstand, resist
+
+    still:
+      - keep still
+
+    vor:
+      - hold sth in front of sb
+      - reproach sb with sth
+
+    zurück:
+      - hold back
+      - restrain
+
+
+
+heben:
+  type: strong
+
+  meanings:
+    - lift
+    - raise
+  
+  prefixes:
+    ab:
+      - withdraw
+      - take off (plane)
+      - lift
+    
+    auf:
+      - cancel, lift
+      - abolish
+      - pick up
+
+    empor:
+      - lift up, lift
+
+    hervor:
+      - highlight
+      - emphasize
+
+    
+
+helfen:
+  type: strong
+
+  meanings:
+    - help, support, assist
+
+  prefixes:
+    nach:
+      - help
+    
+    herab:
+      - help sb down
+    
+    herunter:
+      - help sb down
+
+    hinauf:
+      - help sb up
+          
+
+
+holen:
+  type: weak
+
+  meanings:
+    - get, fetch
+    - call for
+
+  prefixes:
+    ab:
+      - fetch
+      - pick up
+
+    auf:
+      - make up for
+      - catch up on
+
+    her:
+      - fetch, get
+
+    zurück:
+      - fetch back, get back
+
+
+
+hören:
+  type: weak
+
+  meanings:
+    - hear
+    - listen
+    - listen to
+    - learn
+
+  prefixes:
+    ab:
+      - intercept, eavesdrop
+    
+    an:
+      - listen to, hear
+
+    auf:
+      - stop, cease
+
+    mit:
+      - overhear
+      - listen to
+    
+    zu:
+      - listen to
+
+
+
+kaufen:
+  type: weak
+
+  meanings:
+    - buy, purchase
+
+  prefixes:
+    ein:
+      - shop
+
+    los:
+      - ransom
+
+
+
+kommen:
+  type: strong
+
+  meanings:
+    - come
+    - arrive
+    - get
+
+  prefixes:
+    an:
+      - arrive
+      - depend
+
+    heraus:
+      - come out
+      - appear
+      - emerge
+    
+    herüber:
+      - come over (this way)
+
+    herunter:
+      - come down
+
+    hin:
+      - come there
+
+    los:
+      - get away
+      - give up
+
+    nach:
+      - comply, fulfill
+      - follow
+
+    voran:
+      - progress effortlessly
+
+    weg:
+      - get away, get lost
+
+
+
+laden:
+  type: strong
+
+  meanings:
+    - load
+
+  prefixes:
+    ab:
+      - unload    
+    
+    auf:
+      - load
+      - charge (battery)
+
+    ein:
+      - invite
+      - load
+
+    vor:
+      - cite
+      - summon
+
+
+
+laufen:
+  type: strong
+
+  meanings:
+    - walk fast, run
+    - function, work
+    - tick, pass
+
+  prefixes:
+    ab:
+      - run out (time)
+      - expire
+
+    an:
+      - start
+      - run
+
+    nach:
+      - run after
+
+  
+
+lassen:
+  type: strong
+
+  meanings:
+    - let, leave
+
+  prefixes:
+    an:
+      - start
+
+    aus:
+      - skip, omit
+
+    frei:
+      - release, free
+      - loose
+
+    herab:
+      - lower, let down
+      - deign to talk
+
+    los:
+      - release, let go      
+
+    nach:
+      - diminish, lessen
+
+    vorbei:
+      - let pass
+
+    weg:
+      - omit
+      - let go
+
+
+
+legen:
+  type: weak
+
+  meanings:
+    - lay, put down    
+  
+  prefixes:
+    ab:
+      - put down, drop
+
+    an:
+      - apply
+      - land
+
+    aus:
+      - interpret
+      - design
+      - disburse
+
+    bei:
+      - attach, enclose
+
+    dar:
+      - state
+      - clarify
+      - exhibit
+
+    ein:
+      - insert
+
+    fest:
+      - establish
+      - set
+      - schedule
+
+    hin:
+      - lay down
+      - (sich) -> lie down
+
+    los:
+      - get started
+      - get going
+
+    still:
+      - shut down
+
+    zurück:
+      - travel
+      - put aside
+      - lay back
+
+
+
+machen:
+  type: weak
+
+  meanings:
+    - make, create
+    - do
+    - prepare
+  
+  prefixes:
+    auf:
+      - open
+
+    aus:
+      - turn off, put out
+      - matter
+
+    fest:
+      - fasten. tie up
+      - tether
+
+    frei:
+      - free
+      - undress
+
+    gut:
+      - rectify
+    
+    mit:
+      - participate, get involved
+
+    nach:
+      - copy
+      - imitate
+
+    vor:
+      - demonstrate
+
+    zu:
+      - close, shut
+      - seal
+
+
+
+müssen:
+  type: modal
+
+  meanings:
+    - must
+    - have to
+
+  prefixes:
+    herauf:
+      - have to go up
+
+    hin:
+      - have to go there
+    
+    weg:
+      - have to go
+
+
+
+nehmen:
+  type: strong
+
+  meanings:
+    - take
+    - select
+    - choose
+    - accept
+  
+  prefixes:
+    ab:
+      - lose weight
+      - decrease, decline
+      - take off, take away
+
+    an:
+      - accept
+      - assume, believe
+    
+    auf:
+      - take a picture
+      - welcome
+      - react to
+
+    ein:
+      - take, earn
+      - capture, occupy
+
+    fest:
+      - put under arrest
+
+    heraus:
+      - take out
+      - remove
+
+    hin:
+      - endure, tolerate, suffer
+
+    mit:
+      - take along
+
+    teil:
+      - participate, take part
+      - witness, attend
+
+    vor:
+      - (sich) -> plan
+      - deal with
+
+    vorweg:
+      - anticipate
+
+    wahr:
+      - take notice of
+      - keep
+      - take advantage of
+    
+    zu:
+      - gain weight
+      - grow, expand
+
+    zurück:
+      - take back
+      - retract
+
+
+
+packen:
+  type: weak
+
+  meanings:
+    - pack
+    - wrap
+  
+  prefixes:
+    ab:
+      - pack up, package
+      - unload, discharge
+
+    aus:
+      - unpack
+      - unwrap
+
+    ein:
+      - pack (up)
+      - wrap (up)
+
+
+
+passen:
+  type: weak
+
+  meanings:
+    - fit
+    - match
+    - suit, be suitable
+
+  prefixes:
+    an:
+      - adapt, adjust
+
+    hinein:
+      - fit in
+
+
+
+rechnen:
+  type: weak
+
+  meanings:
+    - calculate, reckon
+    - estimate
+
+  prefixes:
+    an:
+      - credit
+      - take into account
+
+    nach:
+      - check the calculation, recalculate
+
+
+
+reichen:
+  type: weak
+
+  meanings:
+    - reach
+    - be enough
+    - pass, hand
+
+  prefixes:
+    aus:
+      - suffice, be enough
+
+    ein:
+      - hand, submit, file
+
+
+    
+reden:
+  type: weak
+
+  meanings:
+    - talk
+
+  prefixes:
+    an:
+      - address, speak to
+
+    auf:
+      - talk sb into accepting sth
+    
+    aus:
+      - finish speaking
+
+    hinein:
+      - interrupt
+      - interfere
+
+    mit:
+      - have one's say too
+
+    nach:
+      - repeat, echo
+
+    
+
+rufen:
+  type: strong
+
+  meanings:
+    - call
+
+  prefixes:
+    ab:
+      - call away
+
+    an:
+      - to phone
+
+    auf:
+      - to call somebody's name
+
+    aus:
+      - cry, shout
+
+    hervor:
+      - give rise to
+      - bring about
+
+
+
+sagen:
+  type: weak
+
+  meanings:
+    - say
+    - tell
+    - mean
+
+  prefixes:
+    ab:
+      - cancel, call off
+      - undo
+
+    an:
+      - announce
+      - introduce
+      - declare
+
+    aus:
+      - state
+      - testify
+      - claim
+
+    voraus:
+      - forecast
+      - predict, foretell
+
+    wahr:
+      - tell fortunes
+      - prophesy
+
+
+
+schalten:
+  type: weak
+
+  meanings:
+    - switch, turn
+    - operate, control
+
+  prefixes:
+    ab:
+      - switch off, turn off
+      - disconnect, cut off
+
+    an:
+      - switch on, turn on
+      - connect
+    
+    aus:
+      - switch off, turn off
+      - disconnect
+
+    ein:
+      - switch on, turn on
+      - insert
+
+
+
+schauen:
+  type: weak
+
+  meanings:
+    - look
+    - watch
+    - see
+  
+  prefixes:
+    an:
+      - look at
+
+    herein:
+      - look in
+
+    zu:
+      - watch
+
+
+
+schicken:
+  type: weak
+
+  meanings:
+    - send
+
+  prefixes:
+    ab:
+      - send off, dispatch      
+
+    an:
+      - to get ready
+
+    aus:
+      - send off, dispatch
+
+    ein:
+      - send in
+
+    voraus:
+      - send ahead
+      - mention first
+
+    weg:
+      - send away
+      - send off, dispatch
+
+
+
+schlagen:
+  type: strong
+
+  meanings:
+    - beat, hit
+    - strike
+    - defeat
+
+  prefixes:
+    nach:
+      - look up (in a book)
+
+    vor:
+      - propose
+
+    zu:
+      - close
+      - slam
+      - add
+
+
+schließen:
+  type: strong
+
+  meanings:
+    - shut, close
+    - lock
+
+  prefixes:
+    ab: 
+      - conclude
+      - end, complete
+      - lock
+
+    an:
+      - join, connect
+      - attach
+
+    auf:
+      - open
+      - unlock
+      - dissolve
+
+    aus:
+      - exclude
+
+    ein:
+      - enclose
+      - confine
+
+    
+
+schreiben:
+  type: strong
+
+  meanings:
+    - write
+
+  prefixes:
+    ab:
+      - copy
+      - write off
+    
+    auf:
+      - write down, make a note of
+
+    ein:
+      - enroll
+      - send by registered mail
+
+    gut:
+      - credit
+    
+    mit:
+      - write down, make notes of
+
+    zu:
+      - attribute to
+      - impute to
+
+
+
+sehen:
+  type: strong
+
+  meanings:
+    - see
+    - look
+    - meet
+    - look after
+
+  prefixes:
+    an:
+      - look at, view
+
+    aus:
+      - appear, look, seem
+
+    ein:
+      - understand, realize, accept
+
+    hin:
+      - look there
+
+    nach:
+      - gaze after
+      - inspect, check
+      - overlook
+
+    vor:
+      - schedule, plan
+      - (sich) -> be careful, watch out
+
+    wieder:
+      - see again, meet again
+
+
+
+setzen:
+  type: weak
+
+  meanings:
+    - sit
+    - set
+    - plant
+    - settle
+
+  prefixes:
+    ab:      
+      - overthrow
+      - sell
+
+    aus:
+      - suspend
+      - abandon
+
+    fest:
+      - set
+      - appoint
+      - determine
+
+    herab:
+      - reduce, diminish
+
+    herauf:
+      - raise, increase
+
+    voraus:
+      - require
+      - assume, expect
+
+
+
+sitzen:
+  type: strong
+
+  meanings:
+    - sit
+
+  prefixes:
+    herum:
+      - sit round
+
+    still:
+      - sit still
+
+    
+
+sprechen:
+  type: strong
+
+  meanings:
+    - speak
+    - talk
+    - say
+  
+  prefixes:
+    an:
+      - speak to
+    
+    aus:
+      - pronounce
+      - express
+
+    frei:
+      - acquit
+      - exonerate
+
+    los:
+      - release
+
+
+
+stehen:
+  type: strong
+
+  meanings:
+    - stand
+    - be written
+    - be
+  
+  prefixes:
+    an:
+      - stand in a queue
+    
+    auf:
+      - stand up, get up
+
+    bei:
+      - stand by, assist
+
+    frei:
+      - be allowed
+      - be vacant
+
+    still:
+      - stand still
+
+    
+
+steigen:
+  type: strong
+
+  meanings:
+    - rise, go up
+    - climb
+    - increase
+
+  prefixes:
+    aus:
+      - get out
+      - get off
+    
+    ein:
+      - board, get on
+      - get in
+
+    empor:
+      - rise
+    
+    um:
+      change, switch (transport)
+  
+
+
+stellen:
+  type: weak
+
+  meanings:
+    - put
+    - place
+    - provide
+
+  prefixes:
+    auf:
+      - put up
+      - establish
+      - set up
+    
+    aus:
+      - exhibit
+
+    dar:
+      - show
+      - present
+      - depict
+
+    ein:
+      - put in
+      - employ, hire, appoint
+      - shelve
+
+    fest:
+      - ascertain
+      - determine      
+      - realize
+
+    her:
+      - make, produce
+
+    heraus:
+      - highlight
+      - emphasize
+
+    hin:
+      - put down
+
+    nach:
+      - adjust
+      - reset
+      - be after, chase (sb)
+
+    vor:
+      - put forward
+      - introduce
+      - imagine, portray
+
+    voran:
+      - prefix
+      - put first
+
+    zu:
+      - deliver
+    
+
+
+stimmen:
+  type: weak
+
+  meanings:
+    - tune
+    - be right
+  
+  prefixes:
+    ab:
+      - vote
+      - tune
+      - (sich) -> come to an agreement
+
+    an:
+      - play
+      - intone
+
+    ein:
+      - tune up
+
+    zu:
+      - to agree with
+      - to consent to
+
+
+
+suchen:
+  type: weak
+
+  meanings:
+    - seek, look for, search for
+  
+  prefixes:
+    aus:
+      - choose, select
+
+    heim:
+      - haunt, infest
+
+
+    
+teilen:
+  type: weak
+
+  meanings:
+    - divide, split
+    - share
+
+  prefixes:
+    ab:
+      - partition
+    
+    aus:
+      - handout, distribute
+
+    mit:
+      - inform, communicate
+
+    zu:
+      - assign
+      - allocate
+
+
+
+tragen:
+  type: strong
+
+  meanings:
+    - take
+    - hold, carry
+    - wear
+  
+  prefixes:
+    aus:
+      - deliver
+      - resolve
+      - hold
+    
+    bei:
+      - contribute
+
+    ein:
+      - register
+      - enter (info)
+
+    herum:
+      - carry around
+
+    weg:
+      - carry away, take away
+
+    
+
+treiben:
+  type: strong
+
+  meanings:
+    - drive
+    - push
+    - drift
+    - practice, do
+
+  prefixes:
+    aus:
+      - drive out
+
+    ein:
+      - collect
+      - drive in
+
+
+
+treten:
+  type: strong
+
+  meanings:
+    - step
+    - walk
+    - go
+    - move
+
+  prefixes:
+    ab:
+      - hand over
+      - retire
+      - abdicate
+      - exit (stage)
+
+    aus:
+      - come out
+      - leak out
+      - leave
+      - quit
+
+    bei:
+      - join, accede to, enter
+
+    ein:
+      - enter
+      - occur, happen
+
+    heran:
+      - approach (person/problem)
+      - get closer to
+
+    zurück:
+      - step back
+      - resign
+      - abdicate
+
+
+
+tun:
+  type: strong
+
+  meanings:
+    - do, act  
+
+  prefixes:
+    gut:
+      - do good, benefit
+
+    hervor:
+      - (sich) -> distinguish oneself
+      - (sich) -> show off, give oneself airs
+
+    weg:
+      - put away, put aside
+
+  
+
+wachsen:
+  type: strong
+
+  meanings:
+    - grow
+
+  prefixes:
+    empor:
+      - grow up
+
+    heran:
+      - grow up
+
+    hinein:
+      - grow into
+      
+    nach:
+      - regrow
+    
+
+
+weisen:
+  type: strong
+
+  meanings:
+    - point, indicate
+    - direct
+
+  prefixes:
+    an:
+      - instruct
+
+    hin:
+      - point out
+      - suggest
+
+    nach:
+      - prove, determine
+
+
+  
+wenden:
+  type: weak
+
+  meanings:
+    - turn
+    - (sich) -> change
+
+  prefixes:
+    an:
+      - make use of, employ
+      - apply
+    
+    ein:
+      - argue, object
+    
+
+
+werfen:
+  type: strong
+  
+  meanings:
+    - throw
+
+  prefixes:
+    ab:
+      - throw away, discard
+
+    an:
+      - start, start up
+
+    auf:
+      - raise
+
+    aus:
+      - eject
+
+    ein:
+      - insert
+      - post, mail
+
+    hin:
+      - drop      
+
+    vor:
+      - reproach
+
+
+
+wollen:
+  type: modal
+
+  meanings:
+    - want
+
+  prefixes:
+    herauf:
+      - want to go up
+
+    heraus:
+      - want to go/come out
+
+    mit:
+      - want to go along
+
+
+
+zahlen:
+  type: weak
+
+  meanings:
+    - pay
+
+  prefixes:
+    ab:
+      - pay by instalments
+
+    an:
+      - deposit
+
+    ein:
+      - deposit
+
+    heim:
+      - pay back
+
+    nach:
+      - pay extra
+
+
+
+zählen:
+  type: weak
+
+  meanings:
+    - count
+
+  prefixes:
+    ab:
+      - count
+    
+    mit:
+      - take into account, include
+
+    nach:
+      - recount, count again
+
+    
+
+zeigen:
+  type: strong
+
+  meanings:
+    - show, indicate
+    - explain, illustrate
+    - reveal, expose
+
+  prefixes:
+    an:
+      - display, indicate, show
+      - advertise
+      - report, denounce
+
+
+
+ziehen:
+  type: strong
+    
+  meanings:
+    - pull
+    - drag
+    - draw
+
+  prefixes:
+    ab:
+      - withdraw
+      - strip
+      - subtract
+
+    an:
+      - put on
+      - pull
+      - attract
+
+    aus:
+      - take off, remove
+      - leave
+
+    ein:
+      - pull in
+      - collect
+      - move in
+
+    heran:
+      - consult
+      - use
+
+    hin:
+      - protract
+
+    hinaus:
+      - protect
+
+    hinzu:
+      - consult
+
+    vor:
+      - prefer
+      - pull forward
+
+    zurück:
+      - withdraw
+      - pull back

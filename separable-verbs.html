@@ -1,0 +1,42 @@
+---
+layout: page
+title: Separable verbs
+bodyClass: separableVerbs
+excerpt: The most common separable verbs, grouped by their stem
+---
+
+
+{% for stemEntry in site.data.separableVerbs %}
+
+{% assign stemInfinitive = stemEntry[0] %}
+{% assign stem = stemEntry[1] %}
+
+{% assign meaningGroupSeparator = ";&nbsp;&nbsp;&nbsp;" %}
+
+<section>
+    <h2 class="stemVerb">{{ stemInfinitive }}</h2>
+
+    <p>
+        <b>Meanings:</b> <span class="meanings">{{ stem.meanings | join: meaningGroupSeparator }}</span>
+    </p>
+
+    <p>
+        <b>Verb type:</b> {{ stem.type }}
+    </p>
+
+
+    <table class="{{ stem.type }}">
+        {% for prefixEntry in stem.prefixes %}
+        
+        {% assign prefix = prefixEntry[0] %}
+        {% assign prefixMeanings = prefixEntry[1] %}
+
+        <tr>
+            <td class="prefix">{{ prefix }}·{{ stemInfinitive }}</td>
+            <td class="meanings">{{ prefixMeanings | join: meaningGroupSeparator }}
+        </tr>
+
+        {% endfor %}
+    </table>
+</section>
+{% endfor %}
