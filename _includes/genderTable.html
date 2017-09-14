@@ -15,9 +15,9 @@
     {% assign groupingString = subEntry[0] %}
     {% assign stats = subEntry[1] %}
 
-    {% if stats.mainGender == "m" %}
+    {% if stats.mainGenus == "m" %}
     {% capture rowStyle %}background: rgba(30, 144, 255, {{ stats.masculinePercentage | divided_by: 100 }});{% endcapture %}
-    {% elsif stats.mainGender == "n" %}
+    {% elsif stats.mainGenus == "n" %}
     {% capture rowStyle %}background: rgba(50, 205, 50, {{ stats.neuterPercentage | divided_by: 100 }});{% endcapture %}
     {% else %}
     {% capture rowStyle %}background: rgba(238, 130, 238, {{ stats.femininePercentage | divided_by: 100 }});{% endcapture %}
@@ -28,7 +28,7 @@
       <td>{{ stats.masculinePercentage }} %</td>
       <td>{{ stats.neuterPercentage }} %</td>
       <td>{{ stats.femininePercentage }} %</td>
-      <td>{{ stats.mainGender }}</td>
+      <td>{{ stats.mainGenus }}</td>
       <td>{{ stats.totalCount }}</td>
     </tr>
 

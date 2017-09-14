@@ -1,0 +1,8284 @@
+1:
+ - 
+   ending: ache
+   genus: f
+   totalCount: 229
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 229
+      percentage: 100.00
+ - 
+   ending: ahl
+   genus: f
+   totalCount: 100
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 100
+      percentage: 100.00
+ - 
+   ending: alle
+   genus: f
+   totalCount: 51
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 51
+      percentage: 100.00
+ - 
+   ending: alter
+   genus: m
+   totalCount: 54
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 54
+      percentage: 100.00
+ - 
+   ending: ange
+   genus: f
+   totalCount: 55
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 55
+      percentage: 100.00
+ - 
+   ending: anz
+   genus: f
+   totalCount: 58
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 58
+      percentage: 100.00
+ - 
+   ending: asche
+   genus: f
+   totalCount: 95
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 95
+      percentage: 100.00
+ - 
+   ending: ase
+   genus: f
+   totalCount: 92
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 92
+      percentage: 100.00
+ - 
+   ending: asse
+   genus: f
+   totalCount: 110
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 110
+      percentage: 100.00
+ - 
+   ending: ator
+   genus: m
+   totalCount: 122
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 122
+      percentage: 100.00
+ - 
+   ending: atte
+   genus: f
+   totalCount: 82
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 82
+      percentage: 100.00
+ - 
+   ending: aum
+   genus: m
+   totalCount: 186
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 186
+      percentage: 100.00
+ - 
+   ending: aus
+   genus: n
+   totalCount: 158
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 158
+      percentage: 100.00
+ - 
+   ending: bahn
+   genus: f
+   totalCount: 70
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 70
+      percentage: 100.00
+ - 
+   ending: be
+   genus: n
+   totalCount: 54
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 54
+      percentage: 100.00
+ - 
+   ending: beit
+   genus: f
+   totalCount: 55
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 55
+      percentage: 100.00
+ - 
+   ending: bend
+   genus: m
+   totalCount: 50
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 50
+      percentage: 100.00
+ - 
+   ending: bruch
+   genus: m
+   totalCount: 89
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 89
+      percentage: 100.00
+ - 
+   ending: buch
+   genus: n
+   totalCount: 139
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 139
+      percentage: 100.00
+ - 
+   ending: chen
+   genus: n
+   totalCount: 525
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 525
+      percentage: 100.00
+ - 
+   ending: cke
+   genus: f
+   totalCount: 226
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 226
+      percentage: 100.00
+ - 
+   ending: dler
+   genus: m
+   totalCount: 84
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 84
+      percentage: 100.00
+ - 
+   ending: dt
+   genus: f
+   totalCount: 70
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 70
+      percentage: 100.00
+ - 
+   ending: echer
+   genus: m
+   totalCount: 79
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 79
+      percentage: 100.00
+ - 
+   ending: egel
+   genus: m
+   totalCount: 60
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 60
+      percentage: 100.00
+ - 
+   ending: eger
+   genus: m
+   totalCount: 64
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 64
+      percentage: 100.00
+ - 
+   ending: eil
+   genus: m
+   totalCount: 51
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 51
+      percentage: 100.00
+ - 
+   ending: eis
+   genus: m
+   totalCount: 193
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 193
+      percentage: 100.00
+ - 
+   ending: eite
+   genus: f
+   totalCount: 75
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 75
+      percentage: 100.00
+ - 
+   ending: ektor
+   genus: m
+   totalCount: 56
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 56
+      percentage: 100.00
+ - 
+   ending: eler
+   genus: m
+   totalCount: 59
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 59
+      percentage: 100.00
+ - 
+   ending: ender
+   genus: m
+   totalCount: 52
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 52
+      percentage: 100.00
+ - 
+   ending: enge
+   genus: f
+   totalCount: 70
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 70
+      percentage: 100.00
+ - 
+   ending: ensch
+   genus: m
+   totalCount: 50
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 50
+      percentage: 100.00
+ - 
+   ending: ere
+   genus: f
+   totalCount: 78
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 78
+      percentage: 100.00
+ - 
+   ending: erei
+   genus: f
+   totalCount: 175
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 175
+      percentage: 100.00
+ - 
+   ending: erin
+   genus: f
+   totalCount: 1559
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-nen'
+      count: 1559
+      percentage: 100.00
+ - 
+   ending: erk
+   genus: n
+   totalCount: 125
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 125
+      percentage: 100.00
+ - 
+   ending: eruch
+   genus: m
+   totalCount: 99
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 99
+      percentage: 100.00
+ - 
+   ending: erät
+   genus: n
+   totalCount: 66
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 66
+      percentage: 100.00
+ - 
+   ending: ese
+   genus: f
+   totalCount: 86
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 86
+      percentage: 100.00
+ - 
+   ending: esse
+   genus: f
+   totalCount: 54
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 54
+      percentage: 100.00
+ - 
+   ending: ete
+   genus: f
+   totalCount: 53
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 53
+      percentage: 100.00
+ - 
+   ending: eter
+   genus: n
+   totalCount: 66
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 66
+      percentage: 100.00
+ - 
+   ending: etz
+   genus: n
+   totalCount: 56
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 56
+      percentage: 100.00
+ - 
+   ending: fall
+   genus: m
+   totalCount: 137
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 137
+      percentage: 100.00
+ - 
+   ending: fe
+   genus: f
+   totalCount: 188
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 188
+      percentage: 100.00
+ - 
+   ending: fell
+   genus: n
+   totalCount: 77
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 77
+      percentage: 100.00
+ - 
+   ending: gabe
+   genus: f
+   totalCount: 82
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 82
+      percentage: 100.00
+ - 
+   ending: gang
+   genus: m
+   totalCount: 116
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 116
+      percentage: 100.00
+ - 
+   ending: geld
+   genus: n
+   totalCount: 57
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-er'
+      count: 57
+      percentage: 100.00
+ - 
+   ending: gie
+   genus: f
+   totalCount: 102
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 102
+      percentage: 100.00
+ - 
+   ending: gin
+   genus: f
+   totalCount: 94
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-nen'
+      count: 94
+      percentage: 100.00
+ - 
+   ending: haft
+   genus: f
+   totalCount: 296
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 296
+      percentage: 100.00
+ - 
+   ending: halt
+   genus: m
+   totalCount: 68
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 68
+      percentage: 100.00
+ - 
+   ending: hein
+   genus: m
+   totalCount: 60
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 60
+      percentage: 100.00
+ - 
+   ending: heit
+   genus: f
+   totalCount: 179
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 179
+      percentage: 100.00
+ - 
+   ending: hine
+   genus: f
+   totalCount: 105
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 105
+      percentage: 100.00
+ - 
+   ending: hlag
+   genus: m
+   totalCount: 84
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 84
+      percentage: 100.00
+ - 
+   ending: hle
+   genus: f
+   totalCount: 59
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 59
+      percentage: 100.00
+ - 
+   ending: hler
+   genus: m
+   totalCount: 94
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 94
+      percentage: 100.00
+ - 
+   ending: hme
+   genus: f
+   totalCount: 70
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 70
+      percentage: 100.00
+ - 
+   ending: hof
+   genus: m
+   totalCount: 54
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 54
+      percentage: 100.00
+ - 
+   ending: hr
+   genus: f
+   totalCount: 98
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 98
+      percentage: 100.00
+ - 
+   ending: hte
+   genus: f
+   totalCount: 78
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 78
+      percentage: 100.00
+ - 
+   ending: hter
+   genus: m
+   totalCount: 90
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 90
+      percentage: 100.00
+ - 
+   ending: huss
+   genus: m
+   totalCount: 56
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 56
+      percentage: 100.00
+ - 
+   ending: ibe
+   genus: f
+   totalCount: 54
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 54
+      percentage: 100.00
+ - 
+   ending: icht
+   genus: f
+   totalCount: 79
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 79
+      percentage: 100.00
+ - 
+   ending: ieb
+   genus: m
+   totalCount: 100
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 100
+      percentage: 100.00
+ - 
+   ending: ieg
+   genus: m
+   totalCount: 63
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 63
+      percentage: 100.00
+ - 
+   ending: iel
+   genus: n
+   totalCount: 147
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 147
+      percentage: 100.00
+ - 
+   ending: iet
+   genus: n
+   totalCount: 73
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 73
+      percentage: 100.00
+ - 
+   ending: iff
+   genus: n
+   totalCount: 78
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 78
+      percentage: 100.00
+ - 
+   ending: ift
+   genus: f
+   totalCount: 81
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 81
+      percentage: 100.00
+ - 
+   ending: iger
+   genus: m
+   totalCount: 75
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 75
+      percentage: 100.00
+ - 
+   ending: iker
+   genus: m
+   totalCount: 160
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 160
+      percentage: 100.00
+ - 
+   ending: ild
+   genus: n
+   totalCount: 93
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-er'
+      count: 93
+      percentage: 100.00
+ - 
+   ending: ind
+   genus: n
+   totalCount: 59
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-er'
+      count: 59
+      percentage: 100.00
+ - 
+   ending: inie
+   genus: f
+   totalCount: 51
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 51
+      percentage: 100.00
+ - 
+   ending: ise
+   genus: f
+   totalCount: 152
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 152
+      percentage: 100.00
+ - 
+   ending: iste
+   genus: f
+   totalCount: 64
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 64
+      percentage: 100.00
+ - 
+   ending: iter
+   genus: m
+   totalCount: 150
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 150
+      percentage: 100.00
+ - 
+   ending: itt
+   genus: m
+   totalCount: 82
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 82
+      percentage: 100.00
+ - 
+   ending: ium
+   genus: n
+   totalCount: 232
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-um ⇒ -en'
+      count: 232
+      percentage: 100.00
+ - 
+   ending: keit
+   genus: f
+   totalCount: 303
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 303
+      percentage: 100.00
+ - 
+   ending: ken
+   genus: m
+   totalCount: 75
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 75
+      percentage: 100.00
+ - 
+   ending: kopf
+   genus: m
+   totalCount: 57
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 57
+      percentage: 100.00
+ - 
+   ending: ktion
+   genus: f
+   totalCount: 239
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 239
+      percentage: 100.00
+ - 
+   ending: lage
+   genus: f
+   totalCount: 170
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 170
+      percentage: 100.00
+ - 
+   ending: lation
+   genus: f
+   totalCount: 79
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 79
+      percentage: 100.00
+ - 
+   ending: latt
+   genus: n
+   totalCount: 58
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 58
+      percentage: 100.00
+ - 
+   ending: latz
+   genus: m
+   totalCount: 82
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 82
+      percentage: 100.00
+ - 
+   ending: lauf
+   genus: m
+   totalCount: 77
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 77
+      percentage: 100.00
+ - 
+   ending: laut
+   genus: m
+   totalCount: 52
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 52
+      percentage: 100.00
+ - 
+   ending: lied
+   genus: n
+   totalCount: 61
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-er'
+      count: 61
+      percentage: 100.00
+ - 
+   ending: list
+   genus: m
+   totalCount: 62
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 62
+      percentage: 100.00
+ - 
+   ending: ller
+   genus: m
+   totalCount: 125
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 125
+      percentage: 100.00
+ - 
+   ending: lt
+   genus: f
+   totalCount: 63
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 63
+      percentage: 100.00
+ - 
+   ending: luss
+   genus: m
+   totalCount: 68
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 68
+      percentage: 100.00
+ - 
+   ending: lz
+   genus: m
+   totalCount: 58
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 58
+      percentage: 100.00
+ - 
+   ending: mie
+   genus: f
+   totalCount: 130
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 130
+      percentage: 100.00
+ - 
+   ending: mme
+   genus: f
+   totalCount: 58
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 58
+      percentage: 100.00
+ - 
+   ending: mmer
+   genus: n
+   totalCount: 53
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 53
+      percentage: 100.00
+ - 
+   ending: mmer
+   genus: f
+   totalCount: 82
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 82
+      percentage: 100.00
+ - 
+   ending: mpe
+   genus: f
+   totalCount: 66
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 66
+      percentage: 100.00
+ - 
+   ending: name
+   genus: m
+   totalCount: 71
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 71
+      percentage: 100.00
+ - 
+   ending: ner
+   genus: m
+   totalCount: 487
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 487
+      percentage: 100.00
+ - 
+   ending: nik
+   genus: f
+   totalCount: 51
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 51
+      percentage: 100.00
+ - 
+   ending: nis
+   genus: n
+   totalCount: 149
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-se'
+      count: 149
+      percentage: 100.00
+ - 
+   ending: nist
+   genus: m
+   totalCount: 69
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 69
+      percentage: 100.00
+ - 
+   ending: nker
+   genus: m
+   totalCount: 59
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 59
+      percentage: 100.00
+ - 
+   ending: nte
+   genus: f
+   totalCount: 103
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 103
+      percentage: 100.00
+ - 
+   ending: ntin
+   genus: f
+   totalCount: 85
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-nen'
+      count: 85
+      percentage: 100.00
+ - 
+   ending: ode
+   genus: f
+   totalCount: 53
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 53
+      percentage: 100.00
+ - 
+   ending: oge
+   genus: m
+   totalCount: 98
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 98
+      percentage: 100.00
+ - 
+   ending: ogramm
+   genus: n
+   totalCount: 54
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 54
+      percentage: 100.00
+ - 
+   ending: olz
+   genus: n
+   totalCount: 50
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 50
+      percentage: 100.00
+ - 
+   ending: oot
+   genus: n
+   totalCount: 51
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 51
+      percentage: 100.00
+ - 
+   ending: orin
+   genus: f
+   totalCount: 51
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-nen'
+      count: 51
+      percentage: 100.00
+ - 
+   ending: ose
+   genus: f
+   totalCount: 182
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 182
+      percentage: 100.00
+ - 
+   ending: ote
+   genus: f
+   totalCount: 51
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 51
+      percentage: 100.00
+ - 
+   ending: pelle
+   genus: f
+   totalCount: 105
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 105
+      percentage: 100.00
+ - 
+   ending: pfer
+   genus: m
+   totalCount: 50
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 50
+      percentage: 100.00
+ - 
+   ending: phie
+   genus: f
+   totalCount: 61
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 61
+      percentage: 100.00
+ - 
+   ending: ppe
+   genus: f
+   totalCount: 239
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 239
+      percentage: 100.00
+ - 
+   ending: punkt
+   genus: m
+   totalCount: 80
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 80
+      percentage: 100.00
+ - 
+   ending: rage
+   genus: f
+   totalCount: 51
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 51
+      percentage: 100.00
+ - 
+   ending: ration
+   genus: f
+   totalCount: 105
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 105
+      percentage: 100.00
+ - 
+   ending: rche
+   genus: f
+   totalCount: 92
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 92
+      percentage: 100.00
+ - 
+   ending: rer
+   genus: m
+   totalCount: 314
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 314
+      percentage: 100.00
+ - 
+   ending: rger
+   genus: m
+   totalCount: 54
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 54
+      percentage: 100.00
+ - 
+   ending: rie
+   genus: f
+   totalCount: 231
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 231
+      percentage: 100.00
+ - 
+   ending: rke
+   genus: f
+   totalCount: 74
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 74
+      percentage: 100.00
+ - 
+   ending: rling
+   genus: m
+   totalCount: 55
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 55
+      percentage: 100.00
+ - 
+   ending: rm
+   genus: f
+   totalCount: 90
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 90
+      percentage: 100.00
+ - 
+   ending: rt
+   genus: f
+   totalCount: 215
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 215
+      percentage: 100.00
+ - 
+   ending: rte
+   genus: f
+   totalCount: 157
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 157
+      percentage: 100.00
+ - 
+   ending: sation
+   genus: f
+   totalCount: 63
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 63
+      percentage: 100.00
+ - 
+   ending: satz
+   genus: m
+   totalCount: 129
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 129
+      percentage: 100.00
+ - 
+   ending: sen
+   genus: n
+   totalCount: 53
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 53
+      percentage: 100.00
+ - 
+   ending: sie
+   genus: f
+   totalCount: 64
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 64
+      percentage: 100.00
+ - 
+   ending: smus
+   genus: m
+   totalCount: 155
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-us ⇒ -en'
+      count: 155
+      percentage: 100.00
+ - 
+   ending: ssel
+   genus: m
+   totalCount: 69
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 69
+      percentage: 100.00
+ - 
+   ending: stand
+   genus: m
+   totalCount: 147
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 147
+      percentage: 100.00
+ - 
+   ending: stem
+   genus: n
+   totalCount: 72
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 72
+      percentage: 100.00
+ - 
+   ending: ster
+   genus: m
+   totalCount: 217
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 217
+      percentage: 100.00
+ - 
+   ending: such
+   genus: m
+   totalCount: 123
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 123
+      percentage: 100.00
+ - 
+   ending: telle
+   genus: f
+   totalCount: 83
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 83
+      percentage: 100.00
+ - 
+   ending: tie
+   genus: f
+   totalCount: 60
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 60
+      percentage: 100.00
+ - 
+   ending: tisch
+   genus: m
+   totalCount: 54
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 54
+      percentage: 100.00
+ - 
+   ending: tler
+   genus: m
+   totalCount: 80
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 80
+      percentage: 100.00
+ - 
+   ending: toff
+   genus: m
+   totalCount: 69
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 69
+      percentage: 100.00
+ - 
+   ending: trag
+   genus: m
+   totalCount: 168
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 168
+      percentage: 100.00
+ - 
+   ending: ttel
+   genus: n
+   totalCount: 78
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 78
+      percentage: 100.00
+ - 
+   ending: tur
+   genus: f
+   totalCount: 162
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 162
+      percentage: 100.00
+ - 
+   ending: turm
+   genus: m
+   totalCount: 61
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 61
+      percentage: 100.00
+ - 
+   ending: tzer
+   genus: m
+   totalCount: 85
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 85
+      percentage: 100.00
+ - 
+   ending: ube
+   genus: f
+   totalCount: 102
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 102
+      percentage: 100.00
+ - 
+   ending: uer
+   genus: f
+   totalCount: 87
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 87
+      percentage: 100.00
+ - 
+   ending: ufer
+   genus: m
+   totalCount: 71
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 71
+      percentage: 100.00
+ - 
+   ending: ug
+   genus: n
+   totalCount: 102
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 102
+      percentage: 100.00
+ - 
+   ending: ule
+   genus: f
+   totalCount: 134
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 134
+      percentage: 100.00
+ - 
+   ending: ung
+   genus: f
+   totalCount: 3607
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 3607
+      percentage: 100.00
+ - 
+   ending: ute
+   genus: f
+   totalCount: 59
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 59
+      percentage: 100.00
+ - 
+   ending: v
+   genus: n
+   totalCount: 86
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 86
+      percentage: 100.00
+ - 
+   ending: wagen
+   genus: m
+   totalCount: 87
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 87
+      percentage: 100.00
+ - 
+   ending: wand
+   genus: f
+   totalCount: 64
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 64
+      percentage: 100.00
+ - 
+   ending: weg
+   genus: m
+   totalCount: 62
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 62
+      percentage: 100.00
+ - 
+   ending: wein
+   genus: m
+   totalCount: 92
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 92
+      percentage: 100.00
+ - 
+   ending: wert
+   genus: m
+   totalCount: 55
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 55
+      percentage: 100.00
+ - 
+   ending: ze
+   genus: f
+   totalCount: 256
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 256
+      percentage: 100.00
+ - 
+   ending: zeit
+   genus: f
+   totalCount: 136
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 136
+      percentage: 100.00
+ - 
+   ending: zug
+   genus: m
+   totalCount: 133
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 133
+      percentage: 100.00
+ - 
+   ending: ße
+   genus: f
+   totalCount: 90
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 90
+      percentage: 100.00
+ - 
+   ending: äger
+   genus: m
+   totalCount: 88
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 88
+      percentage: 100.00
+ - 
+   ending: änger
+   genus: m
+   totalCount: 97
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 97
+      percentage: 100.00
+ - 
+   ending: ät
+   genus: f
+   totalCount: 226
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 226
+      percentage: 100.00
+ - 
+   ending: ück
+   genus: n
+   totalCount: 74
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 74
+      percentage: 100.00
+ - 
+   ending: ür
+   genus: f
+   totalCount: 62
+   maxPercentage: 100.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 62
+      percentage: 100.00
+2:
+ - 
+   ending: eit
+   genus: f
+   totalCount: 675
+   maxPercentage: 99.85185185185185
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 674
+      percentage: 99.85
+ - 
+   ending: ler
+   genus: m
+   totalCount: 657
+   maxPercentage: 99.84779299847793
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 656
+      percentage: 99.85
+ - 
+   ending: tin
+   genus: f
+   totalCount: 360
+   maxPercentage: 99.72222222222223
+   transformFrequencies:
+    - 
+      transform: '-nen'
+      count: 359
+      percentage: 99.72
+ - 
+   ending: ge
+   genus: f
+   totalCount: 679
+   maxPercentage: 99.55817378497791
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 676
+      percentage: 99.56
+ - 
+   ending: ruch
+   genus: m
+   totalCount: 212
+   maxPercentage: 99.52830188679245
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 211
+      percentage: 99.53
+ - 
+   ending: sche
+   genus: f
+   totalCount: 197
+   maxPercentage: 99.49238578680203
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 196
+      percentage: 99.49
+ - 
+   ending: pe
+   genus: f
+   totalCount: 368
+   maxPercentage: 99.45652173913044
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 366
+      percentage: 99.46
+ - 
+   ending: tag
+   genus: m
+   totalCount: 183
+   maxPercentage: 99.4535519125683
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 182
+      percentage: 99.45
+ - 
+   ending: rag
+   genus: m
+   totalCount: 169
+   maxPercentage: 99.40828402366864
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 168
+      percentage: 99.41
+ - 
+   ending: zer
+   genus: m
+   totalCount: 163
+   maxPercentage: 99.38650306748467
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 162
+      percentage: 99.39
+ - 
+   ending: nger
+   genus: m
+   totalCount: 160
+   maxPercentage: 99.375
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 159
+      percentage: 99.38
+ - 
+   ending: uss
+   genus: m
+   totalCount: 154
+   maxPercentage: 99.35064935064935
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 153
+      percentage: 99.35
+ - 
+   ending: ser
+   genus: m
+   totalCount: 145
+   maxPercentage: 99.3103448275862
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 144
+      percentage: 99.31
+ - 
+   ending: ein
+   genus: m
+   totalCount: 281
+   maxPercentage: 99.28825622775801
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 279
+      percentage: 99.29
+ - 
+   ending: eg
+   genus: m
+   totalCount: 138
+   maxPercentage: 99.27536231884058
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 137
+      percentage: 99.28
+ - 
+   ending: se
+   genus: f
+   totalCount: 956
+   maxPercentage: 99.26778242677824
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 949
+      percentage: 99.27
+ - 
+   ending: hen
+   genus: n
+   totalCount: 539
+   maxPercentage: 99.25788497217069
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 535
+      percentage: 99.26
+ - 
+   ending: ste
+   genus: f
+   totalCount: 133
+   maxPercentage: 99.24812030075188
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 132
+      percentage: 99.25
+ - 
+   ending: ade
+   genus: f
+   totalCount: 131
+   maxPercentage: 99.23664122137404
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 130
+      percentage: 99.24
+ - 
+   ending: ling
+   genus: m
+   totalCount: 228
+   maxPercentage: 99.12280701754386
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 226
+      percentage: 99.12
+ - 
+   ending: tik
+   genus: f
+   totalCount: 113
+   maxPercentage: 99.11504424778761
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 112
+      percentage: 99.12
+ - 
+   ending: lie
+   genus: f
+   totalCount: 110
+   maxPercentage: 99.0909090909091
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 109
+      percentage: 99.09
+ - 
+   ending: tation
+   genus: f
+   totalCount: 106
+   maxPercentage: 99.05660377358491
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 105
+      percentage: 99.06
+ - 
+   ending: isch
+   genus: m
+   totalCount: 103
+   maxPercentage: 99.02912621359224
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 102
+      percentage: 99.03
+ - 
+   ending: eb
+   genus: m
+   totalCount: 101
+   maxPercentage: 99.00990099009901
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 100
+      percentage: 99.01
+ - 
+   ending: ite
+   genus: f
+   totalCount: 101
+   maxPercentage: 99.00990099009901
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 100
+      percentage: 99.01
+ - 
+   ending: lter
+   genus: m
+   totalCount: 101
+   maxPercentage: 99.00990099009901
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 100
+      percentage: 99.01
+ - 
+   ending: ktor
+   genus: m
+   totalCount: 100
+   maxPercentage: 99.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 99
+      percentage: 99.00
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.00
+ - 
+   ending: ker
+   genus: m
+   totalCount: 399
+   maxPercentage: 98.99749373433583
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 395
+      percentage: 99.00
+    - 
+      transform: '⸚'
+      count: 4
+      percentage: 1.00
+ - 
+   ending: hie
+   genus: f
+   totalCount: 98
+   maxPercentage: 98.9795918367347
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 97
+      percentage: 98.98
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.02
+ - 
+   ending: ei
+   genus: f
+   totalCount: 283
+   maxPercentage: 98.93992932862191
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 280
+      percentage: 98.94
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 1.06
+ - 
+   ending: abe
+   genus: f
+   totalCount: 90
+   maxPercentage: 98.88888888888889
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 89
+      percentage: 98.89
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.11
+ - 
+   ending: nkt
+   genus: m
+   totalCount: 87
+   maxPercentage: 98.85057471264368
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 86
+      percentage: 98.85
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.15
+ - 
+   ending: mer
+   genus: f
+   totalCount: 84
+   maxPercentage: 98.80952380952381
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 83
+      percentage: 98.81
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.19
+ - 
+   ending: hen
+   genus: m
+   totalCount: 82
+   maxPercentage: 98.78048780487805
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 81
+      percentage: 98.78
+    - 
+      transform: '⸚'
+      count: 1
+      percentage: 1.22
+ - 
+   ending: ale
+   genus: f
+   totalCount: 77
+   maxPercentage: 98.7012987012987
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 76
+      percentage: 98.70
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.30
+ - 
+   ending: rde
+   genus: f
+   totalCount: 77
+   maxPercentage: 98.7012987012987
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 76
+      percentage: 98.70
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.30
+ - 
+   ending: sel
+   genus: f
+   totalCount: 77
+   maxPercentage: 98.7012987012987
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 76
+      percentage: 98.70
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.30
+ - 
+   ending: ke
+   genus: f
+   totalCount: 458
+   maxPercentage: 98.68995633187772
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 452
+      percentage: 98.69
+    - 
+      transform: '-s'
+      count: 6
+      percentage: 1.31
+ - 
+   ending: ame
+   genus: m
+   totalCount: 75
+   maxPercentage: 98.66666666666667
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 74
+      percentage: 98.67
+    - 
+      transform: '-Name ⇒ -Jasons'
+      count: 1
+      percentage: 1.33
+ - 
+   ending: hn
+   genus: f
+   totalCount: 74
+   maxPercentage: 98.64864864864865
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 73
+      percentage: 98.65
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.35
+ - 
+   ending: ft
+   genus: n
+   totalCount: 72
+   maxPercentage: 98.61111111111111
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 71
+      percentage: 98.61
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.39
+ - 
+   ending: kation
+   genus: f
+   totalCount: 71
+   maxPercentage: 98.59154929577464
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 70
+      percentage: 98.59
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.41
+ - 
+   ending: off
+   genus: m
+   totalCount: 71
+   maxPercentage: 98.59154929577464
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 70
+      percentage: 98.59
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.41
+ - 
+   ending: gel
+   genus: f
+   totalCount: 70
+   maxPercentage: 98.57142857142857
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 69
+      percentage: 98.57
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.43
+ - 
+   ending: eich
+   genus: m
+   totalCount: 68
+   maxPercentage: 98.52941176470588
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 67
+      percentage: 98.53
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.47
+ - 
+   ending: sel
+   genus: m
+   totalCount: 135
+   maxPercentage: 98.51851851851852
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 133
+      percentage: 98.52
+    - 
+      transform: '-n'
+      count: 2
+      percentage: 1.48
+ - 
+   ending: sion
+   genus: f
+   totalCount: 135
+   maxPercentage: 98.51851851851852
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 133
+      percentage: 98.52
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.48
+ - 
+   ending: per
+   genus: m
+   totalCount: 66
+   maxPercentage: 98.48484848484848
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 65
+      percentage: 98.48
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.52
+ - 
+   ending: lm
+   genus: m
+   totalCount: 65
+   maxPercentage: 98.46153846153847
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 64
+      percentage: 98.46
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.54
+ - 
+   ending: rk
+   genus: n
+   totalCount: 129
+   maxPercentage: 98.44961240310077
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 127
+      percentage: 98.45
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.55
+ - 
+   ending: eter
+   genus: m
+   totalCount: 64
+   maxPercentage: 98.4375
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 63
+      percentage: 98.44
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.56
+ - 
+   ending: ition
+   genus: f
+   totalCount: 64
+   maxPercentage: 98.4375
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 63
+      percentage: 98.44
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.56
+ - 
+   ending: itz
+   genus: m
+   totalCount: 64
+   maxPercentage: 98.4375
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 63
+      percentage: 98.44
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.56
+ - 
+   ending: pie
+   genus: f
+   totalCount: 64
+   maxPercentage: 98.4375
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 63
+      percentage: 98.44
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.56
+ - 
+   ending: ied
+   genus: n
+   totalCount: 63
+   maxPercentage: 98.41269841269842
+   transformFrequencies:
+    - 
+      transform: '-er'
+      count: 62
+      percentage: 98.41
+    - 
+      transform: '-e'
+      count: 1
+      percentage: 1.59
+ - 
+   ending: ve
+   genus: f
+   totalCount: 60
+   maxPercentage: 98.33333333333333
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 59
+      percentage: 98.33
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.67
+ - 
+   ending: ter
+   genus: n
+   totalCount: 225
+   maxPercentage: 98.22222222222223
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 221
+      percentage: 98.22
+    - 
+      transform: '⸚'
+      count: 4
+      percentage: 1.78
+ - 
+   ending: ene
+   genus: f
+   totalCount: 56
+   maxPercentage: 98.21428571428571
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 55
+      percentage: 98.21
+    - 
+      transform: '-e ⇒ -ai'
+      count: 1
+      percentage: 1.79
+ - 
+   ending: olle
+   genus: f
+   totalCount: 55
+   maxPercentage: 98.18181818181819
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 54
+      percentage: 98.18
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.82
+ - 
+   ending: plan
+   genus: m
+   totalCount: 54
+   maxPercentage: 98.14814814814815
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 53
+      percentage: 98.15
+    - 
+      transform: '-e'
+      count: 1
+      percentage: 1.85
+ - 
+   ending: tte
+   genus: f
+   totalCount: 321
+   maxPercentage: 98.13084112149532
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 315
+      percentage: 98.13
+    - 
+      transform: '-s'
+      count: 6
+      percentage: 1.87
+ - 
+   ending: anne
+   genus: f
+   totalCount: 53
+   maxPercentage: 98.11320754716981
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 52
+      percentage: 98.11
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.89
+ - 
+   ending: ess
+   genus: m
+   totalCount: 51
+   maxPercentage: 98.03921568627452
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 50
+      percentage: 98.04
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.96
+ - 
+   ending: ide
+   genus: f
+   totalCount: 51
+   maxPercentage: 98.03921568627452
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 50
+      percentage: 98.04
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.96
+ - 
+   ending: ring
+   genus: m
+   totalCount: 51
+   maxPercentage: 98.03921568627452
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 50
+      percentage: 98.04
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.96
+ - 
+   ending: tand
+   genus: m
+   totalCount: 151
+   maxPercentage: 98.01324503311258
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 148
+      percentage: 98.01
+    - 
+      transform: '-en'
+      count: 3
+      percentage: 1.99
+ - 
+   ending: las
+   genus: n
+   totalCount: 50
+   maxPercentage: 98.0
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 49
+      percentage: 98.00
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 2.00
+ - 
+   ending: unde
+   genus: f
+   totalCount: 97
+   maxPercentage: 97.9381443298969
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 95
+      percentage: 97.94
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 2.06
+ - 
+   ending: ort
+   genus: m
+   totalCount: 141
+   maxPercentage: 97.87234042553192
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 138
+      percentage: 97.87
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 2.13
+ - 
+   ending: ramm
+   genus: n
+   totalCount: 83
+   maxPercentage: 97.59036144578313
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 81
+      percentage: 97.59
+    - 
+      transform: '-'
+      count: 2
+      percentage: 2.41
+ - 
+   ending: tem
+   genus: n
+   totalCount: 75
+   maxPercentage: 97.33333333333333
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 73
+      percentage: 97.33
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 2.67
+ - 
+   ending: eur
+   genus: m
+   totalCount: 109
+   maxPercentage: 97.24770642201835
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 106
+      percentage: 97.25
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 2.75
+ - 
+   ending: re
+   genus: f
+   totalCount: 328
+   maxPercentage: 96.95121951219512
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 318
+      percentage: 96.95
+    - 
+      transform: '-s'
+      count: 10
+      percentage: 3.05
+ - 
+   ending: ier
+   genus: n
+   totalCount: 176
+   maxPercentage: 96.5909090909091
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 170
+      percentage: 96.59
+    - 
+      transform: '-s'
+      count: 6
+      percentage: 3.41
+ - 
+   ending: ille
+   genus: f
+   totalCount: 58
+   maxPercentage: 96.55172413793103
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 56
+      percentage: 96.55
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 3.45
+ - 
+   ending: tis
+   genus: f
+   totalCount: 57
+   maxPercentage: 96.49122807017544
+   transformFrequencies:
+    - 
+      transform: '-s ⇒ -den'
+      count: 55
+      percentage: 96.49
+    - 
+      transform: '-s ⇒ -des'
+      count: 2
+      percentage: 3.51
+ - 
+   ending: del
+   genus: f
+   totalCount: 50
+   maxPercentage: 96.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 48
+      percentage: 96.00
+    - 
+      transform: '-'
+      count: 2
+      percentage: 4.00
+ - 
+   ending: ig
+   genus: m
+   totalCount: 95
+   maxPercentage: 95.78947368421052
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 91
+      percentage: 95.79
+    - 
+      transform: '-s'
+      count: 4
+      percentage: 4.21
+ - 
+   ending: pf
+   genus: m
+   totalCount: 189
+   maxPercentage: 95.76719576719577
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 181
+      percentage: 95.77
+    - 
+      transform: '-e'
+      count: 8
+      percentage: 4.23
+ - 
+   ending: kel
+   genus: m
+   totalCount: 129
+   maxPercentage: 95.34883720930233
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 123
+      percentage: 95.35
+    - 
+      transform: '-n'
+      count: 6
+      percentage: 4.65
+ - 
+   ending: kt
+   genus: n
+   totalCount: 79
+   maxPercentage: 94.9367088607595
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 75
+      percentage: 94.94
+    - 
+      transform: '-en'
+      count: 4
+      percentage: 5.06
+ - 
+   ending: iff
+   genus: m
+   totalCount: 58
+   maxPercentage: 94.82758620689656
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 55
+      percentage: 94.83
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 5.17
+ - 
+   ending: rich
+   genus: m
+   totalCount: 57
+   maxPercentage: 94.73684210526316
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 54
+      percentage: 94.74
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 5.26
+ - 
+   ending: ät
+   genus: n
+   totalCount: 70
+   maxPercentage: 94.28571428571429
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 66
+      percentage: 94.29
+    - 
+      transform: '-s'
+      count: 4
+      percentage: 5.71
+ - 
+   ending: ff
+   genus: n
+   totalCount: 87
+   maxPercentage: 94.25287356321839
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 82
+      percentage: 94.25
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 5.75
+ - 
+   ending: and
+   genus: f
+   totalCount: 84
+   maxPercentage: 92.85714285714286
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 78
+      percentage: 92.86
+    - 
+      transform: '-s'
+      count: 6
+      percentage: 7.14
+ - 
+   ending: ot
+   genus: n
+   totalCount: 154
+   maxPercentage: 92.85714285714286
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 143
+      percentage: 92.86
+    - 
+      transform: '-s'
+      count: 11
+      percentage: 7.14
+ - 
+   ending: rist
+   genus: m
+   totalCount: 54
+   maxPercentage: 92.5925925925926
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 50
+      percentage: 92.59
+    - 
+      transform: '-e'
+      count: 4
+      percentage: 7.41
+ - 
+   ending: rs
+   genus: m
+   totalCount: 53
+   maxPercentage: 92.45283018867924
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 49
+      percentage: 92.45
+    - 
+      transform: '-'
+      count: 4
+      percentage: 7.55
+ - 
+   ending: hl
+   genus: n
+   totalCount: 50
+   maxPercentage: 90.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 45
+      percentage: 90.00
+    - 
+      transform: '⸚er'
+      count: 5
+      percentage: 10.00
+ - 
+   ending: hr
+   genus: n
+   totalCount: 116
+   maxPercentage: 89.65517241379311
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 104
+      percentage: 89.66
+    - 
+      transform: '-en'
+      count: 12
+      percentage: 10.34
+ - 
+   ending: mer
+   genus: n
+   totalCount: 61
+   maxPercentage: 88.52459016393442
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 54
+      percentage: 88.52
+    - 
+      transform: '-e'
+      count: 7
+      percentage: 11.48
+ - 
+   ending: sser
+   genus: n
+   totalCount: 78
+   maxPercentage: 88.46153846153847
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 69
+      percentage: 88.46
+    - 
+      transform: '⸚'
+      count: 9
+      percentage: 11.54
+ - 
+   ending: cht
+   genus: m
+   totalCount: 86
+   maxPercentage: 88.37209302325581
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 76
+      percentage: 88.37
+    - 
+      transform: '⸚e'
+      count: 10
+      percentage: 11.63
+ - 
+   ending: m
+   genus: f
+   totalCount: 106
+   maxPercentage: 87.73584905660377
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 93
+      percentage: 87.74
+    - 
+      transform: '-s'
+      count: 13
+      percentage: 12.26
+ - 
+   ending: alt
+   genus: m
+   totalCount: 84
+   maxPercentage: 86.9047619047619
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 73
+      percentage: 86.90
+    - 
+      transform: '⸚e'
+      count: 11
+      percentage: 13.10
+ - 
+   ending: urm
+   genus: m
+   totalCount: 73
+   maxPercentage: 84.93150684931507
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 62
+      percentage: 84.93
+    - 
+      transform: '⸚er'
+      count: 11
+      percentage: 15.07
+ - 
+   ending: v
+   genus: m
+   totalCount: 52
+   maxPercentage: 84.61538461538461
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 44
+      percentage: 84.62
+    - 
+      transform: '-en'
+      count: 8
+      percentage: 15.38
+ - 
+   ending: ft
+   genus: f
+   totalCount: 450
+   maxPercentage: 84.22222222222223
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 379
+      percentage: 84.22
+    - 
+      transform: '⸚e'
+      count: 71
+      percentage: 15.78
+ - 
+   ending: ng
+   genus: n
+   totalCount: 59
+   maxPercentage: 83.05084745762711
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 49
+      percentage: 83.05
+    - 
+      transform: '-e'
+      count: 10
+      percentage: 16.95
+ - 
+   ending: den
+   genus: m
+   totalCount: 133
+   maxPercentage: 81.95488721804512
+   transformFrequencies:
+    - 
+      transform: '⸚'
+      count: 109
+      percentage: 81.95
+    - 
+      transform: '-'
+      count: 24
+      percentage: 18.05
+ - 
+   ending: wort
+   genus: n
+   totalCount: 166
+   maxPercentage: 81.32530120481928
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 135
+      percentage: 81.33
+    - 
+      transform: '-e'
+      count: 31
+      percentage: 18.67
+ - 
+   ending: ass
+   genus: m
+   totalCount: 59
+   maxPercentage: 76.27118644067797
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 45
+      percentage: 76.27
+    - 
+      transform: '-e'
+      count: 14
+      percentage: 23.73
+ - 
+   ending: rd
+   genus: n
+   totalCount: 50
+   maxPercentage: 74.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 37
+      percentage: 74.00
+    - 
+      transform: '-s'
+      count: 13
+      percentage: 26.00
+ - 
+   ending: ef
+   genus: m
+   totalCount: 64
+   maxPercentage: 73.4375
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 47
+      percentage: 73.44
+    - 
+      transform: '-s'
+      count: 17
+      percentage: 26.56
+ - 
+   ending: fen
+   genus: m
+   totalCount: 129
+   maxPercentage: 72.86821705426357
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 94
+      percentage: 72.87
+    - 
+      transform: '⸚'
+      count: 35
+      percentage: 27.13
+ - 
+   ending: uer
+   genus: m
+   totalCount: 79
+   maxPercentage: 72.15189873417721
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 57
+      percentage: 72.15
+    - 
+      transform: '-n'
+      count: 22
+      percentage: 27.85
+ - 
+   ending: est
+   genus: m
+   totalCount: 64
+   maxPercentage: 71.875
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 46
+      percentage: 71.88
+    - 
+      transform: '-e'
+      count: 18
+      percentage: 28.13
+ - 
+   ending: lz
+   genus: n
+   totalCount: 74
+   maxPercentage: 67.56756756756756
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 50
+      percentage: 67.57
+    - 
+      transform: '-e'
+      count: 24
+      percentage: 32.43
+ - 
+   ending: et
+   genus: n
+   totalCount: 171
+   maxPercentage: 64.91228070175438
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 111
+      percentage: 64.91
+    - 
+      transform: '-s'
+      count: 60
+      percentage: 35.09
+ - 
+   ending: ruck
+   genus: m
+   totalCount: 50
+   maxPercentage: 60.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 30
+      percentage: 60.00
+    - 
+      transform: '-e'
+      count: 20
+      percentage: 40.00
+ - 
+   ending: ht
+   genus: f
+   totalCount: 227
+   maxPercentage: 59.47136563876652
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 135
+      percentage: 59.47
+    - 
+      transform: '⸚e'
+      count: 92
+      percentage: 40.53
+ - 
+   ending: rf
+   genus: m
+   totalCount: 72
+   maxPercentage: 56.94444444444444
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 41
+      percentage: 56.94
+    - 
+      transform: '⸚e'
+      count: 31
+      percentage: 43.06
+ - 
+   ending: ein
+   genus: n
+   totalCount: 103
+   maxPercentage: 52.42718446601942
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 54
+      percentage: 52.43
+    - 
+      transform: '-'
+      count: 49
+      percentage: 47.57
+ - 
+   ending: erl
+   genus: n
+   totalCount: 52
+   maxPercentage: 51.92307692307692
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 27
+      percentage: 51.92
+    - 
+      transform: '-n'
+      count: 25
+      percentage: 48.08
+3:
+ - 
+   ending: it
+   genus: f
+   totalCount: 679
+   maxPercentage: 99.55817378497791
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 676
+      percentage: 99.56
+ - 
+   ending: be
+   genus: f
+   totalCount: 434
+   maxPercentage: 99.53917050691244
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 432
+      percentage: 99.54
+ - 
+   ending: ie
+   genus: f
+   totalCount: 1133
+   maxPercentage: 99.38217122683142
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 1126
+      percentage: 99.38
+ - 
+   ending: le
+   genus: f
+   totalCount: 918
+   maxPercentage: 99.12854030501089
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 910
+      percentage: 99.13
+ - 
+   ending: te
+   genus: f
+   totalCount: 1220
+   maxPercentage: 99.09836065573771
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 1209
+      percentage: 99.10
+ - 
+   ending: nz
+   genus: f
+   totalCount: 212
+   maxPercentage: 99.05660377358491
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 210
+      percentage: 99.06
+ - 
+   ending: ger
+   genus: m
+   totalCount: 515
+   maxPercentage: 99.02912621359224
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 510
+      percentage: 99.03
+ - 
+   ending: he
+   genus: f
+   totalCount: 815
+   maxPercentage: 99.01840490797547
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 807
+      percentage: 99.02
+ - 
+   ending: nder
+   genus: m
+   totalCount: 182
+   maxPercentage: 98.9010989010989
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 180
+      percentage: 98.90
+ - 
+   ending: ik
+   genus: f
+   totalCount: 244
+   maxPercentage: 98.77049180327869
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 241
+      percentage: 98.77
+ - 
+   ending: ell
+   genus: n
+   totalCount: 130
+   maxPercentage: 98.46153846153847
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 128
+      percentage: 98.46
+ - 
+   ending: at
+   genus: n
+   totalCount: 194
+   maxPercentage: 98.45360824742268
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 191
+      percentage: 98.45
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.03
+ - 
+   ending: tor
+   genus: m
+   totalCount: 305
+   maxPercentage: 98.36065573770492
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 300
+      percentage: 98.36
+    - 
+      transform: '-e'
+      count: 4
+      percentage: 1.31
+ - 
+   ending: on
+   genus: f
+   totalCount: 1216
+   maxPercentage: 98.27302631578948
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 1195
+      percentage: 98.27
+    - 
+      transform: '-s'
+      count: 20
+      percentage: 1.64
+ - 
+   ending: ber
+   genus: m
+   totalCount: 173
+   maxPercentage: 98.26589595375722
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 170
+      percentage: 98.27
+    - 
+      transform: '-n'
+      count: 2
+      percentage: 1.16
+ - 
+   ending: de
+   genus: f
+   totalCount: 607
+   maxPercentage: 98.18780889621087
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 596
+      percentage: 98.19
+    - 
+      transform: '-s'
+      count: 10
+      percentage: 1.65
+ - 
+   ending: hl
+   genus: f
+   totalCount: 102
+   maxPercentage: 98.03921568627452
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 100
+      percentage: 98.04
+ - 
+   ending: ld
+   genus: n
+   totalCount: 203
+   maxPercentage: 98.0295566502463
+   transformFrequencies:
+    - 
+      transform: '-er'
+      count: 199
+      percentage: 98.03
+    - 
+      transform: '-e'
+      count: 3
+      percentage: 1.48
+ - 
+   ending: scher
+   genus: m
+   totalCount: 88
+   maxPercentage: 97.72727272727273
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 86
+      percentage: 97.73
+    - 
+      transform: '-er ⇒ -arim'
+      count: 1
+      percentage: 1.14
+    - 
+      transform: '-e'
+      count: 1
+      percentage: 1.14
+ - 
+   ending: mus
+   genus: m
+   totalCount: 174
+   maxPercentage: 97.70114942528735
+   transformFrequencies:
+    - 
+      transform: '-us ⇒ -en'
+      count: 170
+      percentage: 97.70
+    - 
+      transform: '-se'
+      count: 3
+      percentage: 1.72
+ - 
+   ending: nne
+   genus: f
+   totalCount: 121
+   maxPercentage: 97.52066115702479
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 118
+      percentage: 97.52
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.65
+ - 
+   ending: tz
+   genus: n
+   totalCount: 69
+   maxPercentage: 97.10144927536231
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 67
+      percentage: 97.10
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.45
+    - 
+      transform: '⸚e'
+      count: 1
+      percentage: 1.45
+ - 
+   ending: ich
+   genus: m
+   totalCount: 171
+   maxPercentage: 97.07602339181287
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 166
+      percentage: 97.08
+    - 
+      transform: '-s'
+      count: 4
+      percentage: 2.34
+ - 
+   ending: em
+   genus: n
+   totalCount: 167
+   maxPercentage: 97.0059880239521
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 162
+      percentage: 97.01
+    - 
+      transform: '-s'
+      count: 4
+      percentage: 2.40
+ - 
+   ending: fer
+   genus: m
+   totalCount: 258
+   maxPercentage: 96.89922480620154
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 250
+      percentage: 96.90
+    - 
+      transform: '-s'
+      count: 7
+      percentage: 2.71
+ - 
+   ending: one
+   genus: f
+   totalCount: 95
+   maxPercentage: 96.84210526315789
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 92
+      percentage: 96.84
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 2.11
+    - 
+      transform: '-e ⇒ -i'
+      count: 1
+      percentage: 1.05
+ - 
+   ending: and
+   genus: n
+   totalCount: 92
+   maxPercentage: 96.73913043478261
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 89
+      percentage: 96.74
+    - 
+      transform: '-e'
+      count: 2
+      percentage: 2.17
+    - 
+      transform: '⸚e'
+      count: 1
+      percentage: 1.09
+ - 
+   ending: der
+   genus: f
+   totalCount: 51
+   maxPercentage: 96.07843137254902
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 49
+      percentage: 96.08
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.96
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.96
+ - 
+   ending: ing
+   genus: m
+   totalCount: 303
+   maxPercentage: 95.7095709570957
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 290
+      percentage: 95.71
+    - 
+      transform: '-s'
+      count: 11
+      percentage: 3.63
+ - 
+   ending: del
+   genus: m
+   totalCount: 57
+   maxPercentage: 94.73684210526316
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 54
+      percentage: 94.74
+    - 
+      transform: '-n'
+      count: 2
+      percentage: 3.51
+    - 
+      transform: '⸚'
+      count: 1
+      percentage: 1.75
+ - 
+   ending: ur
+   genus: f
+   totalCount: 277
+   maxPercentage: 94.58483754512635
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 262
+      percentage: 94.58
+    - 
+      transform: '⸚e'
+      count: 12
+      percentage: 4.33
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 1.08
+ - 
+   ending: ge
+   genus: m
+   totalCount: 160
+   maxPercentage: 94.375
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 151
+      percentage: 94.38
+    - 
+      transform: '-s'
+      count: 7
+      percentage: 4.38
+    - 
+      transform: '-'
+      count: 2
+      percentage: 1.25
+ - 
+   ending: uch
+   genus: n
+   totalCount: 186
+   maxPercentage: 94.08602150537635
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 175
+      percentage: 94.09
+    - 
+      transform: '-e'
+      count: 10
+      percentage: 5.38
+ - 
+   ending: ert
+   genus: m
+   totalCount: 90
+   maxPercentage: 93.33333333333333
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 84
+      percentage: 93.33
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 5.56
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.11
+ - 
+   ending: tter
+   genus: m
+   totalCount: 60
+   maxPercentage: 93.33333333333333
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 56
+      percentage: 93.33
+    - 
+      transform: '-n'
+      count: 3
+      percentage: 5.00
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.67
+ - 
+   ending: gen
+   genus: m
+   totalCount: 191
+   maxPercentage: 93.19371727748691
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 178
+      percentage: 93.19
+    - 
+      transform: '⸚'
+      count: 10
+      percentage: 5.24
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 1.57
+ - 
+   ending: mm
+   genus: n
+   totalCount: 87
+   maxPercentage: 93.10344827586206
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 81
+      percentage: 93.10
+    - 
+      transform: '⸚er'
+      count: 4
+      percentage: 4.60
+    - 
+      transform: '-'
+      count: 2
+      percentage: 2.30
+ - 
+   ending: ed
+   genus: n
+   totalCount: 67
+   maxPercentage: 92.53731343283582
+   transformFrequencies:
+    - 
+      transform: '-er'
+      count: 62
+      percentage: 92.54
+    - 
+      transform: '-e'
+      count: 3
+      percentage: 4.48
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 2.99
+ - 
+   ending: ine
+   genus: f
+   totalCount: 240
+   maxPercentage: 92.5
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 222
+      percentage: 92.50
+    - 
+      transform: '-s'
+      count: 17
+      percentage: 7.08
+ - 
+   ending: lag
+   genus: m
+   totalCount: 106
+   maxPercentage: 92.45283018867924
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 98
+      percentage: 92.45
+    - 
+      transform: '-e'
+      count: 6
+      percentage: 5.66
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.89
+ - 
+   ending: ern
+   genus: m
+   totalCount: 66
+   maxPercentage: 92.42424242424242
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 61
+      percentage: 92.42
+    - 
+      transform: '-'
+      count: 4
+      percentage: 6.06
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.52
+ - 
+   ending: y
+   genus: m
+   totalCount: 64
+   maxPercentage: 92.1875
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 59
+      percentage: 92.19
+    - 
+      transform: '-e'
+      count: 3
+      percentage: 4.69
+    - 
+      transform: '-y ⇒ -ies'
+      count: 2
+      percentage: 3.13
+ - 
+   ending: au
+   genus: f
+   totalCount: 71
+   maxPercentage: 91.54929577464789
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 65
+      percentage: 91.55
+    - 
+      transform: '⸚e'
+      count: 5
+      percentage: 7.04
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.41
+ - 
+   ending: om
+   genus: n
+   totalCount: 106
+   maxPercentage: 91.50943396226415
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 97
+      percentage: 91.51
+    - 
+      transform: '-en'
+      count: 8
+      percentage: 7.55
+ - 
+   ending: nst
+   genus: m
+   totalCount: 55
+   maxPercentage: 90.9090909090909
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 50
+      percentage: 90.91
+    - 
+      transform: '⸚e'
+      count: 4
+      percentage: 7.27
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.82
+ - 
+   ending: ach
+   genus: n
+   totalCount: 62
+   maxPercentage: 90.3225806451613
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 56
+      percentage: 90.32
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 8.06
+    - 
+      transform: '-e'
+      count: 1
+      percentage: 1.61
+ - 
+   ending: ad
+   genus: n
+   totalCount: 77
+   maxPercentage: 89.6103896103896
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 69
+      percentage: 89.61
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 6.49
+    - 
+      transform: '-'
+      count: 3
+      percentage: 3.90
+ - 
+   ending: echt
+   genus: n
+   totalCount: 57
+   maxPercentage: 89.47368421052632
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 51
+      percentage: 89.47
+    - 
+      transform: '-er'
+      count: 5
+      percentage: 8.77
+    - 
+      transform: '-e<!--veraltet:Braurechter?-->'
+      count: 1
+      percentage: 1.75
+ - 
+   ending: bau
+   genus: m
+   totalCount: 60
+   maxPercentage: 88.33333333333333
+   transformFrequencies:
+    - 
+      transform: '-ten'
+      count: 53
+      percentage: 88.33
+    - 
+      transform: '-e'
+      count: 6
+      percentage: 10.00
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.67
+ - 
+   ending: end
+   genus: m
+   totalCount: 57
+   maxPercentage: 87.71929824561404
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 50
+      percentage: 87.72
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 8.77
+    - 
+      transform: '-en'
+      count: 2
+      percentage: 3.51
+ - 
+   ending: tel
+   genus: n
+   totalCount: 113
+   maxPercentage: 87.61061946902655
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 99
+      percentage: 87.61
+    - 
+      transform: '-s'
+      count: 13
+      percentage: 11.50
+ - 
+   ending: ser
+   genus: n
+   totalCount: 80
+   maxPercentage: 87.5
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 70
+      percentage: 87.50
+    - 
+      transform: '⸚'
+      count: 9
+      percentage: 11.25
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.25
+ - 
+   ending: lt
+   genus: m
+   totalCount: 105
+   maxPercentage: 86.66666666666667
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 91
+      percentage: 86.67
+    - 
+      transform: '⸚e'
+      count: 11
+      percentage: 10.48
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 2.86
+ - 
+   ending: aut
+   genus: m
+   totalCount: 62
+   maxPercentage: 85.48387096774194
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 53
+      percentage: 85.48
+    - 
+      transform: '-en'
+      count: 7
+      percentage: 11.29
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 3.23
+ - 
+   ending: men
+   genus: n
+   totalCount: 91
+   maxPercentage: 84.61538461538461
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 77
+      percentage: 84.62
+    - 
+      transform: '-en ⇒ -ina'
+      count: 7
+      percentage: 7.69
+    - 
+      transform: '-e'
+      count: 7
+      percentage: 7.69
+ - 
+   ending: lan
+   genus: m
+   totalCount: 65
+   maxPercentage: 83.07692307692308
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 54
+      percentage: 83.08
+    - 
+      transform: '-e'
+      count: 10
+      percentage: 15.38
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.54
+ - 
+   ending: ant
+   genus: m
+   totalCount: 136
+   maxPercentage: 82.3529411764706
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 112
+      percentage: 82.35
+    - 
+      transform: '-e'
+      count: 14
+      percentage: 10.29
+    - 
+      transform: '-s'
+      count: 10
+      percentage: 7.35
+ - 
+   ending: ph
+   genus: m
+   totalCount: 50
+   maxPercentage: 82.0
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 41
+      percentage: 82.00
+    - 
+      transform: '-e'
+      count: 8
+      percentage: 16.00
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 2.00
+ - 
+   ending: nsch
+   genus: m
+   totalCount: 62
+   maxPercentage: 80.64516129032258
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 50
+      percentage: 80.65
+    - 
+      transform: '⸚e'
+      count: 9
+      percentage: 14.52
+    - 
+      transform: '-e'
+      count: 3
+      percentage: 4.84
+ - 
+   ending: to
+   genus: n
+   totalCount: 72
+   maxPercentage: 79.16666666666667
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 57
+      percentage: 79.17
+    - 
+      transform: '-o ⇒ -en'
+      count: 10
+      percentage: 13.89
+    - 
+      transform: '-o ⇒ -i'
+      count: 5
+      percentage: 6.94
+ - 
+   ending: ad
+   genus: m
+   totalCount: 57
+   maxPercentage: 78.94736842105263
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 45
+      percentage: 78.95
+    - 
+      transform: '-en'
+      count: 6
+      percentage: 10.53
+    - 
+      transform: '-s'
+      count: 6
+      percentage: 10.53
+ - 
+   ending: il
+   genus: n
+   totalCount: 100
+   maxPercentage: 78.0
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 78
+      percentage: 78.00
+    - 
+      transform: '-ien'
+      count: 18
+      percentage: 18.00
+    - 
+      transform: '-s'
+      count: 4
+      percentage: 4.00
+ - 
+   ending: a
+   genus: m
+   totalCount: 148
+   maxPercentage: 77.70270270270271
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 115
+      percentage: 77.70
+    - 
+      transform: '-'
+      count: 28
+      percentage: 18.92
+    - 
+      transform: '-a ⇒ -en'
+      count: 5
+      percentage: 3.38
+ - 
+   ending: se
+   genus: m
+   totalCount: 127
+   maxPercentage: 77.16535433070867
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 98
+      percentage: 77.17
+    - 
+      transform: '-'
+      count: 24
+      percentage: 18.90
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 3.94
+ - 
+   ending: rd
+   genus: m
+   totalCount: 102
+   maxPercentage: 75.49019607843137
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 77
+      percentage: 75.49
+    - 
+      transform: '-s'
+      count: 22
+      percentage: 21.57
+    - 
+      transform: '-en'
+      count: 3
+      percentage: 2.94
+ - 
+   ending: uf
+   genus: m
+   totalCount: 173
+   maxPercentage: 75.14450867052022
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 130
+      percentage: 75.14
+    - 
+      transform: '-e'
+      count: 41
+      percentage: 23.70
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.16
+ - 
+   ending: de
+   genus: m
+   totalCount: 91
+   maxPercentage: 73.62637362637362
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 67
+      percentage: 73.63
+    - 
+      transform: '-s'
+      count: 23
+      percentage: 25.27
+    - 
+      transform: '⸚n'
+      count: 1
+      percentage: 1.10
+ - 
+   ending: p
+   genus: n
+   totalCount: 63
+   maxPercentage: 73.01587301587301
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 46
+      percentage: 73.02
+    - 
+      transform: '-s'
+      count: 10
+      percentage: 15.87
+    - 
+      transform: '-ien'
+      count: 7
+      percentage: 11.11
+ - 
+   ending: fel
+   genus: m
+   totalCount: 101
+   maxPercentage: 72.27722772277228
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 73
+      percentage: 72.28
+    - 
+      transform: '⸚'
+      count: 27
+      percentage: 26.73
+ - 
+   ending: ee
+   genus: m
+   totalCount: 50
+   maxPercentage: 72.0
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 36
+      percentage: 72.00
+    - 
+      transform: '-n'
+      count: 12
+      percentage: 24.00
+    - 
+      transform: '-'
+      count: 2
+      percentage: 4.00
+ - 
+   ending: auch
+   genus: m
+   totalCount: 67
+   maxPercentage: 71.64179104477611
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 48
+      percentage: 71.64
+    - 
+      transform: '⸚er'
+      count: 13
+      percentage: 19.40
+    - 
+      transform: '-e'
+      count: 6
+      percentage: 8.96
+ - 
+   ending: de
+   genus: n
+   totalCount: 84
+   maxPercentage: 71.42857142857143
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 60
+      percentage: 71.43
+    - 
+      transform: '-n'
+      count: 21
+      percentage: 25.00
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 3.57
+ - 
+   ending: ft
+   genus: m
+   totalCount: 95
+   maxPercentage: 69.47368421052632
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 66
+      percentage: 69.47
+    - 
+      transform: '-e'
+      count: 27
+      percentage: 28.42
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 2.11
+ - 
+   ending: in
+   genus: n
+   totalCount: 185
+   maxPercentage: 68.10810810810811
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 126
+      percentage: 68.11
+    - 
+      transform: '-'
+      count: 51
+      percentage: 27.57
+    - 
+      transform: '-s'
+      count: 8
+      percentage: 4.32
+ - 
+   ending: ke
+   genus: m
+   totalCount: 81
+   maxPercentage: 67.90123456790124
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 55
+      percentage: 67.90
+    - 
+      transform: '-s'
+      count: 19
+      percentage: 23.46
+    - 
+      transform: '-'
+      count: 7
+      percentage: 8.64
+ - 
+   ending: icht
+   genus: n
+   totalCount: 117
+   maxPercentage: 64.95726495726495
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 76
+      percentage: 64.96
+    - 
+      transform: '-er'
+      count: 40
+      percentage: 34.19
+ - 
+   ending: ank
+   genus: m
+   totalCount: 58
+   maxPercentage: 63.793103448275865
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 37
+      percentage: 63.79
+    - 
+      transform: '-s'
+      count: 20
+      percentage: 34.48
+    - 
+      transform: '-e'
+      count: 1
+      percentage: 1.72
+ - 
+   ending: är
+   genus: m
+   totalCount: 60
+   maxPercentage: 63.333333333333336
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 38
+      percentage: 63.33
+    - 
+      transform: '-en'
+      count: 21
+      percentage: 35.00
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.67
+ - 
+   ending: et
+   genus: m
+   totalCount: 64
+   maxPercentage: 62.5
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 40
+      percentage: 62.50
+    - 
+      transform: '-s'
+      count: 15
+      percentage: 23.44
+    - 
+      transform: '-e'
+      count: 9
+      percentage: 14.06
+ - 
+   ending: nk
+   genus: f
+   totalCount: 55
+   maxPercentage: 61.81818181818182
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 34
+      percentage: 61.82
+    - 
+      transform: '-en'
+      count: 20
+      percentage: 36.36
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.82
+ - 
+   ending: ss
+   genus: n
+   totalCount: 73
+   maxPercentage: 61.64383561643836
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 45
+      percentage: 61.64
+    - 
+      transform: '-e'
+      count: 27
+      percentage: 36.99
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.37
+ - 
+   ending: ier
+   genus: m
+   totalCount: 190
+   maxPercentage: 57.89473684210526
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 110
+      percentage: 57.89
+    - 
+      transform: '-e'
+      count: 50
+      percentage: 26.32
+    - 
+      transform: '-s'
+      count: 30
+      percentage: 15.79
+ - 
+   ending: ut
+   genus: f
+   totalCount: 52
+   maxPercentage: 57.69230769230769
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 30
+      percentage: 57.69
+    - 
+      transform: '-en'
+      count: 21
+      percentage: 40.38
+    - 
+      transform: '-e'
+      count: 1
+      percentage: 1.92
+ - 
+   ending: hl
+   genus: m
+   totalCount: 87
+   maxPercentage: 57.47126436781609
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 50
+      percentage: 57.47
+    - 
+      transform: '-e'
+      count: 24
+      percentage: 27.59
+    - 
+      transform: '-en'
+      count: 13
+      percentage: 14.94
+ - 
+   ending: d
+   genus: f
+   totalCount: 151
+   maxPercentage: 53.64238410596027
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 81
+      percentage: 53.64
+    - 
+      transform: '-en'
+      count: 50
+      percentage: 33.11
+    - 
+      transform: '-s'
+      count: 20
+      percentage: 13.25
+ - 
+   ending: st
+   genus: f
+   totalCount: 123
+   maxPercentage: 52.84552845528455
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 65
+      percentage: 52.85
+    - 
+      transform: '-en'
+      count: 55
+      percentage: 44.72
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 2.44
+ - 
+   ending: ten
+   genus: m
+   totalCount: 137
+   maxPercentage: 52.55474452554745
+   transformFrequencies:
+    - 
+      transform: '⸚'
+      count: 72
+      percentage: 52.55
+    - 
+      transform: '-'
+      count: 63
+      percentage: 45.99
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.46
+ - 
+   ending: rat
+   genus: m
+   totalCount: 77
+   maxPercentage: 48.05194805194805
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 37
+      percentage: 48.05
+    - 
+      transform: '-en'
+      count: 20
+      percentage: 25.97
+    - 
+      transform: '-e'
+      count: 20
+      percentage: 25.97
+ - 
+   ending: rl
+   genus: n
+   totalCount: 57
+   maxPercentage: 47.36842105263158
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 27
+      percentage: 47.37
+    - 
+      transform: '-n'
+      count: 25
+      percentage: 43.86
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 8.77
+ - 
+   ending: ge
+   genus: n
+   totalCount: 55
+   maxPercentage: 47.27272727272727
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 26
+      percentage: 47.27
+    - 
+      transform: '-n'
+      count: 23
+      percentage: 41.82
+    - 
+      transform: '-s'
+      count: 6
+      percentage: 10.91
+4:
+ - 
+   ending: g
+   genus: f
+   totalCount: 3647
+   maxPercentage: 99.69838223197148
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 3636
+      percentage: 99.70
+ - 
+   ending: in
+   genus: f
+   totalCount: 2406
+   maxPercentage: 99.12718204488777
+   transformFrequencies:
+    - 
+      transform: '-nen'
+      count: 2385
+      percentage: 99.13
+ - 
+   ending: cher
+   genus: m
+   totalCount: 287
+   maxPercentage: 98.95470383275261
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 284
+      percentage: 98.95
+ - 
+   ending: ug
+   genus: m
+   totalCount: 204
+   maxPercentage: 97.05882352941177
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 198
+      percentage: 97.06
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 1.47
+ - 
+   ending: el
+   genus: f
+   totalCount: 465
+   maxPercentage: 95.6989247311828
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 445
+      percentage: 95.70
+    - 
+      transform: '-'
+      count: 12
+      percentage: 2.58
+    - 
+      transform: '-en'
+      count: 6
+      percentage: 1.29
+ - 
+   ending: um
+   genus: m
+   totalCount: 196
+   maxPercentage: 94.89795918367346
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 186
+      percentage: 94.90
+    - 
+      transform: '-e'
+      count: 4
+      percentage: 2.04
+    - 
+      transform: '⸚er'
+      count: 4
+      percentage: 2.04
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.02
+ - 
+   ending: en
+   genus: n
+   totalCount: 893
+   maxPercentage: 94.40089585666293
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 843
+      percentage: 94.40
+    - 
+      transform: '-e'
+      count: 40
+      percentage: 4.48
+ - 
+   ending: ang
+   genus: m
+   totalCount: 229
+   maxPercentage: 94.32314410480349
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 216
+      percentage: 94.32
+    - 
+      transform: '-s'
+      count: 6
+      percentage: 2.62
+    - 
+      transform: '-e'
+      count: 5
+      percentage: 2.18
+ - 
+   ending: me
+   genus: m
+   totalCount: 89
+   maxPercentage: 93.25842696629213
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 83
+      percentage: 93.26
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 3.37
+    - 
+      transform: '-'
+      count: 2
+      percentage: 2.25
+    - 
+      transform: '-Name ⇒ -Jasons'
+      count: 1
+      percentage: 1.12
+ - 
+   ending: pel
+   genus: m
+   totalCount: 55
+   maxPercentage: 92.72727272727273
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 51
+      percentage: 92.73
+    - 
+      transform: '-n'
+      count: 2
+      percentage: 3.64
+    - 
+      transform: '-e'
+      count: 1
+      percentage: 1.82
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.82
+ - 
+   ending: ist
+   genus: m
+   totalCount: 342
+   maxPercentage: 92.69005847953217
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 317
+      percentage: 92.69
+    - 
+      transform: '-e'
+      count: 14
+      percentage: 4.09
+    - 
+      transform: '-er'
+      count: 10
+      percentage: 2.92
+ - 
+   ending: bel
+   genus: m
+   totalCount: 78
+   maxPercentage: 91.02564102564102
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 71
+      percentage: 91.03
+    - 
+      transform: '⸚'
+      count: 5
+      percentage: 6.41
+    - 
+      transform: '-e'
+      count: 1
+      percentage: 1.28
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.28
+ - 
+   ending: ar
+   genus: n
+   totalCount: 83
+   maxPercentage: 90.36144578313252
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 75
+      percentage: 90.36
+    - 
+      transform: '-ien'
+      count: 4
+      percentage: 4.82
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 3.61
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.20
+ - 
+   ending: me
+   genus: f
+   totalCount: 223
+   maxPercentage: 90.13452914798206
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 201
+      percentage: 90.13
+    - 
+      transform: '-s'
+      count: 20
+      percentage: 8.97
+ - 
+   ending: ock
+   genus: m
+   totalCount: 99
+   maxPercentage: 89.8989898989899
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 89
+      percentage: 89.90
+    - 
+      transform: '-s'
+      count: 6
+      percentage: 6.06
+    - 
+      transform: '-e'
+      count: 3
+      percentage: 3.03
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.01
+ - 
+   ending: all
+   genus: m
+   totalCount: 231
+   maxPercentage: 88.74458874458874
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 205
+      percentage: 88.74
+    - 
+      transform: '-e'
+      count: 17
+      percentage: 7.36
+    - 
+      transform: '-s'
+      count: 6
+      percentage: 2.60
+    - 
+      transform: '-en'
+      count: 3
+      percentage: 1.30
+ - 
+   ending: hn
+   genus: m
+   totalCount: 77
+   maxPercentage: 88.31168831168831
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 68
+      percentage: 88.31
+    - 
+      transform: '-en'
+      count: 4
+      percentage: 5.19
+    - 
+      transform: '-e'
+      count: 4
+      percentage: 5.19
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.30
+ - 
+   ending: mer
+   genus: m
+   totalCount: 143
+   maxPercentage: 88.1118881118881
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 126
+      percentage: 88.11
+    - 
+      transform: '⸚'
+      count: 15
+      percentage: 10.49
+ - 
+   ending: te
+   genus: m
+   totalCount: 99
+   maxPercentage: 86.86868686868686
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 86
+      percentage: 86.87
+    - 
+      transform: '-s'
+      count: 10
+      percentage: 10.10
+    - 
+      transform: '-e ⇒ -i'
+      count: 2
+      percentage: 2.02
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.01
+ - 
+   ending: is
+   genus: m
+   totalCount: 231
+   maxPercentage: 85.71428571428571
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 198
+      percentage: 85.71
+    - 
+      transform: '-se'
+      count: 16
+      percentage: 6.93
+    - 
+      transform: '-'
+      count: 13
+      percentage: 5.63
+    - 
+      transform: '-is ⇒ -es'
+      count: 4
+      percentage: 1.73
+ - 
+   ending: att
+   genus: n
+   totalCount: 69
+   maxPercentage: 84.05797101449275
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 58
+      percentage: 84.06
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 7.25
+    - 
+      transform: '-'
+      count: 4
+      percentage: 5.80
+    - 
+      transform: '-en'
+      count: 2
+      percentage: 2.90
+ - 
+   ending: u
+   genus: f
+   totalCount: 81
+   maxPercentage: 83.95061728395062
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 68
+      percentage: 83.95
+    - 
+      transform: '⸚e'
+      count: 5
+      percentage: 6.17
+    - 
+      transform: '-'
+      count: 4
+      percentage: 4.94
+    - 
+      transform: '-s'
+      count: 4
+      percentage: 4.94
+ - 
+   ending: mann
+   genus: m
+   totalCount: 122
+   maxPercentage: 83.60655737704919
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 102
+      percentage: 83.61
+    - 
+      transform: '-mann ⇒ -leute'
+      count: 15
+      percentage: 12.30
+    - 
+      transform: '-e'
+      count: 4
+      percentage: 3.28
+ - 
+   ending: o
+   genus: n
+   totalCount: 248
+   maxPercentage: 83.46774193548387
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 207
+      percentage: 83.47
+    - 
+      transform: '-o ⇒ -i'
+      count: 20
+      percentage: 8.06
+    - 
+      transform: '-o ⇒ -en'
+      count: 19
+      percentage: 7.66
+ - 
+   ending: is
+   genus: n
+   totalCount: 180
+   maxPercentage: 82.77777777777777
+   transformFrequencies:
+    - 
+      transform: '-se'
+      count: 149
+      percentage: 82.78
+    - 
+      transform: '-'
+      count: 16
+      percentage: 8.89
+    - 
+      transform: '-e'
+      count: 12
+      percentage: 6.67
+    - 
+      transform: '-er'
+      count: 3
+      percentage: 1.67
+ - 
+   ending: kt
+   genus: m
+   totalCount: 240
+   maxPercentage: 80.83333333333333
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 194
+      percentage: 80.83
+    - 
+      transform: '⸚e'
+      count: 39
+      percentage: 16.25
+    - 
+      transform: '-en'
+      count: 6
+      percentage: 2.50
+ - 
+   ending: ne
+   genus: m
+   totalCount: 70
+   maxPercentage: 80.0
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 56
+      percentage: 80.00
+    - 
+      transform: '-s'
+      count: 11
+      percentage: 15.71
+    - 
+      transform: '-'
+      count: 2
+      percentage: 2.86
+    - 
+      transform: '-e ⇒ -i'
+      count: 1
+      percentage: 1.43
+ - 
+   ending: ort
+   genus: n
+   totalCount: 173
+   maxPercentage: 78.61271676300578
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 136
+      percentage: 78.61
+    - 
+      transform: '-e'
+      count: 32
+      percentage: 18.50
+    - 
+      transform: '-s'
+      count: 4
+      percentage: 2.31
+ - 
+   ending: nt
+   genus: m
+   totalCount: 300
+   maxPercentage: 77.66666666666667
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 233
+      percentage: 77.67
+    - 
+      transform: '-e'
+      count: 41
+      percentage: 13.67
+    - 
+      transform: '-s'
+      count: 24
+      percentage: 8.00
+ - 
+   ending: tel
+   genus: m
+   totalCount: 117
+   maxPercentage: 76.92307692307692
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 90
+      percentage: 76.92
+    - 
+      transform: '⸚'
+      count: 23
+      percentage: 19.66
+    - 
+      transform: '-e'
+      count: 3
+      percentage: 2.56
+ - 
+   ending: id
+   genus: n
+   totalCount: 87
+   maxPercentage: 74.71264367816092
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 65
+      percentage: 74.71
+    - 
+      transform: '-er'
+      count: 20
+      percentage: 22.99
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.15
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.15
+ - 
+   ending: cht
+   genus: n
+   totalCount: 182
+   maxPercentage: 74.17582417582418
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 135
+      percentage: 74.18
+    - 
+      transform: '-er'
+      count: 45
+      percentage: 24.73
+ - 
+   ending: ht
+   genus: m
+   totalCount: 108
+   maxPercentage: 71.29629629629629
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 77
+      percentage: 71.30
+    - 
+      transform: '⸚e'
+      count: 29
+      percentage: 26.85
+ - 
+   ending: tz
+   genus: m
+   totalCount: 337
+   maxPercentage: 70.62314540059347
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 238
+      percentage: 70.62
+    - 
+      transform: '-e'
+      count: 89
+      percentage: 26.41
+    - 
+      transform: '-en'
+      count: 6
+      percentage: 1.78
+    - 
+      transform: '-'
+      count: 4
+      percentage: 1.19
+ - 
+   ending: g
+   genus: n
+   totalCount: 172
+   maxPercentage: 66.86046511627907
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 115
+      percentage: 66.86
+    - 
+      transform: '-s'
+      count: 54
+      percentage: 31.40
+    - 
+      transform: '-en'
+      count: 2
+      percentage: 1.16
+ - 
+   ending: nt
+   genus: n
+   totalCount: 164
+   maxPercentage: 65.2439024390244
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 107
+      percentage: 65.24
+    - 
+      transform: '-s'
+      count: 51
+      percentage: 31.10
+    - 
+      transform: '-en'
+      count: 4
+      percentage: 2.44
+    - 
+      transform: '-er'
+      count: 2
+      percentage: 1.22
+ - 
+   ending: gel
+   genus: m
+   totalCount: 203
+   maxPercentage: 65.02463054187191
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 132
+      percentage: 65.02
+    - 
+      transform: '⸚'
+      count: 68
+      percentage: 33.50
+ - 
+   ending: ma
+   genus: n
+   totalCount: 95
+   maxPercentage: 64.21052631578948
+   transformFrequencies:
+    - 
+      transform: '-a ⇒ -en'
+      count: 61
+      percentage: 64.21
+    - 
+      transform: '-ta'
+      count: 17
+      percentage: 17.89
+    - 
+      transform: '-s'
+      count: 15
+      percentage: 15.79
+    - 
+      transform: '-te'
+      count: 2
+      percentage: 2.11
+ - 
+   ending: ter
+   genus: f
+   totalCount: 91
+   maxPercentage: 63.73626373626374
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 58
+      percentage: 63.74
+    - 
+      transform: '⸚'
+      count: 31
+      percentage: 34.07
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.10
+    - 
+      transform: '-s'
+      count: 1
+      percentage: 1.10
+ - 
+   ending: ton
+   genus: m
+   totalCount: 73
+   maxPercentage: 63.013698630136986
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 46
+      percentage: 63.01
+    - 
+      transform: '-s'
+      count: 17
+      percentage: 23.29
+    - 
+      transform: '-e'
+      count: 9
+      percentage: 12.33
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.37
+ - 
+   ending: rand
+   genus: m
+   totalCount: 53
+   maxPercentage: 62.264150943396224
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 33
+      percentage: 62.26
+    - 
+      transform: '⸚er'
+      count: 15
+      percentage: 28.30
+    - 
+      transform: '-e'
+      count: 3
+      percentage: 5.66
+    - 
+      transform: '-en'
+      count: 2
+      percentage: 3.77
+ - 
+   ending: ss
+   genus: m
+   totalCount: 318
+   maxPercentage: 62.264150943396224
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 198
+      percentage: 62.26
+    - 
+      transform: '-e'
+      count: 117
+      percentage: 36.79
+ - 
+   ending: ka
+   genus: f
+   totalCount: 52
+   maxPercentage: 57.69230769230769
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 30
+      percentage: 57.69
+    - 
+      transform: '-a ⇒ -en'
+      count: 15
+      percentage: 28.85
+    - 
+      transform: '-'
+      count: 5
+      percentage: 9.62
+    - 
+      transform: '-a ⇒ -i'
+      count: 2
+      percentage: 3.85
+ - 
+   ending: it
+   genus: m
+   totalCount: 170
+   maxPercentage: 57.64705882352941
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 98
+      percentage: 57.65
+    - 
+      transform: '-en'
+      count: 63
+      percentage: 37.06
+    - 
+      transform: '-s'
+      count: 8
+      percentage: 4.71
+ - 
+   ending: ut
+   genus: m
+   totalCount: 110
+   maxPercentage: 57.27272727272727
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 63
+      percentage: 57.27
+    - 
+      transform: '-en'
+      count: 18
+      percentage: 16.36
+    - 
+      transform: '⸚e'
+      count: 16
+      percentage: 14.55
+    - 
+      transform: '-s'
+      count: 13
+      percentage: 11.82
+ - 
+   ending: rn
+   genus: n
+   totalCount: 66
+   maxPercentage: 53.03030303030303
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 35
+      percentage: 53.03
+    - 
+      transform: '-e'
+      count: 27
+      percentage: 40.91
+    - 
+      transform: '-s'
+      count: 3
+      percentage: 4.55
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.52
+ - 
+   ending: f
+   genus: m
+   totalCount: 786
+   maxPercentage: 51.908396946564885
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 408
+      percentage: 51.91
+    - 
+      transform: '-e'
+      count: 303
+      percentage: 38.55
+    - 
+      transform: '-s'
+      count: 40
+      percentage: 5.09
+    - 
+      transform: '-en'
+      count: 35
+      percentage: 4.45
+ - 
+   ending: ack
+   genus: m
+   totalCount: 69
+   maxPercentage: 49.27536231884058
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 34
+      percentage: 49.28
+    - 
+      transform: '-s'
+      count: 23
+      percentage: 33.33
+    - 
+      transform: '-e'
+      count: 11
+      percentage: 15.94
+    - 
+      transform: '⸚er'
+      count: 1
+      percentage: 1.45
+ - 
+   ending: uck
+   genus: m
+   totalCount: 66
+   maxPercentage: 48.484848484848484
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 32
+      percentage: 48.48
+    - 
+      transform: '⸚e'
+      count: 31
+      percentage: 46.97
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 3.03
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.52
+ - 
+   ending: ot
+   genus: m
+   totalCount: 62
+   maxPercentage: 48.38709677419355
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 30
+      percentage: 48.39
+    - 
+      transform: '-s'
+      count: 23
+      percentage: 37.10
+    - 
+      transform: '-e'
+      count: 8
+      percentage: 12.90
+    - 
+      transform: '-oot ⇒ -eet'
+      count: 1
+      percentage: 1.61
+ - 
+   ending: nk
+   genus: m
+   totalCount: 92
+   maxPercentage: 45.65217391304348
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 42
+      percentage: 45.65
+    - 
+      transform: '-s'
+      count: 30
+      percentage: 32.61
+    - 
+      transform: '-en'
+      count: 13
+      percentage: 14.13
+    - 
+      transform: '-e'
+      count: 7
+      percentage: 7.61
+ - 
+   ending: ast
+   genus: m
+   totalCount: 77
+   maxPercentage: 33.76623376623377
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 26
+      percentage: 33.77
+    - 
+      transform: '-en'
+      count: 25
+      percentage: 32.47
+    - 
+      transform: '-e'
+      count: 21
+      percentage: 27.27
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 6.49
+5:
+ - 
+   ending: her
+   genus: m
+   totalCount: 362
+   maxPercentage: 98.89502762430939
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 358
+      percentage: 98.90
+ - 
+   ending: z
+   genus: f
+   totalCount: 248
+   maxPercentage: 97.58064516129032
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 242
+      percentage: 97.58
+    - 
+      transform: '-e'
+      count: 3
+      percentage: 1.21
+ - 
+   ending: ll
+   genus: n
+   totalCount: 167
+   maxPercentage: 97.0059880239521
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 162
+      percentage: 97.01
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.20
+ - 
+   ending: ne
+   genus: f
+   totalCount: 663
+   maxPercentage: 95.92760180995475
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 636
+      percentage: 95.93
+    - 
+      transform: '-s'
+      count: 23
+      percentage: 3.47
+ - 
+   ending: der
+   genus: m
+   totalCount: 345
+   maxPercentage: 93.33333333333333
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 322
+      percentage: 93.33
+    - 
+      transform: '⸚'
+      count: 18
+      percentage: 5.22
+ - 
+   ending: um
+   genus: n
+   totalCount: 364
+   maxPercentage: 91.20879120879121
+   transformFrequencies:
+    - 
+      transform: '-um ⇒ -en'
+      count: 332
+      percentage: 91.21
+    - 
+      transform: '⸚er'
+      count: 18
+      percentage: 4.95
+    - 
+      transform: '-s'
+      count: 8
+      percentage: 2.20
+    - 
+      transform: '-e'
+      count: 4
+      percentage: 1.10
+ - 
+   ending: in
+   genus: m
+   totalCount: 399
+   maxPercentage: 90.47619047619048
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 361
+      percentage: 90.48
+    - 
+      transform: '-s'
+      count: 33
+      percentage: 8.27
+ - 
+   ending: ur
+   genus: m
+   totalCount: 127
+   maxPercentage: 88.18897637795276
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 112
+      percentage: 88.19
+    - 
+      transform: '-s'
+      count: 9
+      percentage: 7.09
+    - 
+      transform: '-en'
+      count: 4
+      percentage: 3.15
+ - 
+   ending: k
+   genus: f
+   totalCount: 338
+   maxPercentage: 86.68639053254438
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 293
+      percentage: 86.69
+    - 
+      transform: '⸚e'
+      count: 34
+      percentage: 10.06
+    - 
+      transform: '-s'
+      count: 7
+      percentage: 2.07
+ - 
+   ending: il
+   genus: m
+   totalCount: 82
+   maxPercentage: 86.58536585365853
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 71
+      percentage: 86.59
+    - 
+      transform: '-s'
+      count: 7
+      percentage: 8.54
+    - 
+      transform: '-ien'
+      count: 2
+      percentage: 2.44
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.22
+    - 
+      transform: '-im'
+      count: 1
+      percentage: 1.22
+ - 
+   ending: rt
+   genus: m
+   totalCount: 304
+   maxPercentage: 83.55263157894737
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 254
+      percentage: 83.55
+    - 
+      transform: '-s'
+      count: 30
+      percentage: 9.87
+    - 
+      transform: '⸚e'
+      count: 16
+      percentage: 5.26
+ - 
+   ending: ck
+   genus: n
+   totalCount: 148
+   maxPercentage: 82.43243243243244
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 122
+      percentage: 82.43
+    - 
+      transform: '-s'
+      count: 21
+      percentage: 14.19
+    - 
+      transform: '⸚e'
+      count: 3
+      percentage: 2.03
+ - 
+   ending: i
+   genus: f
+   totalCount: 342
+   maxPercentage: 82.16374269005848
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 281
+      percentage: 82.16
+    - 
+      transform: '-s'
+      count: 45
+      percentage: 13.16
+    - 
+      transform: '-'
+      count: 13
+      percentage: 3.80
+ - 
+   ending: ll
+   genus: m
+   totalCount: 263
+   maxPercentage: 79.08745247148289
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 208
+      percentage: 79.09
+    - 
+      transform: '-e'
+      count: 35
+      percentage: 13.31
+    - 
+      transform: '-s'
+      count: 12
+      percentage: 4.56
+    - 
+      transform: '-en'
+      count: 6
+      percentage: 2.28
+ - 
+   ending: ann
+   genus: m
+   totalCount: 133
+   maxPercentage: 77.44360902255639
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 103
+      percentage: 77.44
+    - 
+      transform: '-mann ⇒ -leute'
+      count: 15
+      percentage: 11.28
+    - 
+      transform: '-e'
+      count: 12
+      percentage: 9.02
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.50
+ - 
+   ending: al
+   genus: n
+   totalCount: 168
+   maxPercentage: 76.78571428571429
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 129
+      percentage: 76.79
+    - 
+      transform: '-ien'
+      count: 15
+      percentage: 8.93
+    - 
+      transform: '-s'
+      count: 13
+      percentage: 7.74
+    - 
+      transform: '⸚er'
+      count: 10
+      percentage: 5.95
+ - 
+   ending: as
+   genus: n
+   totalCount: 89
+   maxPercentage: 74.15730337078652
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 66
+      percentage: 74.16
+    - 
+      transform: '-e'
+      count: 19
+      percentage: 21.35
+    - 
+      transform: '-'
+      count: 2
+      percentage: 2.25
+    - 
+      transform: '-s ⇒ -ta'
+      count: 1
+      percentage: 1.12
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.12
+ - 
+   ending: ht
+   genus: n
+   totalCount: 183
+   maxPercentage: 73.77049180327869
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 135
+      percentage: 73.77
+    - 
+      transform: '-er'
+      count: 45
+      percentage: 24.59
+ - 
+   ending: nz
+   genus: m
+   totalCount: 52
+   maxPercentage: 73.07692307692308
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 38
+      percentage: 73.08
+    - 
+      transform: '-e'
+      count: 8
+      percentage: 15.38
+    - 
+      transform: '-en'
+      count: 3
+      percentage: 5.77
+    - 
+      transform: '-'
+      count: 2
+      percentage: 3.85
+    - 
+      transform: '⸚'
+      count: 1
+      percentage: 1.92
+ - 
+   ending: en
+   genus: m
+   totalCount: 948
+   maxPercentage: 72.67932489451476
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 689
+      percentage: 72.68
+    - 
+      transform: '⸚'
+      count: 238
+      percentage: 25.11
+    - 
+      transform: '-s'
+      count: 17
+      percentage: 1.79
+ - 
+   ending: er
+   genus: n
+   totalCount: 757
+   maxPercentage: 70.14531043593131
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 531
+      percentage: 70.15
+    - 
+      transform: '-e'
+      count: 195
+      percentage: 25.76
+    - 
+      transform: '-s'
+      count: 17
+      percentage: 2.25
+    - 
+      transform: '⸚'
+      count: 13
+      percentage: 1.72
+ - 
+   ending: st
+   genus: n
+   totalCount: 72
+   maxPercentage: 69.44444444444444
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 50
+      percentage: 69.44
+    - 
+      transform: '-er'
+      count: 19
+      percentage: 26.39
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.39
+    - 
+      transform: '-ast ⇒ ⸚ster'
+      count: 1
+      percentage: 1.39
+    - 
+      transform: '⸚e'
+      count: 1
+      percentage: 1.39
+ - 
+   ending: f
+   genus: n
+   totalCount: 129
+   maxPercentage: 68.9922480620155
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 89
+      percentage: 68.99
+    - 
+      transform: '⸚er'
+      count: 22
+      percentage: 17.05
+    - 
+      transform: '-s'
+      count: 15
+      percentage: 11.63
+    - 
+      transform: '-'
+      count: 2
+      percentage: 1.55
+ - 
+   ending: und
+   genus: m
+   totalCount: 134
+   maxPercentage: 68.65671641791045
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 92
+      percentage: 68.66
+    - 
+      transform: '⸚e'
+      count: 32
+      percentage: 23.88
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 3.73
+    - 
+      transform: '⸚er'
+      count: 4
+      percentage: 2.99
+ - 
+   ending: rt
+   genus: n
+   totalCount: 202
+   maxPercentage: 67.82178217821782
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 137
+      percentage: 67.82
+    - 
+      transform: '-e'
+      count: 50
+      percentage: 24.75
+    - 
+      transform: '-s'
+      count: 10
+      percentage: 4.95
+    - 
+      transform: '-er'
+      count: 3
+      percentage: 1.49
+ - 
+   ending: uch
+   genus: m
+   totalCount: 405
+   maxPercentage: 64.19753086419753
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 260
+      percentage: 64.20
+    - 
+      transform: '-e'
+      count: 129
+      percentage: 31.85
+    - 
+      transform: '⸚er'
+      count: 14
+      percentage: 3.46
+ - 
+   ending: n
+   genus: f
+   totalCount: 3731
+   maxPercentage: 63.923880997051725
+   transformFrequencies:
+    - 
+      transform: '-nen'
+      count: 2385
+      percentage: 63.92
+    - 
+      transform: '-en'
+      count: 1287
+      percentage: 34.49
+ - 
+   ending: sch
+   genus: m
+   totalCount: 272
+   maxPercentage: 61.029411764705884
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 166
+      percentage: 61.03
+    - 
+      transform: '⸚e'
+      count: 52
+      percentage: 19.12
+    - 
+      transform: '-en'
+      count: 51
+      percentage: 18.75
+ - 
+   ending: p
+   genus: m
+   totalCount: 133
+   maxPercentage: 60.902255639097746
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 81
+      percentage: 60.90
+    - 
+      transform: '-en'
+      count: 31
+      percentage: 23.31
+    - 
+      transform: '-e'
+      count: 18
+      percentage: 13.53
+    - 
+      transform: '⸚e'
+      count: 2
+      percentage: 1.50
+ - 
+   ending: ut
+   genus: n
+   totalCount: 82
+   maxPercentage: 59.75609756097561
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 49
+      percentage: 59.76
+    - 
+      transform: '-e'
+      count: 24
+      percentage: 29.27
+    - 
+      transform: '-s'
+      count: 7
+      percentage: 8.54
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.22
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.22
+ - 
+   ending: ra
+   genus: f
+   totalCount: 72
+   maxPercentage: 58.333333333333336
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 42
+      percentage: 58.33
+    - 
+      transform: '-a ⇒ -en'
+      count: 25
+      percentage: 34.72
+    - 
+      transform: '-e'
+      count: 2
+      percentage: 2.78
+    - 
+      transform: '-'
+      count: 2
+      percentage: 2.78
+    - 
+      transform: '⸚'
+      count: 1
+      percentage: 1.39
+ - 
+   ending: ag
+   genus: m
+   totalCount: 468
+   maxPercentage: 56.837606837606835
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 266
+      percentage: 56.84
+    - 
+      transform: '-e'
+      count: 192
+      percentage: 41.03
+    - 
+      transform: '-s'
+      count: 8
+      percentage: 1.71
+ - 
+   ending: ta
+   genus: f
+   totalCount: 55
+   maxPercentage: 56.36363636363637
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 31
+      percentage: 56.36
+    - 
+      transform: '-a ⇒ -en'
+      count: 19
+      percentage: 34.55
+    - 
+      transform: '-e'
+      count: 3
+      percentage: 5.45
+    - 
+      transform: '⸚'
+      count: 1
+      percentage: 1.82
+    - 
+      transform: '-a ⇒ -e'
+      count: 1
+      percentage: 1.82
+ - 
+   ending: ng
+   genus: m
+   totalCount: 579
+   maxPercentage: 51.98618307426597
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 301
+      percentage: 51.99
+    - 
+      transform: '⸚e'
+      count: 248
+      percentage: 42.83
+    - 
+      transform: '-s'
+      count: 23
+      percentage: 3.97
+ - 
+   ending: u
+   genus: m
+   totalCount: 107
+   maxPercentage: 50.467289719626166
+   transformFrequencies:
+    - 
+      transform: '-ten'
+      count: 54
+      percentage: 50.47
+    - 
+      transform: '-s'
+      count: 29
+      percentage: 27.10
+    - 
+      transform: '-e'
+      count: 17
+      percentage: 15.89
+    - 
+      transform: '-'
+      count: 5
+      percentage: 4.67
+    - 
+      transform: '-en'
+      count: 2
+      percentage: 1.87
+ - 
+   ending: at
+   genus: m
+   totalCount: 299
+   maxPercentage: 49.49832775919732
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 148
+      percentage: 49.50
+    - 
+      transform: '-e'
+      count: 96
+      percentage: 32.11
+    - 
+      transform: '⸚e'
+      count: 38
+      percentage: 12.71
+    - 
+      transform: '-s'
+      count: 16
+      percentage: 5.35
+ - 
+   ending: i
+   genus: n
+   totalCount: 86
+   maxPercentage: 48.83720930232558
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 42
+      percentage: 48.84
+    - 
+      transform: '-er'
+      count: 22
+      percentage: 25.58
+    - 
+      transform: '-'
+      count: 20
+      percentage: 23.26
+    - 
+      transform: '-en'
+      count: 1
+      percentage: 1.16
+    - 
+      transform: '-e'
+      count: 1
+      percentage: 1.16
+ - 
+   ending: ub
+   genus: m
+   totalCount: 69
+   maxPercentage: 43.47826086956522
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 30
+      percentage: 43.48
+    - 
+      transform: '-e'
+      count: 20
+      percentage: 28.99
+    - 
+      transform: '⸚e'
+      count: 12
+      percentage: 17.39
+    - 
+      transform: '-en'
+      count: 5
+      percentage: 7.25
+    - 
+      transform: '-im'
+      count: 2
+      percentage: 2.90
+ - 
+   ending: ett
+   genus: n
+   totalCount: 139
+   maxPercentage: 43.16546762589928
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 60
+      percentage: 43.17
+    - 
+      transform: '-er'
+      count: 30
+      percentage: 21.58
+    - 
+      transform: '-en'
+      count: 25
+      percentage: 17.99
+    - 
+      transform: '-s'
+      count: 23
+      percentage: 16.55
+ - 
+   ending: ld
+   genus: m
+   totalCount: 72
+   maxPercentage: 43.05555555555556
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 31
+      percentage: 43.06
+    - 
+      transform: '-e'
+      count: 25
+      percentage: 34.72
+    - 
+      transform: '-en'
+      count: 11
+      percentage: 15.28
+    - 
+      transform: '-s'
+      count: 4
+      percentage: 5.56
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.39
+ - 
+   ending: a
+   genus: n
+   totalCount: 150
+   maxPercentage: 42.0
+   transformFrequencies:
+    - 
+      transform: '-a ⇒ -en'
+      count: 63
+      percentage: 42.00
+    - 
+      transform: '-s'
+      count: 61
+      percentage: 40.67
+    - 
+      transform: '-ta'
+      count: 17
+      percentage: 11.33
+    - 
+      transform: '-'
+      count: 7
+      percentage: 4.67
+    - 
+      transform: '-te'
+      count: 2
+      percentage: 1.33
+ - 
+   ending: om
+   genus: m
+   totalCount: 51
+   maxPercentage: 41.1764705882353
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 21
+      percentage: 41.18
+    - 
+      transform: '-s'
+      count: 17
+      percentage: 33.33
+    - 
+      transform: '-en'
+      count: 7
+      percentage: 13.73
+    - 
+      transform: '-e'
+      count: 5
+      percentage: 9.80
+    - 
+      transform: '-a'
+      count: 1
+      percentage: 1.96
+6:
+ - 
+   ending: or
+   genus: m
+   totalCount: 391
+   maxPercentage: 89.51406649616368
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 350
+      percentage: 89.51
+    - 
+      transform: '-e'
+      count: 18
+      percentage: 4.60
+    - 
+      transform: '⸚e'
+      count: 13
+      percentage: 3.32
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 1.28
+ - 
+   ending: er
+   genus: f
+   totalCount: 418
+   maxPercentage: 87.32057416267942
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 365
+      percentage: 87.32
+    - 
+      transform: '⸚'
+      count: 31
+      percentage: 7.42
+    - 
+      transform: '-'
+      count: 13
+      percentage: 3.11
+    - 
+      transform: '-en'
+      count: 5
+      percentage: 1.20
+ - 
+   ending: rn
+   genus: m
+   totalCount: 103
+   maxPercentage: 86.40776699029126
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 89
+      percentage: 86.41
+    - 
+      transform: '-'
+      count: 6
+      percentage: 5.83
+    - 
+      transform: '-s'
+      count: 4
+      percentage: 3.88
+    - 
+      transform: '-en'
+      count: 2
+      percentage: 1.94
+ - 
+   ending: o
+   genus: m
+   totalCount: 225
+   maxPercentage: 85.33333333333333
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 192
+      percentage: 85.33
+    - 
+      transform: '-o ⇒ -i'
+      count: 13
+      percentage: 5.78
+    - 
+      transform: '-'
+      count: 12
+      percentage: 5.33
+    - 
+      transform: '-nen'
+      count: 6
+      percentage: 2.67
+ - 
+   ending: k
+   genus: n
+   totalCount: 347
+   maxPercentage: 83.57348703170028
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 290
+      percentage: 83.57
+    - 
+      transform: '-s'
+      count: 36
+      percentage: 10.37
+    - 
+      transform: '⸚er'
+      count: 16
+      percentage: 4.61
+ - 
+   ending: t
+   genus: f
+   totalCount: 2189
+   maxPercentage: 83.23435358611238
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 1822
+      percentage: 83.23
+    - 
+      transform: '⸚e'
+      count: 338
+      percentage: 15.44
+ - 
+   ending: tt
+   genus: m
+   totalCount: 125
+   maxPercentage: 81.6
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 102
+      percentage: 81.60
+    - 
+      transform: '⸚er'
+      count: 9
+      percentage: 7.20
+    - 
+      transform: '-s'
+      count: 8
+      percentage: 6.40
+    - 
+      transform: '⸚e'
+      count: 3
+      percentage: 2.40
+    - 
+      transform: '-en'
+      count: 2
+      percentage: 1.60
+ - 
+   ending: el
+   genus: m
+   totalCount: 995
+   maxPercentage: 81.20603015075378
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 808
+      percentage: 81.21
+    - 
+      transform: '⸚'
+      count: 124
+      percentage: 12.46
+    - 
+      transform: '-e'
+      count: 32
+      percentage: 3.22
+    - 
+      transform: '-n'
+      count: 15
+      percentage: 1.51
+    - 
+      transform: '-s'
+      count: 15
+      percentage: 1.51
+ - 
+   ending: ß
+   genus: m
+   totalCount: 106
+   maxPercentage: 78.30188679245283
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 83
+      percentage: 78.30
+    - 
+      transform: '-e'
+      count: 17
+      percentage: 16.04
+    - 
+      transform: '-'
+      count: 2
+      percentage: 1.89
+    - 
+      transform: '-ß ⇒ -ssen'
+      count: 2
+      percentage: 1.89
+ - 
+   ending: l
+   genus: f
+   totalCount: 593
+   maxPercentage: 75.54806070826307
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 448
+      percentage: 75.55
+    - 
+      transform: '-en'
+      count: 114
+      percentage: 19.22
+    - 
+      transform: '-'
+      count: 15
+      percentage: 2.53
+    - 
+      transform: '-s'
+      count: 12
+      percentage: 2.02
+ - 
+   ending: ch
+   genus: n
+   totalCount: 352
+   maxPercentage: 75.2840909090909
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 265
+      percentage: 75.28
+    - 
+      transform: '-e'
+      count: 74
+      percentage: 21.02
+    - 
+      transform: '-s'
+      count: 8
+      percentage: 2.27
+ - 
+   ending: na
+   genus: f
+   totalCount: 95
+   maxPercentage: 66.3157894736842
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 63
+      percentage: 66.32
+    - 
+      transform: '-a ⇒ -en'
+      count: 25
+      percentage: 26.32
+    - 
+      transform: '-e'
+      count: 4
+      percentage: 4.21
+    - 
+      transform: '-a ⇒ -os'
+      count: 1
+      percentage: 1.05
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.05
+    - 
+      transform: '-a ⇒ -i'
+      count: 1
+      percentage: 1.05
+ - 
+   ending: rm
+   genus: m
+   totalCount: 138
+   maxPercentage: 63.768115942028984
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 88
+      percentage: 63.77
+    - 
+      transform: '-e'
+      count: 34
+      percentage: 24.64
+    - 
+      transform: '⸚er'
+      count: 11
+      percentage: 7.97
+    - 
+      transform: '-en'
+      count: 2
+      percentage: 1.45
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.45
+ - 
+   ending: nn
+   genus: m
+   totalCount: 162
+   maxPercentage: 63.58024691358025
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 103
+      percentage: 63.58
+    - 
+      transform: '-e'
+      count: 40
+      percentage: 24.69
+    - 
+      transform: '-mann ⇒ -leute'
+      count: 15
+      percentage: 9.26
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 1.23
+ - 
+   ending: ia
+   genus: f
+   totalCount: 79
+   maxPercentage: 63.29113924050633
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 50
+      percentage: 63.29
+    - 
+      transform: '-a ⇒ -en'
+      count: 22
+      percentage: 27.85
+    - 
+      transform: '-e'
+      count: 4
+      percentage: 5.06
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.27
+    - 
+      transform: '-a ⇒ -ot'
+      count: 1
+      percentage: 1.27
+    - 
+      transform: '⸚'
+      count: 1
+      percentage: 1.27
+ - 
+   ending: la
+   genus: f
+   totalCount: 72
+   maxPercentage: 61.111111111111114
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 44
+      percentage: 61.11
+    - 
+      transform: '-a ⇒ -en'
+      count: 15
+      percentage: 20.83
+    - 
+      transform: '-e'
+      count: 10
+      percentage: 13.89
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.39
+    - 
+      transform: '⸚'
+      count: 1
+      percentage: 1.39
+    - 
+      transform: '-a ⇒ -e'
+      count: 1
+      percentage: 1.39
+ - 
+   ending: z
+   genus: m
+   totalCount: 509
+   maxPercentage: 57.95677799607073
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 295
+      percentage: 57.96
+    - 
+      transform: '-e'
+      count: 181
+      percentage: 35.56
+    - 
+      transform: '-en'
+      count: 23
+      percentage: 4.52
+    - 
+      transform: '-'
+      count: 8
+      percentage: 1.57
+ - 
+   ending: el
+   genus: n
+   totalCount: 418
+   maxPercentage: 54.78468899521531
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 229
+      percentage: 54.78
+    - 
+      transform: '-e'
+      count: 163
+      percentage: 39.00
+    - 
+      transform: '-s'
+      count: 21
+      percentage: 5.02
+ - 
+   ending: on
+   genus: m
+   totalCount: 207
+   maxPercentage: 53.14009661835749
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 110
+      percentage: 53.14
+    - 
+      transform: '⸚e'
+      count: 46
+      percentage: 22.22
+    - 
+      transform: '-e'
+      count: 38
+      percentage: 18.36
+    - 
+      transform: '-en'
+      count: 6
+      percentage: 2.90
+    - 
+      transform: '-'
+      count: 5
+      percentage: 2.42
+ - 
+   ending: nd
+   genus: m
+   totalCount: 510
+   maxPercentage: 50.0
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 255
+      percentage: 50.00
+    - 
+      transform: '-e'
+      count: 203
+      percentage: 39.80
+    - 
+      transform: '⸚er'
+      count: 20
+      percentage: 3.92
+    - 
+      transform: '-en'
+      count: 15
+      percentage: 2.94
+    - 
+      transform: '-s'
+      count: 15
+      percentage: 2.94
+ - 
+   ending: ck
+   genus: m
+   totalCount: 323
+   maxPercentage: 47.6780185758514
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 154
+      percentage: 47.68
+    - 
+      transform: '-e'
+      count: 99
+      percentage: 30.65
+    - 
+      transform: '-s'
+      count: 62
+      percentage: 19.20
+    - 
+      transform: '-en'
+      count: 6
+      percentage: 1.86
+ - 
+   ending: on
+   genus: n
+   totalCount: 186
+   maxPercentage: 41.935483870967744
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 78
+      percentage: 41.94
+    - 
+      transform: '-s'
+      count: 38
+      percentage: 20.43
+    - 
+      transform: '-en'
+      count: 37
+      percentage: 19.89
+    - 
+      transform: '-on ⇒ -en'
+      count: 29
+      percentage: 15.59
+    - 
+      transform: '-'
+      count: 3
+      percentage: 1.61
+ - 
+   ending: le
+   genus: n
+   totalCount: 56
+   maxPercentage: 41.07142857142857
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 23
+      percentage: 41.07
+    - 
+      transform: '-s'
+      count: 14
+      percentage: 25.00
+    - 
+      transform: '-e ⇒ -ien'
+      count: 13
+      percentage: 23.21
+    - 
+      transform: '-e ⇒ -ia'
+      count: 4
+      percentage: 7.14
+    - 
+      transform: '-n'
+      count: 1
+      percentage: 1.79
+    - 
+      transform: '-e ⇒ -i'
+      count: 1
+      percentage: 1.79
+ - 
+   ending: tt
+   genus: n
+   totalCount: 223
+   maxPercentage: 31.838565022421523
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 71
+      percentage: 31.84
+    - 
+      transform: '⸚er'
+      count: 58
+      percentage: 26.01
+    - 
+      transform: '-en'
+      count: 30
+      percentage: 13.45
+    - 
+      transform: '-er'
+      count: 30
+      percentage: 13.45
+    - 
+      transform: '-s'
+      count: 29
+      percentage: 13.00
+    - 
+      transform: '-'
+      count: 5
+      percentage: 2.24
+7:
+ - 
+   ending: e
+   genus: f
+   totalCount: 9591
+   maxPercentage: 98.54029819622563
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 9451
+      percentage: 98.54
+    - 
+      transform: '-s'
+      count: 122
+      percentage: 1.27
+ - 
+   ending: ter
+   genus: m
+   totalCount: 904
+   maxPercentage: 95.79646017699115
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 866
+      percentage: 95.80
+    - 
+      transform: '⸚'
+      count: 22
+      percentage: 2.43
+ - 
+   ending: us
+   genus: n
+   totalCount: 180
+   maxPercentage: 87.77777777777777
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 158
+      percentage: 87.78
+    - 
+      transform: '-'
+      count: 6
+      percentage: 3.33
+    - 
+      transform: '-us ⇒ -era'
+      count: 4
+      percentage: 2.22
+    - 
+      transform: '-us ⇒ -ora'
+      count: 4
+      percentage: 2.22
+    - 
+      transform: '-e'
+      count: 4
+      percentage: 2.22
+    - 
+      transform: '-us ⇒ -en'
+      count: 2
+      percentage: 1.11
+    - 
+      transform: '-se'
+      count: 2
+      percentage: 1.11
+ - 
+   ending: e
+   genus: m
+   totalCount: 1046
+   maxPercentage: 74.95219885277247
+   transformFrequencies:
+    - 
+      transform: '-n'
+      count: 784
+      percentage: 74.95
+    - 
+      transform: '-s'
+      count: 200
+      percentage: 19.12
+    - 
+      transform: '-'
+      count: 52
+      percentage: 4.97
+ - 
+   ending: h
+   genus: n
+   totalCount: 377
+   maxPercentage: 70.29177718832891
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 265
+      percentage: 70.29
+    - 
+      transform: '-e'
+      count: 94
+      percentage: 24.93
+    - 
+      transform: '-s'
+      count: 12
+      percentage: 3.18
+ - 
+   ending: us
+   genus: m
+   totalCount: 399
+   maxPercentage: 59.64912280701754
+   transformFrequencies:
+    - 
+      transform: '-us ⇒ -en'
+      count: 238
+      percentage: 59.65
+    - 
+      transform: '-se'
+      count: 85
+      percentage: 21.30
+    - 
+      transform: '-'
+      count: 53
+      percentage: 13.28
+    - 
+      transform: '-e'
+      count: 8
+      percentage: 2.01
+    - 
+      transform: '-us ⇒ -ier'
+      count: 7
+      percentage: 1.75
+    - 
+      transform: '⸚e'
+      count: 5
+      percentage: 1.25
+ - 
+   ending: m
+   genus: m
+   totalCount: 568
+   maxPercentage: 59.33098591549296
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 337
+      percentage: 59.33
+    - 
+      transform: '-e'
+      count: 158
+      percentage: 27.82
+    - 
+      transform: '-s'
+      count: 44
+      percentage: 7.75
+    - 
+      transform: '⸚er'
+      count: 15
+      percentage: 2.64
+    - 
+      transform: '-en'
+      count: 10
+      percentage: 1.76
+ - 
+   ending: al
+   genus: m
+   totalCount: 146
+   maxPercentage: 58.9041095890411
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 86
+      percentage: 58.90
+    - 
+      transform: '-al ⇒ ⸚le'
+      count: 24
+      percentage: 16.44
+    - 
+      transform: '-s'
+      count: 19
+      percentage: 13.01
+    - 
+      transform: '⸚e'
+      count: 14
+      percentage: 9.59
+ - 
+   ending: st
+   genus: m
+   totalCount: 628
+   maxPercentage: 56.05095541401274
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 352
+      percentage: 56.05
+    - 
+      transform: '-e'
+      count: 167
+      percentage: 26.59
+    - 
+      transform: '-s'
+      count: 57
+      percentage: 9.08
+    - 
+      transform: '⸚e'
+      count: 40
+      percentage: 6.37
+    - 
+      transform: '-er'
+      count: 10
+      percentage: 1.59
+ - 
+   ending: ch
+   genus: m
+   totalCount: 930
+   maxPercentage: 53.44086021505376
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 497
+      percentage: 53.44
+    - 
+      transform: '⸚e'
+      count: 336
+      percentage: 36.13
+    - 
+      transform: '-en'
+      count: 61
+      percentage: 6.56
+    - 
+      transform: '⸚er'
+      count: 16
+      percentage: 1.72
+    - 
+      transform: '-s'
+      count: 14
+      percentage: 1.51
+ - 
+   ending: nd
+   genus: n
+   totalCount: 168
+   maxPercentage: 52.976190476190474
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 89
+      percentage: 52.98
+    - 
+      transform: '-er'
+      count: 59
+      percentage: 35.12
+    - 
+      transform: '-e'
+      count: 11
+      percentage: 6.55
+    - 
+      transform: '-s'
+      count: 5
+      percentage: 2.98
+    - 
+      transform: '-'
+      count: 2
+      percentage: 1.19
+ - 
+   ending: r
+   genus: f
+   totalCount: 872
+   maxPercentage: 49.42660550458716
+   transformFrequencies:
+    - 
+      transform: '-en'
+      count: 431
+      percentage: 49.43
+    - 
+      transform: '-n'
+      count: 365
+      percentage: 41.86
+    - 
+      transform: '⸚'
+      count: 31
+      percentage: 3.56
+    - 
+      transform: '-s'
+      count: 18
+      percentage: 2.06
+    - 
+      transform: '-'
+      count: 14
+      percentage: 1.61
+    - 
+      transform: '⸚e'
+      count: 12
+      percentage: 1.38
+ - 
+   ending: an
+   genus: m
+   totalCount: 233
+   maxPercentage: 48.06866952789699
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 112
+      percentage: 48.07
+    - 
+      transform: '⸚e'
+      count: 67
+      percentage: 28.76
+    - 
+      transform: '-s'
+      count: 33
+      percentage: 14.16
+    - 
+      transform: '-en'
+      count: 9
+      percentage: 3.86
+    - 
+      transform: '-an ⇒ -en'
+      count: 6
+      percentage: 2.58
+    - 
+      transform: '-'
+      count: 5
+      percentage: 2.15
+ - 
+   ending: b
+   genus: n
+   totalCount: 79
+   maxPercentage: 27.848101265822784
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 22
+      percentage: 27.85
+    - 
+      transform: '-ien'
+      count: 18
+      percentage: 22.78
+    - 
+      transform: '-en'
+      count: 15
+      percentage: 18.99
+    - 
+      transform: '-er'
+      count: 12
+      percentage: 15.19
+    - 
+      transform: '-e'
+      count: 9
+      percentage: 11.39
+    - 
+      transform: '-s'
+      count: 2
+      percentage: 2.53
+    - 
+      transform: '-'
+      count: 1
+      percentage: 1.27
+8:
+ - 
+   ending: z
+   genus: n
+   totalCount: 210
+   maxPercentage: 70.95238095238095
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 149
+      percentage: 70.95
+    - 
+      transform: '⸚er'
+      count: 50
+      percentage: 23.81
+    - 
+      transform: '-en'
+      count: 3
+      percentage: 1.43
+ - 
+   ending: i
+   genus: m
+   totalCount: 250
+   maxPercentage: 68.4
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 171
+      percentage: 68.40
+    - 
+      transform: '-'
+      count: 40
+      percentage: 16.00
+    - 
+      transform: '-e'
+      count: 29
+      percentage: 11.60
+    - 
+      transform: '-en'
+      count: 4
+      percentage: 1.60
+    - 
+      transform: '-m'
+      count: 3
+      percentage: 1.20
+ - 
+   ending: n
+   genus: n
+   totalCount: 1413
+   maxPercentage: 64.0481245576787
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 905
+      percentage: 64.05
+    - 
+      transform: '-e'
+      count: 322
+      percentage: 22.79
+    - 
+      transform: '-s'
+      count: 61
+      percentage: 4.32
+    - 
+      transform: '⸚er'
+      count: 51
+      percentage: 3.61
+    - 
+      transform: '-en'
+      count: 37
+      percentage: 2.62
+    - 
+      transform: '-on ⇒ -en'
+      count: 29
+      percentage: 2.05
+ - 
+   ending: l
+   genus: n
+   totalCount: 1103
+   maxPercentage: 61.74070716228468
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 681
+      percentage: 61.74
+    - 
+      transform: '-'
+      count: 268
+      percentage: 24.30
+    - 
+      transform: '-s'
+      count: 53
+      percentage: 4.81
+    - 
+      transform: '-n'
+      count: 38
+      percentage: 3.45
+    - 
+      transform: '-ien'
+      count: 34
+      percentage: 3.08
+    - 
+      transform: '⸚er'
+      count: 25
+      percentage: 2.27
+ - 
+   ending: h
+   genus: m
+   totalCount: 1070
+   maxPercentage: 52.52336448598131
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 562
+      percentage: 52.52
+    - 
+      transform: '⸚e'
+      count: 339
+      percentage: 31.68
+    - 
+      transform: '-en'
+      count: 112
+      percentage: 10.47
+    - 
+      transform: '-s'
+      count: 34
+      percentage: 3.18
+    - 
+      transform: '⸚er'
+      count: 16
+      percentage: 1.50
+ - 
+   ending: ar
+   genus: m
+   totalCount: 141
+   maxPercentage: 52.4822695035461
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 74
+      percentage: 52.48
+    - 
+      transform: '-s'
+      count: 32
+      percentage: 22.70
+    - 
+      transform: '-en'
+      count: 17
+      percentage: 12.06
+    - 
+      transform: '⸚e'
+      count: 7
+      percentage: 4.96
+    - 
+      transform: '-n'
+      count: 5
+      percentage: 3.55
+    - 
+      transform: '-'
+      count: 4
+      percentage: 2.84
+ - 
+   ending: e
+   genus: n
+   totalCount: 414
+   maxPercentage: 52.41545893719807
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 217
+      percentage: 52.42
+    - 
+      transform: '-s'
+      count: 110
+      percentage: 26.57
+    - 
+      transform: '-n'
+      count: 65
+      percentage: 15.70
+    - 
+      transform: '-e ⇒ -ien'
+      count: 15
+      percentage: 3.62
+ - 
+   ending: b
+   genus: m
+   totalCount: 262
+   maxPercentage: 52.29007633587786
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 137
+      percentage: 52.29
+    - 
+      transform: '⸚e'
+      count: 59
+      percentage: 22.52
+    - 
+      transform: '-s'
+      count: 53
+      percentage: 20.23
+    - 
+      transform: '-en'
+      count: 7
+      percentage: 2.67
+ - 
+   ending: m
+   genus: n
+   totalCount: 819
+   maxPercentage: 51.77045177045177
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 424
+      percentage: 51.77
+    - 
+      transform: '-um ⇒ -en'
+      count: 332
+      percentage: 40.54
+    - 
+      transform: '-s'
+      count: 27
+      percentage: 3.30
+    - 
+      transform: '⸚er'
+      count: 23
+      percentage: 2.81
+ - 
+   ending: d
+   genus: m
+   totalCount: 855
+   maxPercentage: 50.87719298245614
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 435
+      percentage: 50.88
+    - 
+      transform: '⸚e'
+      count: 255
+      percentage: 29.82
+    - 
+      transform: '-s'
+      count: 63
+      percentage: 7.37
+    - 
+      transform: '⸚er'
+      count: 51
+      percentage: 5.96
+    - 
+      transform: '-en'
+      count: 44
+      percentage: 5.15
+ - 
+   ending: d
+   genus: n
+   totalCount: 676
+   maxPercentage: 50.29585798816568
+   transformFrequencies:
+    - 
+      transform: '-er'
+      count: 340
+      percentage: 50.30
+    - 
+      transform: '⸚er'
+      count: 159
+      percentage: 23.52
+    - 
+      transform: '-e'
+      count: 125
+      percentage: 18.49
+    - 
+      transform: '-s'
+      count: 28
+      percentage: 4.14
+    - 
+      transform: '-en'
+      count: 17
+      percentage: 2.51
+9:
+ - 
+   ending: x
+   genus: m
+   totalCount: 63
+   maxPercentage: 68.25396825396825
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 43
+      percentage: 68.25
+    - 
+      transform: '-ex ⇒ -izes'
+      count: 6
+      percentage: 9.52
+    - 
+      transform: '-'
+      count: 5
+      percentage: 7.94
+    - 
+      transform: '-ex ⇒ -ices'
+      count: 3
+      percentage: 4.76
+    - 
+      transform: '⸚e'
+      count: 2
+      percentage: 3.17
+    - 
+      transform: '-x ⇒ -zes'
+      count: 1
+      percentage: 1.59
+    - 
+      transform: '-x ⇒ -kes'
+      count: 1
+      percentage: 1.59
+    - 
+      transform: '-es'
+      count: 1
+      percentage: 1.59
+    - 
+      transform: '-x ⇒ -gen'
+      count: 1
+      percentage: 1.59
+ - 
+   ending: t
+   genus: n
+   totalCount: 1814
+   maxPercentage: 64.11245865490629
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 1163
+      percentage: 64.11
+    - 
+      transform: '⸚er'
+      count: 300
+      percentage: 16.54
+    - 
+      transform: '-s'
+      count: 194
+      percentage: 10.69
+    - 
+      transform: '-er'
+      count: 100
+      percentage: 5.51
+    - 
+      transform: '-en'
+      count: 42
+      percentage: 2.32
+ - 
+   ending: r
+   genus: n
+   totalCount: 1038
+   maxPercentage: 51.348747591522155
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 533
+      percentage: 51.35
+    - 
+      transform: '-e'
+      count: 435
+      percentage: 41.91
+    - 
+      transform: '-s'
+      count: 37
+      percentage: 3.56
+    - 
+      transform: '-en'
+      count: 13
+      percentage: 1.25
+    - 
+      transform: '⸚'
+      count: 13
+      percentage: 1.25
+ - 
+   ending: g
+   genus: m
+   totalCount: 1583
+   maxPercentage: 49.52621604548326
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 784
+      percentage: 49.53
+    - 
+      transform: '⸚e'
+      count: 728
+      percentage: 45.99
+    - 
+      transform: '-s'
+      count: 50
+      percentage: 3.16
+ - 
+   ending: t
+   genus: m
+   totalCount: 2721
+   maxPercentage: 46.78427048879089
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 1273
+      percentage: 46.78
+    - 
+      transform: '-en'
+      count: 920
+      percentage: 33.81
+    - 
+      transform: '⸚e'
+      count: 293
+      percentage: 10.77
+    - 
+      transform: '-s'
+      count: 204
+      percentage: 7.50
+ - 
+   ending: k
+   genus: m
+   totalCount: 567
+   maxPercentage: 34.5679012345679
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 196
+      percentage: 34.57
+    - 
+      transform: '-s'
+      count: 174
+      percentage: 30.69
+    - 
+      transform: '-e'
+      count: 155
+      percentage: 27.34
+    - 
+      transform: '-en'
+      count: 32
+      percentage: 5.64
+    - 
+      transform: '-'
+      count: 6
+      percentage: 1.06
+10:
+ - 
+   ending: is
+   genus: f
+   totalCount: 161
+   maxPercentage: 36.64596273291925
+   transformFrequencies:
+    - 
+      transform: '-s ⇒ -den'
+      count: 59
+      percentage: 36.65
+    - 
+      transform: '-se'
+      count: 41
+      percentage: 25.47
+    - 
+      transform: '-is ⇒ -en'
+      count: 34
+      percentage: 21.12
+    - 
+      transform: '-'
+      count: 10
+      percentage: 6.21
+    - 
+      transform: '-is ⇒ -es'
+      count: 9
+      percentage: 5.59
+    - 
+      transform: '-s ⇒ -en'
+      count: 2
+      percentage: 1.24
+    - 
+      transform: '-s ⇒ -des'
+      count: 2
+      percentage: 1.24
+    - 
+      transform: '-is ⇒ -eis'
+      count: 2
+      percentage: 1.24
+12:
+ - 
+   ending: er
+   genus: m
+   totalCount: 5337
+   maxPercentage: 95.82162263443882
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 5114
+      percentage: 95.82
+    - 
+      transform: '-e'
+      count: 63
+      percentage: 1.18
+    - 
+      transform: '⸚'
+      count: 61
+      percentage: 1.14
+    - 
+      transform: '-s'
+      count: 55
+      percentage: 1.03
+ - 
+   ending: a
+   genus: f
+   totalCount: 652
+   maxPercentage: 59.355828220858896
+   transformFrequencies:
+    - 
+      transform: '-s'
+      count: 387
+      percentage: 59.36
+    - 
+      transform: '-a ⇒ -en'
+      count: 185
+      percentage: 28.37
+    - 
+      transform: '-e'
+      count: 37
+      percentage: 5.67
+    - 
+      transform: '-'
+      count: 18
+      percentage: 2.76
+    - 
+      transform: '⸚'
+      count: 8
+      percentage: 1.23
+13:
+ - 
+   ending: l
+   genus: m
+   totalCount: 1628
+   maxPercentage: 50.06142506142506
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 815
+      percentage: 50.06
+    - 
+      transform: '-e'
+      count: 274
+      percentage: 16.83
+    - 
+      transform: '⸚e'
+      count: 274
+      percentage: 16.83
+    - 
+      transform: '⸚'
+      count: 124
+      percentage: 7.62
+    - 
+      transform: '-s'
+      count: 65
+      percentage: 3.99
+    - 
+      transform: '-n'
+      count: 24
+      percentage: 1.47
+    - 
+      transform: '-al ⇒ ⸚le'
+      count: 24
+      percentage: 1.47
+    - 
+      transform: '-en'
+      count: 20
+      percentage: 1.23
+15:
+ - 
+   ending: n
+   genus: m
+   totalCount: 2178
+   maxPercentage: 32.55280073461892
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 709
+      percentage: 32.55
+    - 
+      transform: '-e'
+      count: 665
+      percentage: 30.53
+    - 
+      transform: '⸚'
+      count: 238
+      percentage: 10.93
+    - 
+      transform: '-s'
+      count: 211
+      percentage: 9.69
+    - 
+      transform: '⸚e'
+      count: 200
+      percentage: 9.18
+    - 
+      transform: '⸚er'
+      count: 103
+      percentage: 4.73
+    - 
+      transform: '-en'
+      count: 24
+      percentage: 1.10
+16:
+ - 
+   ending: s
+   genus: n
+   totalCount: 602
+   maxPercentage: 44.85049833887043
+   transformFrequencies:
+    - 
+      transform: '⸚er'
+      count: 270
+      percentage: 44.85
+    - 
+      transform: '-se'
+      count: 153
+      percentage: 25.42
+    - 
+      transform: '-e'
+      count: 97
+      percentage: 16.11
+    - 
+      transform: '-'
+      count: 45
+      percentage: 7.48
+17:
+ - 
+   ending: r
+   genus: m
+   totalCount: 6140
+   maxPercentage: 83.42019543973942
+   transformFrequencies:
+    - 
+      transform: '-'
+      count: 5122
+      percentage: 83.42
+    - 
+      transform: '-en'
+      count: 425
+      percentage: 6.92
+    - 
+      transform: '-e'
+      count: 351
+      percentage: 5.72
+    - 
+      transform: '-s'
+      count: 105
+      percentage: 1.71
+ - 
+   ending: s
+   genus: f
+   totalCount: 263
+   maxPercentage: 25.09505703422053
+   transformFrequencies:
+    - 
+      transform: '⸚e'
+      count: 66
+      percentage: 25.10
+    - 
+      transform: '-s ⇒ -den'
+      count: 59
+      percentage: 22.43
+    - 
+      transform: '-se'
+      count: 41
+      percentage: 15.59
+    - 
+      transform: '-is ⇒ -en'
+      count: 34
+      percentage: 12.93
+    - 
+      transform: '-'
+      count: 26
+      percentage: 9.89
+    - 
+      transform: '-en'
+      count: 10
+      percentage: 3.80
+    - 
+      transform: '-is ⇒ -es'
+      count: 9
+      percentage: 3.42
+    - 
+      transform: '-s ⇒ -en'
+      count: 3
+      percentage: 1.14
+    - 
+      transform: '-s ⇒ -des'
+      count: 3
+      percentage: 1.14
+    - 
+      transform: '-es'
+      count: 3
+      percentage: 1.14
+19:
+ - 
+   ending: s
+   genus: m
+   totalCount: 1232
+   maxPercentage: 38.311688311688314
+   transformFrequencies:
+    - 
+      transform: '-e'
+      count: 472
+      percentage: 38.31
+    - 
+      transform: '-us ⇒ -en'
+      count: 238
+      percentage: 19.32
+    - 
+      transform: '⸚e'
+      count: 230
+      percentage: 18.67
+    - 
+      transform: '-se'
+      count: 125
+      percentage: 10.15
+    - 
+      transform: '-'
+      count: 115
+      percentage: 9.33
