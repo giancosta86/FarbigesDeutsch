@@ -1,0 +1,32 @@
+---
+layout: page
+bodyClass: geNouns
+title: Ge- nouns
+excerpt: Gender and plural of the most common nouns starting with Ge-
+---
+
+<table>
+    <thead>
+        <tr>
+            <td></td>
+            <td>Plural</td>
+            <td>Gender</td>
+        </tr>
+    </thead>
+
+    <tbody>
+        {% assign sortedGeNouns = site.data.geNouns | sort %}
+        {% for entry in sortedGeNouns %}
+            <tr class="{{ entry[1].genus }}">
+                <td>
+                    <a
+                        href="http://www.wordreference.com/deen/{{ entry[0] }}"
+                    >{{ entry[0] }}</a>
+                </td>
+
+                <td>{{ entry[1].plural }}</td>
+                <td>{{ entry[1].genus }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>

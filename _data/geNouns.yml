@@ -1,0 +1,232 @@
+Gegenstand:
+  genus: "m"
+  plural: "⸚e"
+
+
+Gesicht:
+  genus: "n"
+  plural: "-er"
+
+
+Geräusch:
+  genus: "n"
+  plural: "-e"
+
+
+Geruch:
+  genus: "m"
+  plural: "⸚e"
+
+
+Gebäck:
+  genus: "n"
+
+
+Geflügel:
+  genus: "n"
+
+
+Gemüse:
+  genus: "n"
+
+
+Getränk:
+  genus: "n"
+  plural: "-e"
+
+
+Geschmack:
+  genus: "m"
+
+
+Gewürz:
+  genus: "n"
+  plural: "-e"
+
+
+Geschirr:
+  genus: "n"
+
+
+Gebäude:
+  genus: "n"
+  plural: "-"
+
+
+Gefühl:
+  genus: "n"
+  plural: "-e"
+
+
+Gefahr:
+  genus: "f"
+  plural: "-en"
+
+
+Gewissen:
+  genus: "n"
+
+
+Geist:
+  genus: "m"
+  plural: "-er"
+
+
+Gedanke:
+  genus: "m"
+  plural: "-n"
+
+
+Gegenteil:
+  genus: "n"
+  plural: "-e"
+
+
+Geheimnis:
+  genus: "n"
+  plural: "-se"
+
+
+Gerücht:
+  genus: "n"
+  plural: "-e"
+
+
+Gespräch:
+  genus: "n"
+  plural: "-e"
+
+
+Geburt:
+  genus: "f"
+  plural: "-en"
+
+
+Gebiet:
+  genus: "n"
+  plural: "-e"
+
+
+Gemeinde:
+  genus: "f"
+  plural: "-n"
+
+
+Gewehr:
+  genus: "n"
+  plural: "-e"
+
+
+Gewalt:
+  genus: "f"
+  plural: "-en"
+
+
+Gericht:
+  genus: "n"
+  plural: "-e"
+
+
+Gesetz:
+  genus: "n"
+  plural: "-e"
+
+
+Gefängnis:
+  genus: "n"
+  plural: "-se"
+
+
+Geschichte:
+  genus: "f"
+  plural: "-n"
+
+
+Gerät:
+  genus: "n"
+  plural: "-e"
+
+
+Geschäft:
+  genus: "n"
+  plural: "-e"
+
+
+Gewicht:
+  genus: "n"
+  plural: "-e"
+
+
+Geld:
+  genus: "n"
+
+
+Gehalt:
+  genus: "n"
+  plural: "⸚er"
+
+
+Gewinn:
+  genus: "m"
+  plural: "-e"
+
+
+Geschenk:
+  genus: "n"
+  plural: "-e"
+
+
+Gepäck:
+  genus: "n"
+
+
+Gegner:
+  genus: "m"
+  plural: "-"
+
+
+Geige:
+  genus: "f"
+  plural: "-n"
+
+
+Gemälde:
+  genus: "n"
+  plural: "-"
+
+
+Gedicht:
+  genus: "n"
+  plural: "-e"
+
+
+Gewitter:
+  genus: "n"
+  plural: "-"
+
+
+Gebirge:
+  genus: "n"
+  plural: "-"
+
+
+Gegend:
+  genus: "f"
+  plural: "-en"
+
+
+Getreide:
+  genus: "n"
+
+
+Gedächtnis:
+  genus: "n"
+  plural: "-se"
+
+
+Gegenwart:
+  genus: "f"
+
+
+Geduld:
+  genus: "f"
